@@ -1,0 +1,91 @@
+.navbar {
+  background-color: #fff !important;
+  border-color: #fff;
+  margin-bottom: 20px;
+  margin-top: 20px; }
+
+blockquote {
+  border-left: 1px solid #ff5252; }
+
+body {
+  font-family: "Brandon Grotesque", Arial;
+  background-color: #fff;
+  color: #272727; }
+
+#subscribe {
+  width: 500px; }
+  #subscribe .btn {
+    width: 50%;
+    background-color: #ff5252;
+    color: white;
+    margin: 50px;
+    margin-left: 110px; }
+
+#contacts {
+  width: 500px; }
+  #contacts .btn {
+    background-color: #ff5252;
+    color: white;
+    margin: 50px;
+    margin-left: 110px;
+    width: 50%; }
+
+.logo {
+  background-color: #ff5252;
+  color: white !important; }
+
+#search {
+  text-decoration: none; }
+  #search .btn {
+    border-radius: 0rem !important;
+    background-color: #ff5252;
+    color: white; }
+  #search .btn:hover {
+    background-color: #000; }
+
+.active {
+  background-color: #ff5252 !important;
+  color: white !important; }
+
+.active:hover {
+  background-color: black !important;
+  color: white !important; }
+
+#labels {
+  text-align: center;
+  margin: 40px;
+  border-bottom: 1px solid #ff5252; }
+  #labels .btn-group {
+    margin: 10px;
+    padding: 21px;
+    color: white !important; }
+  #labels a {
+    color: #272727 !important;
+    font-size: 20px;
+    text-decoration: none; }
+  #labels a:hover {
+    color: white !important;
+    background-color: #ff5252; }
+
+#social {
+  text-align: center;
+  text-decoration: none;
+  margin-right: 60px;
+  margin-bottom: 40px;
+  margin-top: 40px; }
+  #social .button {
+    position: relative;
+    padding: 15px;
+    margin: 5px;
+    border-radius: 0rem; }
+  #social .facebook {
+    background-color: blue;
+    color: white; }
+  #social .instagram {
+    background-color: orange;
+    color: white; }
+  #social .youtube {
+    background-color: #ff5252;
+    color: white; }
+
+/*# sourceMappingURL=stylescss.css.map */

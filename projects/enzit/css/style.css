@@ -1,0 +1,386 @@
+@font-face {
+  font-family: "Brandon";
+  src: url(../fonts/Brandon_light.otf) format("truetype");
+}
+
+body {
+  height: 100%;
+  width: 100%;
+  font-family: "Brandon", Helvetica, sans-serif !important;
+}
+
+h1 {
+  letter-spacing: 6px !important;
+}
+
+.navbar-default {
+  background-color: transparent;
+  border-color: transparent;
+}
+
+.navbar-default .navbar-toggle {
+  border-color: transparent;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+  background-color: #fff;
+}
+
+.navbar-default .navbar-brand {
+  color: #fff;
+}
+
+.navbar-default .navbar-nav li a {
+  color: #fff;
+  font-size: 16px;
+}
+
+.button {
+  box-shadow: 5px 5px 5px #3c3c3c;
+  border: none;
+  border-radius: 4px;
+  outline: none;
+  font-weight: 800;
+  text-decoration: none;
+  color: #6A60FF;
+  text-align: center;
+  padding: .8em 2em;
+  text-decoration: none;
+}
+
+.button_highlight {
+  background: #fcfffd;
+}
+
+.button_secondary {
+  background: rgba(250, 250, 250, 0.35);
+}
+
+.button_small {
+  padding: .6rem 1.5rem;
+}
+
+.button_large {
+  padding: 1rem 5rem;
+  font-size: 1.35rem;
+}
+
+header {
+  position: relative;
+  width: 100%;
+  min-height: auto;
+  overflow-y: hidden;
+  margin: 0 auto;
+  background: url(../img/main.png);
+  background-repeat: no-repeat;
+  filter: grayscale(10%) contrast(1);
+  background-size: cover;
+  color: #fff;
+}
+
+header .header-content-inner {
+  margin-bottom: 150px;
+}
+
+header .header-content {
+  margin-top: 165px;
+  font-family: Brandon;
+}
+
+header .header-content h1 {
+  letter-spacing: 6px !important;
+  line-height: 100%;
+  font-family: Brandon;
+  font-size: 55px;
+}
+
+header .header-content p {
+  font-size: 18px;
+  margin-bottom: 30px;
+  color: #fcfffd;
+}
+
+header .header-content a {
+  text-decoration: none;
+  color: #6B5EFF;
+  font-weight: 700;
+  font-family: Brandon;
+}
+
+header nav {
+  padding: 10px;
+}
+
+header nav .menu {
+  font-weight: 550;
+  float: left;
+  margin-left: -40px;
+  margin-top: 50px;
+}
+
+header nav .menu a {
+  text-decoration: none;
+  margin-left: 2rem;
+}
+
+header nav .menu a:hover {
+  color: #d8ff00;
+}
+
+header nav .menu img {
+  margin-bottom: 7px;
+}
+
+header nav a {
+  font-family: Brandon;
+  color: #ffffff;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+#connect {
+  width: 100%;
+  min-height: auto;
+  overflow-y: hidden;
+  margin: 0 auto;
+  word-wrap: break-word;
+  position: relative;
+  background: #fff;
+  filter: grayscale(10%) contrast(1);
+  background-size: cover;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+#connect .con_phone h1 {
+  font-size: 40px;
+  font-weight: 800;
+  color: #6B5EFF;
+}
+
+#connect .con_phone h4 {
+  color: #6B5EFF;
+}
+
+#connect .con_phone p {
+  color: #5d737e;
+  font-weight: 700;
+  font-size: 15px;
+}
+
+#works {
+  width: 100%;
+  overflow-y: hidden;
+  margin: 0 auto;
+  background: url(../img/bg_section_two.png);
+  filter: grayscale(10%) contrast(1);
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+#works .work_head h1 {
+  color: #6B5EFF;
+  font-weight: 800;
+  font-size: 35px;
+}
+
+#works .work_head p {
+  font-weight: 700;
+  font-size: 18px;
+}
+
+#play {
+  width: 100%;
+  margin: 0 auto;
+  background: url(../img/play.png);
+  filter: grayscale(10%) contrast(1);
+  text-align: center;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+#play .contain {
+  padding: 70px;
+}
+
+#play .contain h1 {
+  color: #ffffff;
+  font-weight: 700;
+  font-size: 30px;
+}
+
+#play .contain p {
+  color: #ffffff;
+  font-weight: 700;
+  padding: 30px;
+  font-size: medium;
+}
+
+#play .contain a {
+  text-decoration: none;
+  font-weight: 700;
+  color: #6B5EFF;
+}
+
+#stories {
+  width: 100%;
+  margin: 0 auto;
+  filter: grayscale(10%) contrast(1);
+  background-color: #fbfaff;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+#stories .button {
+  background-color: #6B5EFF;
+  color: #ffffff;
+}
+
+#stories .fa {
+  color: #757474;
+  margin: 16px;
+}
+
+#stories .left {
+  background: linear-gradient(to right, rgba(0, 0, 0, 0.0001) 0, rgba(255, 255, 255, 0.5) 100%);
+}
+
+#stories .right {
+  background: linear-gradient(to right, rgba(0, 0, 0, 0.0001) 0, rgba(255, 255, 255, 0.5) 100%);
+}
+
+#stories .carousel-control {
+  color: #fff;
+  border-radius: 30px;
+  box-shadow: 5px 5px 5px #b5a9a9;
+  position: absolute;
+  margin: 150px -80px;
+  width: 50px;
+  height: 50px;
+  opacity: .9;
+}
+
+#stories .item {
+  padding: 20px;
+}
+
+#stories .item h1 {
+  color: #6B5EFF;
+  font-weight: 800;
+  font-size: 35px;
+}
+
+#stories .item a {
+  text-decoration: none;
+  font-weight: 700;
+  color: #ffffff;
+  text-transform: uppercase;
+}
+
+#stories .item p {
+  font-weight: 700;
+  font-size: 18px;
+  color: #5d737e;
+}
+
+#stories .item blockquote {
+  border-left: 0px;
+}
+
+#stories .item blockquote small {
+  font-weight: 900;
+  font-size: 25px;
+  color: #6B5EFF;
+}
+
+#get_started {
+  width: 100%;
+  margin: 0 auto;
+  background: url(../img/living_room.png);
+  filter: grayscale(10%) contrast(1);
+  background-repeat: no-repeat;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+#get_started .room h1 {
+  font-weight: 700;
+  font-size: 35px;
+  color: #6B5EFF;
+}
+
+#get_started .room p {
+  margin: 50px 50px 50px 0px;
+  font-weight: 700;
+  font-size: 15px;
+  color: #5d737e;
+}
+
+#get_started .button {
+  color: white;
+  background-color: #000;
+  text-decoration: none;
+  margin: 5px;
+  background-color: #000;
+}
+
+#get_started .button a {
+  text-decoration: none;
+  margin: 20px;
+  color: #fff;
+  text-decoration: none;
+  font-weight: 700;
+}
+
+#get_started button:hover {
+  background-color: #6B5EFF;
+}
+
+#logo_s {
+  background-color: #fbfaff;
+}
+
+#footer {
+  width: 100%;
+  margin: 0 auto;
+  background: url(../img/play.png);
+  filter: grayscale(10%) contrast(1);
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+#footer .container img {
+  width: 76px;
+  height: 40px;
+}
+
+#footer .container .logos_1 .fa {
+  color: white;
+  margin-left: 15px;
+  font-size: 25px;
+}
+
+#footer .container .logos_1 .fa:hover {
+  color: #b9c3c7;
+}
+
+#footer .container .head_top {
+  color: white;
+  font-weight: 700;
+  font-size: 18px;
+}
+
+#footer .container li {
+  list-style-type: none;
+  margin-top: 15px;
+}
+
+#footer .container a {
+  color: #b9c3c7;
+  text-decoration: none;
+  font-weight: 700;
+}
+
+#footer .container a:hover {
+  color: white;
+}
