@@ -253,7 +253,9 @@ img {
     animation-delay: -2s
 }
 .portfolio-item {
-    background-color: #fff
+    background-color: rgba(255, 255, 255, 0);
+    padding: 10px;
+    border: 1px solid;
 }
 .intro-header-about {
     color: white;
