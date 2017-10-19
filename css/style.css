@@ -193,7 +193,7 @@ img {
     filter: grayscale(5%) contrast(1)
 }
 .btn {
-    box-shadow: 5px 5px 5px black;
+    
     background-color: #000;
     border-color: yellow;
     width: 100%
