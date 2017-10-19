@@ -188,7 +188,7 @@ body {
     }
 }
 img {
-    box-shadow: 5px 5px 5px black;
+    box-shadow: 0px 0px 0px 1px black;
     -webkit-filter: grayscale(5%) contrast(1);
     filter: grayscale(5%) contrast(1)
 }
