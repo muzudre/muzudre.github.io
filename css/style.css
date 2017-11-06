@@ -3,12 +3,18 @@
   box-sizing: border-box; }
 
 body {
-  font-family: "helvetica";
+  font-family: 'Questrial', sans-serif;
   -webkit-font-smoothing: antialiased; }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Impact";
-  font-weight: 400; }
+  font-family: 'Abril Fatface', cursive;
+  font-weight: 700; }
+
+.btn {
+  text-decoration: none;
+  color: #ea48eb;
+  font-weight: 700;
+  padding-bottom: 1em; }
 
 .cf:before, cf:after {
   content: "";
@@ -19,24 +25,21 @@ h1, h2, h3, h4, h5, h6 {
 
 .wrapper {
   width: 1000px;
-  max-width: 100%;
+  max-width: 96%;
   margin: 0 auto; }
 
 .banner {
-  padding: 5em 0;
-  padding-bottom: 20em; }
+  padding: 3em 0;
+  padding-bottom: 22em; }
   .banner .logo {
     float: left; }
   .banner h1 {
     color: #414148;
     text-align: right;
-    font-size: 5em;
+    font-size: 6em;
     display: inline;
     float: right;
     margin: 0; }
-  .banner .cont {
-    background-color: rgba(80, 216, 93, 0.6);
-    border-radius: 100%; }
   .banner .cont_work {
     background-color: rgba(145, 89, 219, 0.6);
     border-radius: 100%; }
@@ -50,7 +53,7 @@ h1, h2, h3, h4, h5, h6 {
   text-align: center;
   color: #ffffff;
   font-size: 1.1em;
-  font-family: "Impact"; }
+  font-family: 'Abril Fatface', cursive; }
 
 .row {
   width: 100%;
@@ -91,11 +94,14 @@ h1, h2, h3, h4, h5, h6 {
   .work .card_full {
     width: 100%; }
   .work .card_third {
-    width: 80%;
+    width: 60%;
     float: left; }
   .work .card_half {
     width: 48.5%;
     float: left; }
+  .work .card_20 {
+    width: 37%;
+    float: right; }
   .work .left {
     margin-right: 1.5%; }
   .work .right {
@@ -104,7 +110,7 @@ h1, h2, h3, h4, h5, h6 {
     display: table-cell;
     vertical-align: middle;
     height: 100%;
-    padding: 1.5em 12%;
+    padding: 1.5em 7%;
     color: #ffffff; }
     .work .card_inner p {
       font-size: 1em;
@@ -123,23 +129,10 @@ h1, h2, h3, h4, h5, h6 {
     background: rgba(145, 89, 219, 0.6); }
   .work .blue {
     background: rgba(131, 226, 245, 0.7); }
-  .work .test {
-    background: #5a59de; }
-  .work .view-more {
-    width: 20%;
-    float: left;
-    height: 450px;
-    padding-left: 3em; }
-    .work .view-more p {
-      font-size: 1.25em;
-      font-weight: 700;
-      line-height: 450px;
-      margin: 0;
-      color: #9292ab; }
-    .work .view-more a {
-      text-decoration: none; }
-      .work .view-more a:hover p {
-        color: #ea48eb; }
+  .work .red {
+    background: rgba(216, 80, 80, 0.6); }
+  .work .grey {
+    background-color: rgba(0, 0, 0, 0.6); }
   .work .pinks {
     color: #ea48eb; }
 
@@ -154,9 +147,9 @@ footer {
     margin: 0;
     padding-top: 1em; }
     footer ul li {
-      display: inline;
-      float: left;
-      margin-left: 4em; }
+      display: block;
+      margin: 0 auto;
+      text-align: center; }
       footer ul li .title {
         text-transform: uppercase;
         font-weight: 700;
@@ -171,3 +164,69 @@ footer {
           text-decoration: none; }
           footer ul li .links a:hover {
             color: #ea48eb; }
+
+@media only screen and (max-width: 768px) {
+  .banner {
+    padding: 2em 16px 0px 43px;
+    padding-bottom: 14em; }
+    .banner h1 {
+      font-size: 4em; }
+  .logo {
+    background: #414148; }
+  .row {
+    margin-bottom: 1em; }
+    .row:before, .row:after {
+      content: "";
+      display: table; }
+    .row:after {
+      clear: both; }
+  .work {
+    padding: 1em 0; }
+    .work .tall {
+      height: 281px; }
+    .work .card_1 {
+      background-image: url("../images/street_workout.png");
+      background-size: 100%;
+      background-position: 75px 4px; }
+    .work .card_2 {
+      background-image: url("../images/ibanding.png");
+      background-size: 100%;
+      background-position: 75px 4px; }
+    .work .card_3 {
+      background-image: url("../images/ebooks.png");
+      background-size: 100%;
+      background-position: 75px 4px; }
+    .work .card_4 {
+      background-image: url("../images/ibanding.png");
+      background-size: 100%;
+      background-position: 75px 4px; }
+    .work .left {
+      margin-right: 1.5%; }
+    .work .right {
+      margin-left: 1.5%; }
+    .work .card_inner h2 {
+      font-size: 2em; }
+    .work .pinks {
+      color: #ea48eb; } }
+
+@media only screen and (max-width: 575px) {
+  .row {
+    margin-bottom: 0; }
+  .banner {
+    padding-bottom: 9em; }
+    .banner h1 {
+      font-size: 3em; }
+  .logo {
+    display: none; }
+  .work {
+    padding: 1em 0; }
+    .work .tall {
+      height: 200px; }
+    .work .left {
+      margin-right: 0%; }
+    .work .right {
+      margin-left: 0%; }
+    .work .card_half {
+      width: 100%;
+      float: none;
+      margin-bottom: 5px; } }
