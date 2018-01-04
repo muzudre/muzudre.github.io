@@ -215,7 +215,7 @@ footer {
   .banner {
     padding-bottom: 9em; }
     .banner h1 {
-      font-size: 3em; }
+      font-size: 2em; }
   .logo {
     display: none; }
   .work {
@@ -230,3 +230,19 @@ footer {
       width: 100%;
       float: none;
       margin-bottom: 5px; } }
+.about{
+  text-decoration: none;
+    color: #ea48eb;
+}
+.main_title{
+  color: white;
+      font-weight: 500;
+}
+.main_parag{
+  color: white;
+}
+.small_title{
+  color: #ea48eb;
+    font-weight: 100;
+    list-style-type: none;
+}
