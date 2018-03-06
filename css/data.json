@@ -1,0 +1,21 @@
+[
+	{
+		"name":"Eloquent JavaScript, Second Edition - A Modern Introduction to Programming",
+		"author":"No Starch Press",
+		"desc":"A book about JavaScript, programming, and the wonders of the digital.",
+		"cover":"img/1-cover.jpg",
+		"link_download":"src/pdf/web/csspro1.pdf",
+		"license":"Creative Commons Attribution-NonCommercial 3.0 Unported",
+		"link_read": "src/pdf/web/viewer.html?file=http://gahp.net/wp-content/uploads/2017/09/sample.pdf"
+	},
+	{
+		"name":"Learning JavaScript Design Patterns (Version 1.62)",
+		"author": "O’Reilly Media, Inc.",
+		"desc":"With Learning JavaScript Design Patterns, you will learn how to write beautiful, structured, and maintainable JavaScript by applying classical and modern design patterns to the language.",
+		"cover":"img/1-cover.jpg",
+		"link_download": "src/pdf/web/htmlcssant1.pdf",
+		"license":"Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported",
+		"link_read": "https://addyosmani.com/resources/essentialjsdesignpatterns/book/"
+		
+	}
+]
