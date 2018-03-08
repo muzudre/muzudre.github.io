@@ -1,0 +1,38 @@
+[
+{
+"name": "Eloquent JavaScript, Second Edition - A Modern Introduction to Programming",
+"author": "No Starch Press",
+"desc": "A book about JavaScript, programming, and the wonders of the digital.",
+"cover": "http://eloquentjavascript.net/img/cover.jpg",
+"link_download": "http://eloquentjavascript.net/Eloquent_JavaScript.pdf",
+"license": "Creative Commons Attribution-NonCommercial 3.0 Unported",
+"link_read": "http://eloquentjavascript.net/Eloquent_JavaScript.pdf"
+},
+{
+"name": "Learning JavaScript Design Patterns (Version 1.62)",
+"author": "O’Reilly Media, Inc.",
+"desc": "With Learning JavaScript Design Patterns, you will learn how to write beautiful, structured, and maintainable JavaScript by applying classical and modern design patterns to the language.",
+"cover": "https://addyosmani.com/resources/essentialjsdesignpatterns/cover/cover.jpg",
+"link_download": "http://www.reedbushey.com/55Learning%20%20Javascript%20Design%20Patterns.pdf",
+"license": "Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported",
+"link_read": "http://eloquentjavascript.net/Eloquent_JavaScript.pdf"
+},
+{
+"name": "Learning JavaScript Design Patterns (Version 1.62)",
+"author": "O’Reilly Media, Inc.",
+"desc": "With Learning JavaScript Design Patterns, you will learn how to write beautiful, structured, and maintainable JavaScript by applying classical and modern design patterns to the language.",
+"cover": "https://addyosmani.com/resources/essentialjsdesignpatterns/cover/cover.jpg",
+"link_download": "http://www.reedbushey.com/55Learning%20%20Javascript%20Design%20Patterns.pdf",
+"license": "Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported",
+"link_read": "http://eloquentjavascript.net/Eloquent_JavaScript.pdf"
+},
+{
+"name": "Learning JavaScript Design Patterns (Version 1.62)",
+"author": "O’Reilly Media, Inc.",
+"desc": "With Learning JavaScript Design Patterns, you will learn how to write beautiful, structured, and maintainable JavaScript by applying classical and modern design patterns to the language.",
+"cover": "https://addyosmani.com/resources/essentialjsdesignpatterns/cover/cover.jpg",
+"link_download": "http://www.reedbushey.com/55Learning%20%20Javascript%20Design%20Patterns.pdf",
+"license": "Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported",
+"link_read": "http://eloquentjavascript.net/Eloquent_JavaScript.pdf"
+}
+]
