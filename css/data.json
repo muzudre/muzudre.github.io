@@ -26,5 +26,138 @@
 	"cover": "http://www.freetechbooks.com/uploads/1458476847-4120975FZML._SX380_BO1,204,203,200_.jpg",
 	"license": "Open Publication License",
 	"link_read": "http://ruby-doc.com/docs/ProgrammingRuby/"
+	},
+	{
+	"name": "Creating Applications with Mozilla",
+	"author": "O’Reilly Media, Inc.",
+	"cover": "http://www.freetechbooks.com/uploads/1458368001-517+aaQD+9L._SX376_BO1,204,203,200_.jpg",
+	"license": "Open Publication License",
+	"link_read": "http://books.mozdev.org/chapters/"
+	},
+	{
+	"name": "Gimp User's Manual",
+	"author": "The Coriolis Group", 
+	"cover": "http://www.freetechbooks.com/uploads/1468461480-9781434103314_p0_v1_s260x420.JPG",
+	"license": "Open Publication License",
+	"link_read": "https://docs.gimp.org/"
+	},
+	{
+	"name": "Automate the Boring Stuff with Python: Practical Programming for Total Beginners",
+	"author": "No Starch Press",
+	"cover": "http://www.freetechbooks.com/uploads/1460950042-51f0jmofBCL._SX376_BO1,204,203,200_.jpg",
+	"license": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported",
+	"link_read": "https://automatetheboringstuff.com/"
+	},
+	{
+	"name": "Dive Into Python 3",
+	"author": "APress",
+	"cover": "http://www.freetechbooks.com/uploads/1463736581-51iHvwhsNHL._SX376_BO1,204,203,200_.jpg",
+	"license": "Creative Commons Attribution-ShareAlike 3.0 Unported",
+	"link_read": "http://getpython3.com/diveintopython3/"
+	},
+	{
+	"name": "Invent Your Own Computer Games with Python, 3rd Edition",
+	"author": "CreateSpace Independent Publishing Platform",
+	"cover": "http://www.freetechbooks.com/uploads/1460950736-51+HQ237EdL._SX398_BO1,204,203,200_.jpg",
+	"license": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported",
+	"link_read": "http://inventwithpython.com/chapters/"
+	},
+	{
+	"name": "Making Games with Python & Pygame",
+	"author": "CreateSpace Independent Publishing Platform",
+	"cover": "http://www.freetechbooks.com/uploads/1460951000-41JdefejviL._SX398_BO1,204,203,200_.jpg",
+	"license": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported",
+	"link_read": "http://inventwithpython.com/pygame/chapters/"
+	},
+	{
+	"name": "Natural Language Processing with Python: Analyzing Text with the Natural Language Toolkit",
+	"author": "O’Reilly Media, Inc.",
+	"cover": "http://www.freetechbooks.com/uploads/1464171663-51j6JCrBd-L._SX379_BO1,204,203,200_.jpg",
+	"license": "Creative Commons Attribution-NonCommercial-NoDerivs 3.0 United States",
+	"link_read": "http://www.nltk.org/book/"
+	},
+	{
+	"name": "Problem Solving with Algorithms and Data Structures using Python",
+	"author": "Franklin, Beedle & Associates",
+	"cover": "http://www.freetechbooks.com/uploads/1477556606-51YORtBDG4L._SX405_BO1,204,203,200_.jpg",
+	"license": "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International",
+	"link_read": "https://www.cs.auckland.ac.nz/courses/compsci105ssc/resources/ProblemSolvingwithAlgorithmsandDataStructures.pdf"
+	},
+	{
+	"name": "Learn Python, Break Python: A Beginner's Guide to Programming",
+	"author": "n/a",
+	"cover": "http://learnpythonbreakpython.com/cover.jpg",
+	"license": "n/a",
+	"link_read": "http://learnpythonbreakpython.com/"
+	},
+	{
+	"name": "Programming Computer Vision with Python",
+	"author": "O’Reilly Media, Inc.",
+	"cover": "http://www.freetechbooks.com/uploads/1464170354-51a-NURM4tL._SX377_BO1,204,203,200_.jpg",
+	"license": "Creative Commons Attribution-NonCommercial-NoDerivs 3.0 United States",
+	"link_read": "http://programmingcomputervision.com/"
+	},
+	{
+	"name": "Snake Wrangling for Kids, Learning to Program with Python",
+	"author": "n/a",
+	"cover": "http://www.freetechbooks.com/uploads/1464169095-cover-windows-tn.png",
+	"license": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0 New Zealand",
+	"link_read": "http://www.briggs.net.nz/snake-wrangling-for-kids.html"
+	},
+	{
+	"name": "",
+	"author": "",
+	"cover": "",
+	"license": "",
+	"link_read": ""
+	},
+	{
+	"name": "",
+	"author": "",
+	"cover": "",
+	"license": "",
+	"link_read": ""
+	},
+	{
+	"name": "",
+	"author": "",
+	"cover": "",
+	"license": "",
+	"link_read": ""
+	},
+	{
+	"name": "",
+	"author": "",
+	"cover": "",
+	"license": "",
+	"link_read": ""
+	},
+	{
+	"name": "",
+	"author": "",
+	"cover": "",
+	"license": "",
+	"link_read": ""
+	},
+	{
+	"name": "",
+	"author": "",
+	"cover": "",
+	"license": "",
+	"link_read": ""
+	},
+	{
+	"name": "",
+	"author": "",
+	"cover": "",
+	"license": "",
+	"link_read": ""
+	},
+	{
+	"name": "",
+	"author": "",
+	"cover": "",
+	"license": "",
+	"link_read": ""
 	}
 ]
