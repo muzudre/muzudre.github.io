@@ -3,7 +3,7 @@
 	"id": 1,
 	"name": "Eloquent JavaScript, Second Edition - A Modern Introduction to Programming",
 	"author": "No Starch Press",
-	"cover": "http://eloquentjavascript.net/img/cover.jpg",
+	"cover": "https://muzudre.github.io/books/cover/cover1.jpg",
 	"license": "Creative Commons Attribution-NonCommercial 3.0 Unported",
 	"link_read": "http://eloquentjavascript.net/Eloquent_JavaScript.pdf"
 	},
@@ -11,7 +11,7 @@
 	"id": 2,
 	"name": "Learning JavaScript Design Patterns (Version 1.62)",
 	"author": "O’Reilly Media, Inc.",
-	"cover": "https://addyosmani.com/resources/essentialjsdesignpatterns/cover/cover.jpg",
+	"cover": "https://muzudre.github.io/books/cover/cover2.jpg",
 	"license": "Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported",
 	"link_read": "https://addyosmani.com/resources/essentialjsdesignpatterns/book/"
 	},
@@ -19,7 +19,7 @@
 	"id": 3,
 	"name": "Linux Network Administrator's Guide, 2nd Edition",
 	"author": "O’Reilly Media, Inc.",
-	"cover": "http://www.freetechbooks.com/uploads/1461282147-511xUC5GroL._SX379_BO1,204,203,200_.jpg",
+	"cover": "https://muzudre.github.io/books/cover/cover3.jpg",
 	"license": "Open Publication License",
 	"link_read": "http://www.oreilly.com/openbook/linag2/book/ch01.html"
 	},
@@ -27,7 +27,7 @@
 	"id": 4,
 	"name": "Programming Ruby, The Pragmatic Programmer's Guide",
 	"author": "Addison-Wesley Longman, Inc",
-	"cover": "http://www.freetechbooks.com/uploads/1458476847-4120975FZML._SX380_BO1,204,203,200_.jpg",
+	"cover": "https://muzudre.github.io/books/cover/cover4.jpg",
 	"license": "Open Publication License",
 	"link_read": "http://ruby-doc.com/docs/ProgrammingRuby/"
 	},
@@ -35,7 +35,7 @@
 	"id": 5,
 	"name": "Creating Applications with Mozilla",
 	"author": "O’Reilly Media, Inc.",
-	"cover": "http://www.freetechbooks.com/uploads/1458368001-517+aaQD+9L._SX376_BO1,204,203,200_.jpg",
+	"cover": "https://muzudre.github.io/books/cover/cover5.jpg",
 	"license": "Open Publication License",
 	"link_read": "http://books.mozdev.org/chapters/"
 	},
@@ -43,7 +43,7 @@
 	"id": 6,
 	"name": "Gimp User's Manual",
 	"author": "The Coriolis Group", 
-	"cover": "http://www.freetechbooks.com/uploads/1468461480-9781434103314_p0_v1_s260x420.JPG",
+	"cover": "https://muzudre.github.io/books/cover/cover6.jpg",
 	"license": "Open Publication License",
 	"link_read": "https://docs.gimp.org/"
 	},
@@ -51,7 +51,7 @@
 	"id": 7,
 	"name": "Automate the Boring Stuff with Python: Practical Programming for Total Beginners",
 	"author": "No Starch Press",
-	"cover": "http://www.freetechbooks.com/uploads/1460950042-51f0jmofBCL._SX376_BO1,204,203,200_.jpg",
+	"cover": "https://muzudre.github.io/books/cover/cover7.jpg",
 	"license": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported",
 	"link_read": "https://automatetheboringstuff.com/"
 	},
@@ -59,7 +59,7 @@
 	"id": 8,
 	"name": "Dive Into Python 3",
 	"author": "APress",
-	"cover": "http://www.freetechbooks.com/uploads/1463736581-51iHvwhsNHL._SX376_BO1,204,203,200_.jpg",
+	"cover": "https://muzudre.github.io/books/cover/cover8.jpg",
 	"license": "Creative Commons Attribution-ShareAlike 3.0 Unported",
 	"link_read": "http://getpython3.com/diveintopython3/"
 	},
@@ -67,7 +67,7 @@
 	"id": 9,
 	"name": "Invent Your Own Computer Games with Python, 3rd Edition",
 	"author": "CreateSpace Independent Publishing Platform",
-	"cover": "http://www.freetechbooks.com/uploads/1460950736-51+HQ237EdL._SX398_BO1,204,203,200_.jpg",
+	"cover": "https://muzudre.github.io/books/cover/cover9.jpg",
 	"license": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported",
 	"link_read": "http://inventwithpython.com/chapters/"
 	},
@@ -75,7 +75,7 @@
 	"id": 10,
 	"name": "Making Games with Python & Pygame",
 	"author": "CreateSpace Independent Publishing Platform",
-	"cover": "http://www.freetechbooks.com/uploads/1460951000-41JdefejviL._SX398_BO1,204,203,200_.jpg",
+	"cover": "https://muzudre.github.io/books/cover/cover10.jpg",
 	"license": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported",
 	"link_read": "http://inventwithpython.com/pygame/chapters/"
 	},
@@ -83,7 +83,7 @@
 	"id": 11,
 	"name": "Natural Language Processing with Python: Analyzing Text with the Natural Language Toolkit",
 	"author": "O’Reilly Media, Inc.",
-	"cover": "http://www.freetechbooks.com/uploads/1464171663-51j6JCrBd-L._SX379_BO1,204,203,200_.jpg",
+	"cover": "https://muzudre.github.io/books/cover/cover11.jpg",
 	"license": "Creative Commons Attribution-NonCommercial-NoDerivs 3.0 United States",
 	"link_read": "http://www.nltk.org/book/"
 	},
@@ -91,7 +91,7 @@
 	"id": 12,
 	"name": "Problem Solving with Algorithms and Data Structures using Python",
 	"author": "Franklin, Beedle & Associates",
-	"cover": "http://www.freetechbooks.com/uploads/1477556606-51YORtBDG4L._SX405_BO1,204,203,200_.jpg",
+	"cover": "https://muzudre.github.io/books/cover/cover12.jpg",
 	"license": "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International",
 	"link_read": "https://www.cs.auckland.ac.nz/courses/compsci105ssc/resources/ProblemSolvingwithAlgorithmsandDataStructures.pdf"
 	},
@@ -99,7 +99,7 @@
 	"id": 13,
 	"name": "Learn Python, Break Python: A Beginner's Guide to Programming",
 	"author": "n/a",
-	"cover": "http://learnpythonbreakpython.com/cover.jpg",
+	"cover": "https://muzudre.github.io/books/cover/cover13.jpg",
 	"license": "n/a",
 	"link_read": "http://learnpythonbreakpython.com/"
 	},
@@ -107,7 +107,7 @@
 	"id": 14,
 	"name": "Programming Computer Vision with Python",
 	"author": "O’Reilly Media, Inc.",
-	"cover": "http://www.freetechbooks.com/uploads/1464170354-51a-NURM4tL._SX377_BO1,204,203,200_.jpg",
+	"cover": "https://muzudre.github.io/books/cover/cover14.jpg",
 	"license": "Creative Commons Attribution-NonCommercial-NoDerivs 3.0 United States",
 	"link_read": "http://programmingcomputervision.com/"
 	},
@@ -115,7 +115,7 @@
 	"id": 15,
 	"name": "Snake Wrangling for Kids, Learning to Program with Python",
 	"author": "n/a",
-	"cover": "http://www.freetechbooks.com/uploads/1464169095-cover-windows-tn.png",
+	"cover": "https://muzudre.github.io/books/cover/cover15.jpg",
 	"license": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0 New Zealand",
 	"link_read": "http://www.briggs.net.nz/snake-wrangling-for-kids.html"
 	},
@@ -123,7 +123,7 @@
 	"id": 16,
 	"name": "Think Bayes: Bayesian Statistics in Python",
 	"author": "O’Reilly Media, Inc.",
-	"cover": "http://www.freetechbooks.com/uploads/1459441389-think_bayes_cover_medium.png",
+	"cover": "https://muzudre.github.io/books/cover/cover16.jpg",
 	"license": "Creative Commons Attribution-NonCommercial 3.0 Unported",
 	"link_read": "http://greenteapress.com/wp/think-bayes/"
 	},
@@ -131,7 +131,7 @@
 	"id": 17,
 	"name": "Think DSP: Digital Signal Processing in Python",
 	"author": "Green Tea Press",
-	"cover": "http://www.freetechbooks.com/uploads/1468900621-51J1y69U2OL._SX379_BO1,204,203,200_.jpg",
+	"cover": "https://muzudre.github.io/books/cover/cover17.jpg",
 	"license": "Creative Commons Attribution-NonCommercial 3.0 Unported",
 	"link_read": "http://greenteapress.com/thinkdsp/thinkdsp.pdf"
 	},
@@ -139,7 +139,7 @@
 	"id": 18,
 	"name": "Think Python 2nd Edition",
 	"author": "O’Reilly Media, Inc.",
-	"cover": "http://www.freetechbooks.com/uploads/1459440723-think_python2_medium%20(1).jpg",
+	"cover": "https://muzudre.github.io/books/cover/cover18.jpg",
 	"license": "Creative Commons Attribution-NonCommercial 3.0 Unported",
 	"link_read": "http://greenteapress.com/wp/think-python-2e/"
 	},
@@ -147,7 +147,7 @@
 	"id": 19,
 	"name": "Think Stats: Probability and Statistics for Programmers",
 	"author": "O’Reilly Media, Inc.",
-	"cover": "http://www.freetechbooks.com/uploads/1459442120-thinkstats2cover.jpg",
+	"cover": "https://muzudre.github.io/books/cover/cover19.jpg",
 	"license": "Creative Commons Attribution-NonCommercial 3.0 Unported",
 	"link_read": "http://greenteapress.com/wp/think-stats-2e/"
 	},
@@ -155,7 +155,7 @@
 	"id": 20,
 	"name": "The Book Of Ruby: A Hands-On Guide for the Adventurous",
 	"author": "n/a",
-	"cover": "http://www.freetechbooks.com/uploads/1458471515-ruby_frontcvr.png",
+	"cover": "https://muzudre.github.io/books/cover/cover20.jpg",
 	"license": "n/a",
 	"link_read": "http://www.sapphiresteel.com/ruby-programming/The-Book-Of-Ruby.html"
 	},
@@ -163,7 +163,7 @@
 	"id": 21,
 	"name": "Gaming Rhythms: Play and Counterplay from the Situated to the Global",
 	"author": "Institute of Network Cultures",
-	"cover": "http://www.freetechbooks.com/uploads/1481187411-totaldef-rs.jpg",
+	"cover": "https://muzudre.github.io/books/cover/cover21.jpg",
 	"license": "Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Netherlands",
 	"link_read": "http://www.networkcultures.org/_uploads/TOD%236%20total%20def.pdf"
 	},
@@ -171,7 +171,7 @@
 	"id": 22,
 	"name": "Open Access",
 	"author": "The MIT Press",
-	"cover": "http://www.freetechbooks.com/uploads/1477502009-9780262517638_Open_Access_PDF_Version_rs.jpg",
+	"cover": "https://muzudre.github.io/books/cover/cover22.jpg",
 	"license": "Creative Commons Attribution-NonCommercial 3.0 Unported",
 	"link_read": "https://mitpress.mit.edu/sites/default/files/9780262517638_Open_Access_PDF_Version.pdf"
 	},
@@ -179,7 +179,7 @@
 	"id": 23,
 	"name": "The Digital Person - Technology and Privacy in the Information Age",
 	"author": "New York University Press",
-	"cover": "http://www.freetechbooks.com/uploads/1458291751-61Sjn0rqUHL._SX331_BO1,204,203,200_.jpg",
+	"cover": "https://muzudre.github.io/books/cover/cover23.jpg",
 	"license": "Creative Commons Attribution-NonCommercial-NoDerivs 3.0 United States",
 	"link_read": "http://docs.law.gwu.edu/facweb/dsolove/Digital-Person/text.htm"
 	},
@@ -187,7 +187,7 @@
 	"id": 24,
 	"name": "The Future of Reputation - Gossip, Rumor, and Privacy on the Internet",
 	"author": "Yale University Press",
-	"cover": "http://www.freetechbooks.com/uploads/1458292478-41SxwYege8L._SX338_BO1,204,203,200_.jpg",
+	"cover": "https://muzudre.github.io/books/cover/cover24.jpg",
 	"license": "Creative Commons Attribution-NonCommercial-NoDerivs 3.0 United States",
 	"link_read": "http://docs.law.gwu.edu/facweb/dsolove/Future-of-Reputation/text.htm"
 	},
@@ -195,7 +195,7 @@
 	"id": 25,
 	"name": "Don't Panic: Mobile Developer's Guide to The Galaxy, 17th Edition",
 	"author": "Open-Xchange (OX)",
-	"cover": "http://www.freetechbooks.com/uploads/1510328813-Mobile_Developers_Guide_17thEdition_Web-rs.jpg",
+	"cover": "https://muzudre.github.io/books/cover/cover25.jpg",
 	"license": "Creative Commons Attribution 2.5 Generic",
 	"link_read": ""
 	},
@@ -203,7 +203,7 @@
 	"id": 26,
 	"name": "Adaptive Web Design: Crafting Rich Experiences with Progressive Enhancement, 1st Edition",
 	"author": "Easy Readers",
-	"cover": "http://www.freetechbooks.com/uploads/1497368939-cover-1024-rs.jpg",
+	"cover": "https://muzudre.github.io/books/cover/cover26.jpg",
 	"license": "n/a",
 	"link_read": "https://adaptivewebdesign.info/1st-edition/"
 	},
@@ -211,7 +211,7 @@
 	"id": 27,
 	"name": "Linux Appliance Design: A Hands-On Guide to Building Linux Appliances",
 	"author": "No Starch Press",
-	"cover": "http://www.freetechbooks.com/uploads/1508395028-LAD-rs.jpg",
+	"cover": "https://muzudre.github.io/books/cover/cover27.jpg",
 	"license": "n/a",
 	"link_read": "http://librta.org/book.html"
 	},
@@ -219,7 +219,7 @@
 	"id": 28,
 	"name": "C++ Annotations",
 	"author": "n/a",
-	"cover": "http://www.freetechbooks.com/uploads/1468464478-C-Annotations-OpenLibra-350x459.gif",
+	"cover": "https://muzudre.github.io/books/cover/cover28.jpg",
 	"license": "n/a",
 	"link_read": "http://www.icce.rug.nl/documents/cplusplus/"
 	},
@@ -227,7 +227,7 @@
 	"id": 29,
 	"name": "Project Management Skills for All Careers",
 	"author": "CreateSpace Independent Publishing Platform",
-	"cover": "http://www.freetechbooks.com/uploads/1480076829-41hCnbwkGdL._SX385_BO1,204,203,200_%20(1).jpg",
+	"cover": "https://muzudre.github.io/books/cover/cover29.jpg",
 	"license": "Creative Commons Attribution 3.0 Unported",
 	"link_read": "https://ia800709.us.archive.org/10/items/ost-business-projectmanagementforallcareersedition2/ProjectManagementforAllCareersEdition2.pdf"
 	},
@@ -235,7 +235,7 @@
 	"id": 30,
 	"name": "CouchDB: The Definitive Guide (1st Edition)",
 	"author": "O’Reilly Media, Inc.",
-	"cover": "http://www.freetechbooks.com/uploads/1474688794-41RncT2eJzL.jpg",
+	"cover": "https://muzudre.github.io/books/cover/cover30.jpg",
 	"license": "Creative Commons Attribution 3.0 Unported",
 	"link_read": "http://guide.couchdb.org/"
 	},
@@ -243,7 +243,7 @@
 	"id": 31,
 	"name": "Real World Haskell",
 	"author": "O’Reilly Media, Inc.",
-	"cover": "http://www.freetechbooks.com/uploads/1477847978-haskell-rs.jpg",
+	"cover": "https://muzudre.github.io/books/cover/cover31.jpg",
 	"license": "Creative Commons Attribution-NonCommercial 3.0 Unported",
 	"link_read": "http://book.realworldhaskell.org/read/"
 	},
@@ -251,7 +251,7 @@
 	"id": 32,
 	"name": "Subject-Oriented Business Process Management",
 	"author": "Springer-Verlag GmbH",
-	"cover": "http://www.freetechbooks.com/uploads/1479311871-bok3A978-3-642-32392-8-rs.jpg",
+	"cover": "https://muzudre.github.io/books/cover/cover32.jpg",
 	"license": "Creative Commons Attribution-NonCommercial 3.0 Unported",
 	"link_read": "https://link.springer.com/book/10.1007%2F978-3-642-32392-8"
 	},
@@ -259,7 +259,7 @@
 	"id": 33,
 	"name": "The Little MongoDB Book",
 	"author": "n/a",
-	"cover": "http://www.freetechbooks.com/uploads/1459148759-mongodb.png",
+	"cover": "https://muzudre.github.io/books/cover/cover33.jpg",
 	"license": "Creative Commons Attribution-NonCommercial 3.0 Unported",
 	"link_read": "http://openmymind.net/mongodb.pdf"
 	},
@@ -267,7 +267,7 @@
 	"id": 34,
 	"name": "The Nature of Code: Simulating Natural Systems with Processing",
 	"author": "n/a",
-	"cover": "http://www.freetechbooks.com/uploads/1480389903-51Vo-3VoaiL._SX404_BO1,204,203,200_.jpg",
+	"cover": "https://muzudre.github.io/books/cover/cover34.jpg",
 	"license": "Creative Commons Attribution-NonCommercial 3.0 Unported",
 	"link_read": "http://natureofcode.com/book/"
 	},
@@ -275,7 +275,7 @@
 	"id": 35,
 	"name": "Foundations of Databases",
 	"author": "Addison-Wesley Publishing",
-	"cover": "http://www.freetechbooks.com/uploads/1486485430-FOD-rick.jpg",
+	"cover": "https://muzudre.github.io/books/cover/cover35.jpg",
 	"license": "Standard Copyright License",
 	"link_read": "http://webdam.inria.fr/Alice/"
 	},
@@ -283,7 +283,7 @@
 	"id": 36,
 	"name": "The Debian Administrator's Handbook",
 	"author": "n/a",
-	"cover": "http://www.freetechbooks.com/uploads/1479214953-debian-handbook-rs.jpg",
+	"cover": "https://muzudre.github.io/books/cover/cover36.jpg",
 	"license": "Creative Commons Attribution-ShareAlike 3.0 Unported",
 	"link_read": "https://debian-handbook.info/download/stable/debian-handbook.pdf"
 	},
@@ -291,7 +291,7 @@
 	"id": 37,
 	"name": "Python for Everybody: Exploring Data In Python 3",
 	"author": "CreateSpace Independent Publishing Platform",
-	"cover": "http://www.freetechbooks.com/uploads/1473274747-cover3-final.jpg",
+	"cover": "https://muzudre.github.io/books/cover/cover37.jpg",
 	"license": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported",
 	"link_read": "http://www.pythonlearn.com/book.php"
 	},
@@ -299,7 +299,7 @@
 	"id": 38,
 	"name": "Pro Git, Second Edition",
 	"author": "APress",
-	"cover": "http://www.freetechbooks.com/uploads/1479487663-51h200ZDFfL._SX403_BO1,204,203,200_.jpg",
+	"cover": "https://muzudre.github.io/books/cover/cover38.jpg",
 	"license": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported",
 	"link_read": "https://progit2.s3.amazonaws.com/en/2016-03-22-f3531/progit-en.1084.pdf"
 	},
@@ -307,7 +307,7 @@
 	"id": 39,
 	"name": "OpenIntro Statistics, Third Edition",
 	"author": "OpenIntro, Inc.",
-	"cover": "http://www.freetechbooks.com/uploads/1467253466-41GSuP1E2AL._SX398_BO1,204,203,200_.jpg",
+	"cover": "https://muzudre.github.io/books/cover/cover39.jpg",
 	"license": " Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported",
 	"link_read": "https://drive.google.com/file/d/0B-DHaDEbiOGkc1RycUtIcUtIelE/view"
 	},
@@ -315,7 +315,7 @@
 	"id": 40,
 	"name": "Learn You a Haskell for Great Good! - A Beginner's Guide",
 	"author": "No Starch Press",
-	"cover": "http://www.freetechbooks.com/uploads/1477847068-41lWWRzqFpL._SX376_BO1,204,203,200_.jpg",
+	"cover": "https://muzudre.github.io/books/cover/cover40.jpg",
 	"license": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported",
 	"link_read": "http://learnyouahaskell.com/chapters"
 	},
@@ -323,7 +323,7 @@
 	"id": 41,
 	"name": "A Spiral Workbook for Discrete Mathematics",
 	"author": "Open SUNY Textbooks",
-	"cover": "http://www.freetechbooks.com/uploads/1476846343-SWDM-rs.jpg",
+	"cover": "https://muzudre.github.io/books/cover/cover41.jpg",
 	"license": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported",
 	"link_read": "http://textbooks.opensuny.org/download/swdm-pdf/"
 	},
@@ -331,7 +331,7 @@
 	"id": 42,
 	"name": "The Linux Command Line: A Complete Introduction, Third Internet Edition",
 	"author": "No Starch Press",
-	"cover": "http://www.freetechbooks.com/uploads/1479535806-51vgLTkNsIL._SL500_AA300_cr.jpg",
+	"cover": "https://muzudre.github.io/books/cover/cover42.jpg",
 	"license": "Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported",
 	"link_read": "https://sourceforge.net/projects/linuxcommand/files/TLCL/16.07/TLCL-16.07.pdf/download"
 	},
@@ -339,7 +339,7 @@
 	"id": 43,
 	"name": "Modern Perl, Fourth Edition",
 	"author": "Onyx Neon Press",
-	"cover": "http://www.freetechbooks.com/uploads/1469746793-swperl_xlargecover.jpg",
+	"cover": "https://muzudre.github.io/books/cover/cover43.jpg",
 	"license": "Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported",
 	"link_read": "http://onyxneon.com/books/modern_perl/modern_perl_a4.pdf"
 	},
@@ -347,7 +347,7 @@
 	"id": 44,
 	"name": "The SysSec Red Book: A Roadmap for Systems Security Research",
 	"author": "SysSec",
-	"cover": "http://www.freetechbooks.com/uploads/1479148694-syssec_red_book_rs.jpg",
+	"cover": "https://muzudre.github.io/books/cover/cover44.jpg",
 	"license": "Standard Copyright License",
 	"link_read": "http://www.red-book.eu/m/documents/syssec_red_book.pdf"
 	},
@@ -355,7 +355,7 @@
 	"id": 45,
 	"name": "Privacy on the Line: The Politics of Wiretapping and Encryption",
 	"author": "The MIT Press",
-	"cover": "http://www.freetechbooks.com/uploads/1479001037-9780262042406_Privacy_On_The_Line_rs.jpg",
+	"cover": "https://muzudre.github.io/books/cover/cover45.jpg",
 	"license": "Standard Copyright License",
 	"link_read": "https://www.dropbox.com/s/rnkqcak89lkuor8/5572.pdf?dl=0"
 	}
