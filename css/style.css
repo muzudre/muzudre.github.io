@@ -77,20 +77,28 @@ h1, h2, h3, h4, h5, h6 {
     height: 400px; }
   .work .card_1 {
     background-image: url("../images/street_workout.png");
-    background-size: 80%;
-    background-position: 196px -33px; }
+        background-size: 52%;
+    background-position: 210px 17px; }
   .work .card_2 {
-    background-image: url("../images/ibanding.png");
-    background-size: 80%;
-    background-position: 280px 20px; }
+    background-image: url("../images/seller.png");
+        background-size: 52%;
+    background-position: 210px 17px; }
   .work .card_3 {
     background-image: url("../images/ebooks.png");
-    background-size: 80%;
-    background-position: 106px 28px; }
+        background-size: 52%;
+    background-position: 210px 17px; }
   .work .card_4 {
-    background-image: url("../images/ibanding.png");
-    background-size: 80%;
-    background-position: 280px 20px; }
+    background-image: url("../images/doctor.png");
+        background-size: 52%;
+    background-position: 210px 17px; }
+    .work .card_5 {
+    background-image: url("../images/video-player.png");
+        background-size: 52%;
+    background-position: 210px 17px; }
+    .work .card_6 {
+    background-image: url("../images/handshake.png");
+        background-size: 52%;
+    background-position: 210px 17px; }
   .work .card_full {
     width: 100%; }
   .work .card_third {
@@ -133,6 +141,8 @@ h1, h2, h3, h4, h5, h6 {
     background: rgba(216, 80, 80, 0.6); }
   .work .grey {
     background-color: rgba(0, 0, 0, 0.6); }
+      .work .yellow {
+    background-color: rgba(187, 197, 26, 0.6); }
   .work .pinks {
     color: #ea48eb; }
 
@@ -186,20 +196,28 @@ footer {
       height: 281px; }
     .work .card_1 {
       background-image: url("../images/street_workout.png");
-      background-size: 100%;
-      background-position: 75px 4px; }
+          background-size: 49%;
+    background-position: 167px 15px; }
     .work .card_2 {
-      background-image: url("../images/ibanding.png");
-      background-size: 100%;
-      background-position: 75px 4px; }
+      background-image: url("../images/seller.png");
+         background-size: 49%;
+    background-position: 167px 15px; }
     .work .card_3 {
       background-image: url("../images/ebooks.png");
-      background-size: 100%;
-      background-position: 75px 4px; }
+          background-size: 49%;
+    background-position: 167px 15px; }
     .work .card_4 {
-      background-image: url("../images/ibanding.png");
-      background-size: 100%;
-      background-position: 75px 4px; }
+      background-image: url("../images/doctor.png");
+     background-size: 49%;
+    background-position: 167px 15px; }
+          .work .card_5 {
+    background-image: url("../images/video-player.png");
+         background-size: 49%;
+    background-position: 167px 15px; }
+    .work .card_6 {
+    background-image: url("../images/handshake.png");
+        background-size: 49%;
+    background-position: 167px 15px; }
     .work .left {
       margin-right: 1.5%; }
     .work .right {
