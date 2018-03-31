@@ -99,6 +99,16 @@ h1, h2, h3, h4, h5, h6 {
     background-image: url("../images/handshake.png");
         background-size: 52%;
     background-position: 210px 17px; }
+        .work .card_7 {
+    background-image: url("../images/gamepad.png");
+        background-size: 52%;
+    background-position: 210px 17px; }
+            .work .card_8 {
+    background-image: url("../images/list.png");
+        background-size: 52%;
+    background-position: 210px 17px; }
+
+
   .work .card_full {
     width: 100%; }
   .work .card_third {
