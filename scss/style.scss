@@ -189,8 +189,11 @@ footer{
 		}
 	}
 }
-//tablet mode
-@media only screen and (max-width: 768px){
+@media only screen and (max-width: 968px){
+	.content {
+    	margin-top: 7px;
+    margin-bottom: -13px;
+	}
 	.banner{
 		padding: 2em 16px 0px 43px;
     	padding-bottom: 14em;
@@ -233,12 +236,69 @@ footer{
 		}
 	}
 }
+//tablet mode
+@media only screen and (max-width: 768px){
+	.content {
+    	margin-top: 7px;
+    margin-bottom: -13px;
+	}
+	.banner{
+		padding: 2em 16px 0px 43px;
+    	padding-bottom: 14em;
+		h1{
+			font-size: 4em;
+		}
+	}
+	.logo{
+		background: $black;
+	}
+	.row{
+		margin-bottom: 1em;
+		&:before, &:after{
+			content: "";
+			display: table;
+		}
+		&:after{
+			clear: both;
+		}
+	}
+	// work section
+	.work{
+		padding: 1em 0;
+		.tall{
+			height: 281px;
+		}
+		.left{
+			margin-right: 1.5%;
+		}
+		.right{
+			margin-left: 1.5%;
+		}
+		.card_inner{
+			h2{
+				font-size: 2em;
+			}
+		}
+		.pinks{
+			color: $pink;
+		}
+	}
+}
+// mobile mode
 @media only screen and (max-width: 575px){
+	footer {
+    padding: 3em 0;
+    padding-bottom: 3em;
+}
+	.content {
+    	margin-top: -125px;
+    	margin-bottom: -70px;
+	}
 	.row {
     margin-bottom: 0;
 }
 	.banner{
-    	padding-bottom: 9em;
+    	padding-bottom: 19em;
 		h1{
 			font-size: 3em;
 		}
@@ -253,6 +313,7 @@ footer{
 		}
 		.left{
 			margin-right: 0%;
+			margin-bottom: 4px;
 		}
 		.right{
 			margin-left: 0%;
