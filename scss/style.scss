@@ -1,7 +1,7 @@
 // varibles
-$pink: #ea48eb;
+$pink: #fb8887;
 $white: #ffffff;
-$grey: #414148;
+$black: #000;
 
 
 @mixin bg_img($url, $size, $position) {
@@ -17,6 +17,13 @@ $grey: #414148;
 body{
 	font-family: 'Questrial', sans-serif;
 	-webkit-font-smoothing: antialiased;
+}
+
+.social{
+	color: #fb8887;
+}
+.social:hover{
+	color: #000;
 }
 
 h1,h2,h3,h4,h5,h6{
@@ -41,14 +48,18 @@ h1,h2,h3,h4,h5,h6{
 	max-width: 96%;
 	margin: 0 auto;
 }
+.content{
+	margin-top: -125px;
+    margin-bottom: -70px;
+}
 .banner{
 	padding: 3em 0;
-    padding-bottom: 22em;
+    padding-bottom: 26em;
 	.logo{
 		float: left;
 	}
 	h1{
-		color: $grey;
+		color: $black;
 		text-align: right;
 		font-size: 6em;
 		display: inline;
@@ -84,7 +95,9 @@ h1,h2,h3,h4,h5,h6{
 }
 // work section
 .work{
-	background: $grey;
+	background-color: #FEE140;
+background-image: linear-gradient(90deg, #FEE140 0%, #FA709A 100%);
+
 	padding: 5em 0;
 	.card{
 		background: $white;
@@ -96,18 +109,6 @@ h1,h2,h3,h4,h5,h6{
 	.tall{
 		height: 400px;
 	}
-	.card_1{
-		@include bg_img('../images/street_workout.png', 80%, 196px -33px);
-	}
-	.card_2{
-		@include bg_img('../images/ibanding.png', 80%, 280px 20px);
-	}
-	.card_3{
-		@include bg_img('../images/ebooks.png', 80%, 106px 28px);
-	}
-	.card_4{
-		@include bg_img('../images/ibanding.png', 80%, 280px 20px);
-	}
 	.card_full{
 		width: 100%;
 	}
@@ -118,6 +119,7 @@ h1,h2,h3,h4,h5,h6{
 	.card_half{
 		width: 48.5%;
 		float: left;
+		box-shadow: 5px 0px 28px -7px #b69fa2;
 	}
 	.card_20{
 		width: 37%;
@@ -134,7 +136,7 @@ h1,h2,h3,h4,h5,h6{
 		vertical-align: middle;
 		height: 100%;
 		padding: 1.5em 7%;
-		color: $white;
+		color: $black;
 		p{
 			font-size: 1em;
 			text-transform: uppercase;
@@ -148,27 +150,6 @@ h1,h2,h3,h4,h5,h6{
 	// colors
 	.pink, .green, .purple, .blue{
 		border-radius: .35em;
-	}
-	.pink{
-		background: rgba(230, 56, 222, .6);
-	}
-	.green{
-		background: rgba(80, 216, 93, .6);
-	}
-	.purple{
-		background: rgba(145, 89, 219, .6);
-	}
-	.blue{
-		background: rgba(131, 226, 245, .7);
-	}
-	.red{
-		background: rgba(216, 80, 80, 0.6);
-	}
-	.grey{
-		background-color: rgba(0, 0, 0, 0.6);
-	}
-	.pinks{
-		color: $pink;
 	}
 }
 // footer
@@ -198,7 +179,7 @@ footer{
 				font-family: "Impact";
 				font-size: 1.75em;
 				a{
-					color: $grey;
+					color: $black;
 					text-decoration: none;
 					&:hover{
 						color: $pink;
@@ -218,7 +199,7 @@ footer{
 		}
 	}
 	.logo{
-		background: $grey;
+		background: $black;
 	}
 	.row{
 		margin-bottom: 1em;
@@ -236,19 +217,6 @@ footer{
 		.tall{
 			height: 281px;
 		}
-		.card_1{
-			@include bg_img('../images/street_workout.png', 100%, 75px 4px);
-		}
-		.card_2{
-			@include bg_img('../images/ibanding.png', 100%, 75px 4px);
-		}
-		.card_3{
-			@include bg_img('../images/ebooks.png', 100%, 75px 4px);
-		}
-		.card_4{
-			@include bg_img('../images/ibanding.png', 100%, 75px 4px);
-		}
-
 		.left{
 			margin-right: 1.5%;
 		}
