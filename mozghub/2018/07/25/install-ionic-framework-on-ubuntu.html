@@ -1,0 +1,347 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Best way to install Ionic framework on Ubuntu. - MozgHub | Awsome stuff for developers: Programming Tools, Code, HTML5, Mobile</title>
+    <link rel="shortcut icon" type="image/png" href="/favicon.svg"/>
+    <meta name="author"  content="MozgBot">
+    <meta name="description" content="Best way to install Ionic framework on Ubuntu.">
+    <meta name="keywords"  content="ionic, ubuntu">
+    <!-- Open Graph -->
+    <meta property="og:title" content="Best way to install Ionic framework on Ubuntu. - MozgHub | Awsome stuff for developers: Programming Tools, Code, HTML5, Mobile">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="http://localhost:4000/2018/07/25/install-ionic-framework-on-ubuntu.html">
+    <meta property="og:description" content="loves technology & design. I am very happy to share my thoughts on technology and life with you here.">
+    <meta property="og:site_name" content="MozgHub | Awsome stuff for developers: Programming Tools, Code, HTML5, Mobile">
+    <link rel="stylesheet" href="/assets/css/normalize.css">
+    <link rel="stylesheet" href="/assets/css/font-rocgem.css">
+    <link rel="stylesheet" href="/assets/css/github-markdown.css">
+    <link rel="stylesheet" href="/assets/css/prism.css">
+    <link rel="stylesheet" href="/assets/css/share.min.css">
+    <link rel="stylesheet" href="/assets/css/app.min.css">
+    <link rel="stylesheet" href="https://cdn.bootcss.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <script src="/assets/js/jquery.js"></script>
+    <script>
+        $(document).ready(function() {
+            $(window).scroll(function(o) {
+                var n = $(window).scrollTop() / ($(document).height() - $(window).height()),
+                    e = Math.round(100 * n);
+                $("#scrollPercentLabel>span").html(e)
+            })
+        });
+    </script>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-122336637-1"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-122336637-1');
+    </script>
+
+	
+    <style>
+    .markdown-body .anchor{
+        float: left;
+        margin-top: -8px;
+        margin-left: -20px;
+        padding-right: 4px;
+        line-height: 1;
+        opacity: 0;
+    }
+    
+    .markdown-body .anchor .anchor-icon{
+        font-size: 15px
+    }
+</style>
+<script>
+    $(document).ready(function() {
+        let nodes = document.querySelector(".markdown-body").querySelectorAll("h1,h2,h3")
+        for(let node of nodes) {
+            var anchor = document.createElement("a")
+            var anchorIcon = document.createElement("i")
+            anchorIcon.setAttribute("class", "fa fa-anchor fa-lg anchor-icon")
+            anchorIcon.setAttribute("aria-hidden", true)
+            anchor.setAttribute("class", "anchor")
+            anchor.setAttribute("href", "#" + node.getAttribute("id"))
+            
+            anchor.onmouseover = function() {
+                this.style.opacity = "0.4"
+            }
+            
+            anchor.onmouseout = function() {
+                this.style.opacity = "0"
+            }
+            
+            anchor.appendChild(anchorIcon)
+            node.appendChild(anchor)
+        }
+    })
+</script>
+</head>
+
+
+<body>
+
+  <input id="nm-switch" type="hidden" value="true"> <header class="g-header">
+    <div class="g-logo">
+      <a href="/"></a>
+    </div>
+    <i id="menu-toggle" class="iconfont icon-menu"></i>
+    <nav class="g-nav">
+        <ul>
+            
+            <li><a href="/">home</a></li>
+            
+            <li><a href="/themes.html">themes</a></li>
+            
+            <li><a href="/books.html">books</a></li>
+            
+            <li><a href="/tags.html">tags</a></li>
+            
+            <li><a href="/about.html">about</a></li>
+            
+        </ul>
+    </nav>
+</header>
+
+
+  <header class="g-banner post-header post-pattern-circuitBoard bgcolor-default post-no-cover" data-theme="default">
+    <div class="post-wrapper">
+      <div class="post-tags">
+        
+          
+            <a href="http://localhost:4000/tags.html#ionic" class="post-tag">ionic</a>
+          
+            <a href="http://localhost:4000/tags.html#ubuntu" class="post-tag">ubuntu</a>
+          
+        
+      </div>
+      <h1>Best way to install Ionic framework on Ubuntu.</h1>
+      <div class="post-meta">
+        <span class="post-meta-item"><i class="iconfont icon-author"></i><a href="http://localhost:4000" target="_blank" rel="author">Blogbot</a></></span>
+        <time class="post-meta-item" datetime="18-07-25"><i class="iconfont icon-date"></i>25 Jul 2018</time>
+      </div>
+    </div>
+    
+  </header>
+
+  <div class="post-content visible">
+    
+
+    <article class="markdown-body">
+      <p>See the Cordova Platform Guide <a href="https://ionicframework.com/docs/intro/installation/">here</a> and the Ionic Installation Guide <a href="https://ionicframework.com/docs/intro/installation/">here</a>, but I’m highlighting the key steps for Ubuntu.</p>
+
+<p>1) Install JDK 8.</p>
+
+<div class="language-console highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="go">sudo add-apt-repository ppa:webupd8team/java
+sudo apt-get update
+sudo apt-get install oracle-java8-installer
+sudo apt-get install oracle-java8-set-default
+</span></code></pre></div></div>
+
+<p>2) Install node.js and npm.</p>
+
+<div class="language-console highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="go">sudo apt-get update
+sudo apt-get install nodejs
+sudo apt-get install npm
+</span></code></pre></div></div>
+
+<p>3) Install Android Studio and the Android SDK.</p>
+
+<blockquote>
+  <p>Installing Android Studio</p>
+</blockquote>
+
+<p>1) Download Android Studio from <a href="https://developer.android.com/sdk/index.html">here</a>, use All Android Studio Packages</p>
+
+<p>2) Extract the archive file into an appropriate location for your applications, eg: /opt. Use the filename of your downloaded archive, in my example android-studio-ide-141.2178183-linux.zip</p>
+
+<div class="language-console highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="go">sudo unzip android-studio-ide-141.2178183-linux.zip -d /opt
+</span></code></pre></div></div>
+
+<p>3) To launch Android Studio, navigate to the /opt/android-studio/bin directory in a terminal and execute ./studio.sh. Or use a desktop file, see below.</p>
+
+<p>You may want to add /opt/android-studio/bin to your PATH environmental variable so that you can start Android Studio from any directory.</p>
+
+<p>4) Configure the ANDROID_HOME environment variable</p>
+
+<blockquote>
+  <p>Add the following lines to your $HOME/.bash_profile config file:</p>
+</blockquote>
+
+<div class="language-console highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="gp">export ANDROID_HOME=$</span>HOME/Android/Sdk
+<span class="gp">export PATH=$</span>PATH:<span class="nv">$ANDROID_HOME</span>/tools
+<span class="gp">export PATH=$</span>PATH:<span class="nv">$ANDROID_HOME</span>/tools/bin
+<span class="gp">export PATH=$</span>PATH:<span class="nv">$ANDROID_HOME</span>/platform-tools
+</code></pre></div></div>
+
+<blockquote>
+  <p>.bash_profile is specific to bash. If you’re using another shell, you will need to edit the appropriate shell-specific config file.</p>
+</blockquote>
+
+<p>Type source $HOME/.bash_profile to load the config into your current shell. Verify that ANDROID_HOME has been added to your path by running echo $PATH.</p>
+
+<p>5) Create a desktop file</p>
+
+<p>Create a new file androidstudio.desktop by running the command:</p>
+
+<div class="language-console highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="go">nano ~/.local/share/applications/androidstudio.desktop
+</span></code></pre></div></div>
+
+<p>and add the lines below</p>
+
+<div class="language-console highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="go">[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Android Studio
+Exec="/opt/android-studio/bin/studio.sh" %f
+Icon=/opt/android-studio/bin/studio.png
+</span><span class="gp">Categories=Development;</span>IDE<span class="p">;</span>
+<span class="go">Terminal=false
+StartupNotify=true
+StartupWMClass=android-studio
+</span></code></pre></div></div>
+
+<p>4) Using a terminal, install the Ionic CLI and related tools.</p>
+
+<div class="language-console highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="go">sudo apt-get install git ruby
+sudo gem install compass
+sudo npm install -g cordova ionic grunt-cli bower gulp
+</span></code></pre></div></div>
+
+<p>5) Start using Ionic!</p>
+
+<div class="language-console highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="go">ionic start todo example
+cd example
+ionic serve
+</span></code></pre></div></div>
+
+    </article>
+
+    
+    <div class="social-share-wrapper">
+      <div class="social-share"></div>
+    </div>
+    
+  </div>
+
+  <section class="author-detail">
+    <section class="post-footer-item author-card">
+      <div class="avatar">
+        <img src="http://localhost:4000/assets/img/profile.png" alt="">
+      </div>
+      <div class="author-name" rel="author">MozgBot</div>
+      <div class="bio">
+        <p>Developer, Loves Technology, Design and Coding, Simple Optimism</p>
+      </div>
+      
+      <ul class="sns-links">
+        
+        <li>
+          <a href="//www.instagram.com/muzudre" target="_blank">
+                    <i class="iconfont icon-instagram"></i>
+                </a>
+        </li>
+        
+        <li>
+          <a href="//github.com/muzudre" target="_blank">
+                    <i class="iconfont icon-github"></i>
+                </a>
+        </li>
+        
+      </ul>
+      
+    </section>
+    <section class="post-footer-item read-next">
+      
+      <div class="read-next-item">
+        <a href="/2018/07/26/how-to-start-with-ionic-4.html" class="read-next-link"></a>
+        <section>
+          <span>How to start with ionic 4v BETA.</span>
+          <p>  Ionic apps are created and developed primarily through ...</p>
+        </section>
+        
+     </div>
+      
+
+      
+      <div class="read-next-item">
+        <a href="/2018/07/18/css-media-queries.html" class="read-next-link"></a>
+          <section>
+            <span>CSS Media Queries for Desktop, Tablet, Mobile.</span>
+            <p>/*   ##Device = Desktops  ##Screen = 1281px to higher res...</p>
+          </section>
+          
+      </div>
+      
+    </section>
+    <section class="post-footer-item comment">
+      <div id="disqus_thread"></div>
+    </section>
+  </section>
+  <a href="#" class="float" onclick="topFunction()">
+      <p id="scrollPercentLabel"><i class="fa fa-arrow-up"></i> <span> 0</span>%</p>
+  </a>
+  <footer class="g-footer">
+  <section>Code snippets licensed under <a target="_blank" href="https://oss.ninja/mit?organization=mozghub" rel="nofollow noopener">MIT</a>, unless otherwise noted.<br>Content & Graphics MozgHub ©
+  
+  
+  2018
+  </section>
+  <center>
+    <br>
+    <a href="https://www.iubenda.com/privacy-policy/53819098" class="iubenda-black iubenda-embed " title="Privacy Policy">Privacy Policy</a> <script type="text/javascript">(function (w,d) {var loader = function () {var s = d.createElement("script"), tag = d.getElementsByTagName("script")[0]; s.src="https://cdn.iubenda.com/iubenda.js"; tag.parentNode.insertBefore(s,tag);}; if(w.addEventListener){w.addEventListener("load", loader, false);}else if(w.attachEvent){w.attachEvent("onload", loader);}else{w.onload = loader;}})(window, document);</script>
+  </center>
+</footer>
+
+
+  <script src="/assets/js/social-share.min.js"></script>
+  <script>
+    socialShare('.social-share', {
+      sites: [
+        
+          'facebook'
+          ,
+          
+        
+          'instagram'
+          ,
+          
+        
+          'twitter'
+          
+        
+      ]
+    });
+  </script>
+
+  
+  <script>
+    /**
+     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+    /*
+    var disqus_config = function () {
+    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    };
+    */
+    (function() { // DON'T EDIT BELOW THIS LINE
+      var d = document,
+        s = d.createElement('script');
+      s.src = 'https://mozghub-com.disqus.com/embed.js';
+      s.setAttribute('data-timestamp', +new Date());
+
+      (d.head || d.body).appendChild(s);
+    })();
+  </script>
+  
+
+  <script src="/assets/js/prism.js"></script>
+  <script src="/assets/js/index.min.js"></script>
+</body>
+
+</html>
