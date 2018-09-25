@@ -1,0 +1,268 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/usr/bin/nodejs', '/usr/bin/npm', 'install' ]
+2 info using npm@1.3.10
+3 info using node@v0.10.25
+4 warn package.json a@1.0.0 No description
+5 warn package.json a@1.0.0 No repository field.
+6 warn package.json a@1.0.0 No README data
+7 verbose readDependencies using package.json deps
+8 verbose install where, deps [ '/var/www/mozghub.com/public_html',
+8 verbose install   [ 'gulp',
+8 verbose install     'gulp-clean-css',
+8 verbose install     'gulp-rename',
+8 verbose install     'gulp-sass',
+8 verbose install     'gulp-uglify' ] ]
+9 info preinstall a@1.0.0
+10 verbose readDependencies using package.json deps
+11 verbose cache add [ 'gulp@^3.9.1', null ]
+12 verbose cache add name=undefined spec="gulp@^3.9.1" args=["gulp@^3.9.1",null]
+13 verbose parsed url { protocol: null,
+13 verbose parsed url   slashes: null,
+13 verbose parsed url   auth: null,
+13 verbose parsed url   host: null,
+13 verbose parsed url   port: null,
+13 verbose parsed url   hostname: null,
+13 verbose parsed url   hash: null,
+13 verbose parsed url   search: null,
+13 verbose parsed url   query: null,
+13 verbose parsed url   pathname: 'gulp@^3.9.1',
+13 verbose parsed url   path: 'gulp@^3.9.1',
+13 verbose parsed url   href: 'gulp@^3.9.1' }
+14 verbose cache add name="gulp" spec="^3.9.1" args=["gulp","^3.9.1"]
+15 verbose parsed url { protocol: null,
+15 verbose parsed url   slashes: null,
+15 verbose parsed url   auth: null,
+15 verbose parsed url   host: null,
+15 verbose parsed url   port: null,
+15 verbose parsed url   hostname: null,
+15 verbose parsed url   hash: null,
+15 verbose parsed url   search: null,
+15 verbose parsed url   query: null,
+15 verbose parsed url   pathname: '^3.9.1',
+15 verbose parsed url   path: '^3.9.1',
+15 verbose parsed url   href: '^3.9.1' }
+16 verbose addNamed [ 'gulp', '^3.9.1' ]
+17 verbose addNamed [ null, '>=3.9.1-0 <4.0.0-0' ]
+18 verbose cache add [ 'gulp-clean-css@^3.0.4', null ]
+19 verbose cache add name=undefined spec="gulp-clean-css@^3.0.4" args=["gulp-clean-css@^3.0.4",null]
+20 verbose parsed url { protocol: null,
+20 verbose parsed url   slashes: null,
+20 verbose parsed url   auth: null,
+20 verbose parsed url   host: null,
+20 verbose parsed url   port: null,
+20 verbose parsed url   hostname: null,
+20 verbose parsed url   hash: null,
+20 verbose parsed url   search: null,
+20 verbose parsed url   query: null,
+20 verbose parsed url   pathname: 'gulp-clean-css@^3.0.4',
+20 verbose parsed url   path: 'gulp-clean-css@^3.0.4',
+20 verbose parsed url   href: 'gulp-clean-css@^3.0.4' }
+21 verbose cache add name="gulp-clean-css" spec="^3.0.4" args=["gulp-clean-css","^3.0.4"]
+22 verbose parsed url { protocol: null,
+22 verbose parsed url   slashes: null,
+22 verbose parsed url   auth: null,
+22 verbose parsed url   host: null,
+22 verbose parsed url   port: null,
+22 verbose parsed url   hostname: null,
+22 verbose parsed url   hash: null,
+22 verbose parsed url   search: null,
+22 verbose parsed url   query: null,
+22 verbose parsed url   pathname: '^3.0.4',
+22 verbose parsed url   path: '^3.0.4',
+22 verbose parsed url   href: '^3.0.4' }
+23 verbose addNamed [ 'gulp-clean-css', '^3.0.4' ]
+24 verbose addNamed [ null, '>=3.0.4-0 <4.0.0-0' ]
+25 silly lockFile e5c114fc-gulp-3-9-1 gulp@^3.9.1
+26 verbose lock gulp@^3.9.1 /home/muslim/.npm/e5c114fc-gulp-3-9-1.lock
+27 silly lockFile 380ab320-gulp-clean-css-3-0-4 gulp-clean-css@^3.0.4
+28 verbose lock gulp-clean-css@^3.0.4 /home/muslim/.npm/380ab320-gulp-clean-css-3-0-4.lock
+29 verbose cache add [ 'gulp-sass@^3.1.0', null ]
+30 verbose cache add name=undefined spec="gulp-sass@^3.1.0" args=["gulp-sass@^3.1.0",null]
+31 verbose parsed url { protocol: null,
+31 verbose parsed url   slashes: null,
+31 verbose parsed url   auth: null,
+31 verbose parsed url   host: null,
+31 verbose parsed url   port: null,
+31 verbose parsed url   hostname: null,
+31 verbose parsed url   hash: null,
+31 verbose parsed url   search: null,
+31 verbose parsed url   query: null,
+31 verbose parsed url   pathname: 'gulp-sass@^3.1.0',
+31 verbose parsed url   path: 'gulp-sass@^3.1.0',
+31 verbose parsed url   href: 'gulp-sass@^3.1.0' }
+32 verbose cache add name="gulp-sass" spec="^3.1.0" args=["gulp-sass","^3.1.0"]
+33 verbose parsed url { protocol: null,
+33 verbose parsed url   slashes: null,
+33 verbose parsed url   auth: null,
+33 verbose parsed url   host: null,
+33 verbose parsed url   port: null,
+33 verbose parsed url   hostname: null,
+33 verbose parsed url   hash: null,
+33 verbose parsed url   search: null,
+33 verbose parsed url   query: null,
+33 verbose parsed url   pathname: '^3.1.0',
+33 verbose parsed url   path: '^3.1.0',
+33 verbose parsed url   href: '^3.1.0' }
+34 verbose addNamed [ 'gulp-sass', '^3.1.0' ]
+35 verbose addNamed [ null, '>=3.1.0-0 <4.0.0-0' ]
+36 silly lockFile fde615e5-gulp-sass-3-1-0 gulp-sass@^3.1.0
+37 verbose lock gulp-sass@^3.1.0 /home/muslim/.npm/fde615e5-gulp-sass-3-1-0.lock
+38 verbose cache add [ 'gulp-rename@^1.2.2', null ]
+39 verbose cache add name=undefined spec="gulp-rename@^1.2.2" args=["gulp-rename@^1.2.2",null]
+40 verbose parsed url { protocol: null,
+40 verbose parsed url   slashes: null,
+40 verbose parsed url   auth: null,
+40 verbose parsed url   host: null,
+40 verbose parsed url   port: null,
+40 verbose parsed url   hostname: null,
+40 verbose parsed url   hash: null,
+40 verbose parsed url   search: null,
+40 verbose parsed url   query: null,
+40 verbose parsed url   pathname: 'gulp-rename@^1.2.2',
+40 verbose parsed url   path: 'gulp-rename@^1.2.2',
+40 verbose parsed url   href: 'gulp-rename@^1.2.2' }
+41 verbose cache add name="gulp-rename" spec="^1.2.2" args=["gulp-rename","^1.2.2"]
+42 verbose parsed url { protocol: null,
+42 verbose parsed url   slashes: null,
+42 verbose parsed url   auth: null,
+42 verbose parsed url   host: null,
+42 verbose parsed url   port: null,
+42 verbose parsed url   hostname: null,
+42 verbose parsed url   hash: null,
+42 verbose parsed url   search: null,
+42 verbose parsed url   query: null,
+42 verbose parsed url   pathname: '^1.2.2',
+42 verbose parsed url   path: '^1.2.2',
+42 verbose parsed url   href: '^1.2.2' }
+43 verbose addNamed [ 'gulp-rename', '^1.2.2' ]
+44 verbose addNamed [ null, '>=1.2.2-0 <2.0.0-0' ]
+45 silly lockFile 1035ba1c-gulp-rename-1-2-2 gulp-rename@^1.2.2
+46 verbose lock gulp-rename@^1.2.2 /home/muslim/.npm/1035ba1c-gulp-rename-1-2-2.lock
+47 verbose cache add [ 'gulp-uglify@^2.1.2', null ]
+48 verbose cache add name=undefined spec="gulp-uglify@^2.1.2" args=["gulp-uglify@^2.1.2",null]
+49 verbose parsed url { protocol: null,
+49 verbose parsed url   slashes: null,
+49 verbose parsed url   auth: null,
+49 verbose parsed url   host: null,
+49 verbose parsed url   port: null,
+49 verbose parsed url   hostname: null,
+49 verbose parsed url   hash: null,
+49 verbose parsed url   search: null,
+49 verbose parsed url   query: null,
+49 verbose parsed url   pathname: 'gulp-uglify@^2.1.2',
+49 verbose parsed url   path: 'gulp-uglify@^2.1.2',
+49 verbose parsed url   href: 'gulp-uglify@^2.1.2' }
+50 verbose cache add name="gulp-uglify" spec="^2.1.2" args=["gulp-uglify","^2.1.2"]
+51 verbose parsed url { protocol: null,
+51 verbose parsed url   slashes: null,
+51 verbose parsed url   auth: null,
+51 verbose parsed url   host: null,
+51 verbose parsed url   port: null,
+51 verbose parsed url   hostname: null,
+51 verbose parsed url   hash: null,
+51 verbose parsed url   search: null,
+51 verbose parsed url   query: null,
+51 verbose parsed url   pathname: '^2.1.2',
+51 verbose parsed url   path: '^2.1.2',
+51 verbose parsed url   href: '^2.1.2' }
+52 verbose addNamed [ 'gulp-uglify', '^2.1.2' ]
+53 verbose addNamed [ null, '>=2.1.2-0 <3.0.0-0' ]
+54 silly lockFile 052a5131-gulp-uglify-2-1-2 gulp-uglify@^2.1.2
+55 verbose lock gulp-uglify@^2.1.2 /home/muslim/.npm/052a5131-gulp-uglify-2-1-2.lock
+56 silly addNameRange { name: 'gulp', range: '>=3.9.1-0 <4.0.0-0', hasData: false }
+57 silly addNameRange { name: 'gulp-clean-css',
+57 silly addNameRange   range: '>=3.0.4-0 <4.0.0-0',
+57 silly addNameRange   hasData: false }
+58 silly addNameRange { name: 'gulp-sass',
+58 silly addNameRange   range: '>=3.1.0-0 <4.0.0-0',
+58 silly addNameRange   hasData: false }
+59 silly addNameRange { name: 'gulp-rename',
+59 silly addNameRange   range: '>=1.2.2-0 <2.0.0-0',
+59 silly addNameRange   hasData: false }
+60 silly addNameRange { name: 'gulp-uglify',
+60 silly addNameRange   range: '>=2.1.2-0 <3.0.0-0',
+60 silly addNameRange   hasData: false }
+61 verbose url raw gulp
+62 verbose url resolving [ 'https://registry.npmjs.org/', './gulp' ]
+63 verbose url resolved https://registry.npmjs.org/gulp
+64 info trying registry request attempt 1 at 03:53:59
+65 http GET https://registry.npmjs.org/gulp
+66 verbose url raw gulp-clean-css
+67 verbose url resolving [ 'https://registry.npmjs.org/', './gulp-clean-css' ]
+68 verbose url resolved https://registry.npmjs.org/gulp-clean-css
+69 info trying registry request attempt 1 at 03:53:59
+70 http GET https://registry.npmjs.org/gulp-clean-css
+71 verbose url raw gulp-sass
+72 verbose url resolving [ 'https://registry.npmjs.org/', './gulp-sass' ]
+73 verbose url resolved https://registry.npmjs.org/gulp-sass
+74 info trying registry request attempt 1 at 03:53:59
+75 http GET https://registry.npmjs.org/gulp-sass
+76 verbose url raw gulp-rename
+77 verbose url resolving [ 'https://registry.npmjs.org/', './gulp-rename' ]
+78 verbose url resolved https://registry.npmjs.org/gulp-rename
+79 info trying registry request attempt 1 at 03:53:59
+80 http GET https://registry.npmjs.org/gulp-rename
+81 verbose url raw gulp-uglify
+82 verbose url resolving [ 'https://registry.npmjs.org/', './gulp-uglify' ]
+83 verbose url resolved https://registry.npmjs.org/gulp-uglify
+84 info trying registry request attempt 1 at 03:53:59
+85 http GET https://registry.npmjs.org/gulp-uglify
+86 info retry will retry, error on last attempt: Error: CERT_UNTRUSTED
+87 info retry will retry, error on last attempt: Error: CERT_UNTRUSTED
+88 info retry will retry, error on last attempt: Error: CERT_UNTRUSTED
+89 info retry will retry, error on last attempt: Error: CERT_UNTRUSTED
+90 info retry will retry, error on last attempt: Error: CERT_UNTRUSTED
+91 info trying registry request attempt 2 at 03:54:10
+92 http GET https://registry.npmjs.org/gulp-uglify
+93 info trying registry request attempt 2 at 03:54:10
+94 http GET https://registry.npmjs.org/gulp
+95 info trying registry request attempt 2 at 03:54:10
+96 http GET https://registry.npmjs.org/gulp-rename
+97 info trying registry request attempt 2 at 03:54:10
+98 http GET https://registry.npmjs.org/gulp-sass
+99 info trying registry request attempt 2 at 03:54:10
+100 http GET https://registry.npmjs.org/gulp-clean-css
+101 info retry will retry, error on last attempt: Error: CERT_UNTRUSTED
+102 info retry will retry, error on last attempt: Error: CERT_UNTRUSTED
+103 info retry will retry, error on last attempt: Error: CERT_UNTRUSTED
+104 info retry will retry, error on last attempt: Error: CERT_UNTRUSTED
+105 info retry will retry, error on last attempt: Error: CERT_UNTRUSTED
+106 info trying registry request attempt 3 at 03:55:10
+107 http GET https://registry.npmjs.org/gulp-rename
+108 info trying registry request attempt 3 at 03:55:10
+109 http GET https://registry.npmjs.org/gulp-sass
+110 info trying registry request attempt 3 at 03:55:10
+111 http GET https://registry.npmjs.org/gulp-uglify
+112 info trying registry request attempt 3 at 03:55:10
+113 http GET https://registry.npmjs.org/gulp
+114 info trying registry request attempt 3 at 03:55:10
+115 http GET https://registry.npmjs.org/gulp-clean-css
+116 silly lockFile e5c114fc-gulp-3-9-1 gulp@^3.9.1
+117 silly lockFile e5c114fc-gulp-3-9-1 gulp@^3.9.1
+118 silly lockFile 1035ba1c-gulp-rename-1-2-2 gulp-rename@^1.2.2
+119 silly lockFile 1035ba1c-gulp-rename-1-2-2 gulp-rename@^1.2.2
+120 silly lockFile 052a5131-gulp-uglify-2-1-2 gulp-uglify@^2.1.2
+121 silly lockFile 052a5131-gulp-uglify-2-1-2 gulp-uglify@^2.1.2
+122 error Error: CERT_UNTRUSTED
+122 error     at SecurePair.<anonymous> (tls.js:1370:32)
+122 error     at SecurePair.EventEmitter.emit (events.js:92:17)
+122 error     at SecurePair.maybeInitFinished (tls.js:982:10)
+122 error     at CleartextStream.read [as _read] (tls.js:469:13)
+122 error     at CleartextStream.Readable.read (_stream_readable.js:320:10)
+122 error     at EncryptedStream.write [as _write] (tls.js:366:25)
+122 error     at doWrite (_stream_writable.js:223:10)
+122 error     at writeOrBuffer (_stream_writable.js:213:5)
+122 error     at EncryptedStream.Writable.write (_stream_writable.js:180:11)
+122 error     at write (_stream_readable.js:583:24)
+122 error     at flow (_stream_readable.js:592:7)
+122 error     at Socket.pipeOnReadable (_stream_readable.js:624:5)
+123 error If you need help, you may report this log at:
+123 error     <http://github.com/isaacs/npm/issues>
+123 error or email it to:
+123 error     <npm-@googlegroups.com>
+124 error System Linux 4.4.0-128-generic
+125 error command "/usr/bin/nodejs" "/usr/bin/npm" "install"
+126 error cwd /var/www/mozghub.com/public_html
+127 error node -v v0.10.25
+128 error npm -v 1.3.10
+129 verbose exit [ 1, true ]
