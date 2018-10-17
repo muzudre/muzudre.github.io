@@ -501,7 +501,8 @@ a {
     border-radius: 2px;
     background-color: #fafafa;
     cursor: pointer;
-    margin-right: 2px
+    margin-right: 2px;
+    margin-bottom: 7px;
 }
 
 .g-sidebar,
