@@ -3,15 +3,15 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Best way to install Ionic framework on Ubuntu. - MozgHub | Awsome stuff for developers: Programming Tools, Code, HTML5, Mobile</title>
+    <title>Github Pages Website Push - MozgHub | Awsome stuff for developers: Programming Tools, Code, HTML5, Mobile</title>
     <link rel="shortcut icon" type="image/png" href="/mozghub/favicon.svg"/>
     <meta name="author"  content="MozgBot">
-    <meta name="description" content="Best way to install Ionic framework on Ubuntu.">
-    <meta name="keywords"  content="ionic, ubuntu">
+    <meta name="description" content="Github Pages Website Push">
+    <meta name="keywords"  content="git, github, githubpages">
     <!-- Open Graph -->
-    <meta property="og:title" content="Best way to install Ionic framework on Ubuntu. - MozgHub | Awsome stuff for developers: Programming Tools, Code, HTML5, Mobile">
+    <meta property="og:title" content="Github Pages Website Push - MozgHub | Awsome stuff for developers: Programming Tools, Code, HTML5, Mobile">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="http://localhost:4000/2018/07/25/install-ionic-framework-on-ubuntu.html">
+    <meta property="og:url" content="http://localhost:4000/2018/08/20/github-pages-website-push.html">
     <meta property="og:description" content="loves technology & design. I am very happy to share my thoughts on technology and life with you here.">
     <meta property="og:site_name" content="MozgHub | Awsome stuff for developers: Programming Tools, Code, HTML5, Mobile">
     <link rel="stylesheet" href="/mozghub/assets/css/normalize.css">
@@ -112,18 +112,21 @@
         
         
 
-        <a href="/mozghub/tags.html#ionic" class="post-tag">ionic</a>
+        <a href="/mozghub/tags.html#git" class="post-tag">git</a>
         
 
-        <a href="/mozghub/tags.html#ubuntu" class="post-tag">ubuntu</a>
+        <a href="/mozghub/tags.html#github" class="post-tag">github</a>
+        
+
+        <a href="/mozghub/tags.html#githubpages" class="post-tag">githubpages</a>
         
         
       </div>
-      <h1>Best way to install Ionic framework on Ubuntu.</h1>
+      <h1>Github Pages Website Push</h1>
       <div class="post-meta">
         <span class="post-meta-item"><i class="iconfont icon-author"></i><a href="/mozghub" target="_blank"
             rel="author">Blogbot</a></></span>
-        <time class="post-meta-item" datetime="18-07-25"><i class="iconfont icon-date"></i>25 Jul 2018</time>
+        <time class="post-meta-item" datetime="18-08-20"><i class="iconfont icon-date"></i>20 Aug 2018</time>
       </div>
     </div>
     
@@ -133,92 +136,15 @@
     
 
     <article class="markdown-body">
-      <p>See the Cordova Platform Guide <a href="https://ionicframework.com/docs/intro/installation/">here</a> and the Ionic Installation Guide <a href="https://ionicframework.com/docs/intro/installation/">here</a>, but I’m highlighting the key steps for Ubuntu.</p>
+      <p>Push it
+Add, commit, and push your changes:</p>
 
-<p>1) Install JDK 8.</p>
-
-<div class="language-console highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="go">sudo add-apt-repository ppa:webupd8team/java
-sudo apt-get update
-sudo apt-get install oracle-java8-installer
-sudo apt-get install oracle-java8-set-default
-</span></code></pre></div></div>
-
-<p>2) Install node.js and npm.</p>
-
-<div class="language-console highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="go">sudo apt-get update
-sudo apt-get install nodejs
-sudo apt-get install npm
-</span></code></pre></div></div>
-
-<p>3) Install Android Studio and the Android SDK.</p>
-
-<blockquote>
-  <p>Installing Android Studio</p>
-</blockquote>
-
-<p>1) Download Android Studio from <a href="https://developer.android.com/sdk/index.html">here</a>, use All Android Studio Packages</p>
-
-<p>2) Extract the archive file into an appropriate location for your applications, eg: /opt. Use the filename of your downloaded archive, in my example android-studio-ide-141.2178183-linux.zip</p>
-
-<div class="language-console highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="go">sudo unzip android-studio-ide-141.2178183-linux.zip -d /opt
-</span></code></pre></div></div>
-
-<p>3) To launch Android Studio, navigate to the /opt/android-studio/bin directory in a terminal and execute ./studio.sh. Or use a desktop file, see below.</p>
-
-<p>You may want to add /opt/android-studio/bin to your PATH environmental variable so that you can start Android Studio from any directory.</p>
-
-<p>4) Configure the ANDROID_HOME environment variable</p>
-
-<blockquote>
-  <p>Add the following lines to your $HOME/.bash_profile config file:</p>
-</blockquote>
-
-<div class="language-console highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="gp">export ANDROID_HOME=$</span>HOME/Android/Sdk
-<span class="gp">export PATH=$</span>PATH:<span class="nv">$ANDROID_HOME</span>/tools
-<span class="gp">export PATH=$</span>PATH:<span class="nv">$ANDROID_HOME</span>/tools/bin
-<span class="gp">export PATH=$</span>PATH:<span class="nv">$ANDROID_HOME</span>/platform-tools
+<div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git add <span class="nt">--all</span>
 </code></pre></div></div>
-
-<blockquote>
-  <p>.bash_profile is specific to bash. If you’re using another shell, you will need to edit the appropriate shell-specific config file.</p>
-</blockquote>
-
-<p>Type source $HOME/.bash_profile to load the config into your current shell. Verify that ANDROID_HOME has been added to your path by running echo $PATH.</p>
-
-<p>5) Create a desktop file</p>
-
-<p>Create a new file androidstudio.desktop by running the command:</p>
-
-<div class="language-console highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="go">nano ~/.local/share/applications/androidstudio.desktop
-</span></code></pre></div></div>
-
-<p>and add the lines below</p>
-
-<div class="language-console highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="go">[Desktop Entry]
-Version=1.0
-Type=Application
-Name=Android Studio
-Exec="/opt/android-studio/bin/studio.sh" %f
-Icon=/opt/android-studio/bin/studio.png
-</span><span class="gp">Categories=Development;</span>IDE<span class="p">;</span>
-<span class="go">Terminal=false
-StartupNotify=true
-StartupWMClass=android-studio
-</span></code></pre></div></div>
-
-<p>4) Using a terminal, install the Ionic CLI and related tools.</p>
-
-<div class="language-console highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="go">sudo apt-get install git ruby
-sudo gem install compass
-sudo npm install -g cordova ionic grunt-cli bower gulp
-</span></code></pre></div></div>
-
-<p>5) Start using Ionic!</p>
-
-<div class="language-console highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="go">ionic start todo example
-cd example
-ionic serve
-</span></code></pre></div></div>
+<div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git commit <span class="nt">-m</span> <span class="s2">"Initial commit"</span>
+</code></pre></div></div>
+<div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git push <span class="nt">-u</span> origin master
+</code></pre></div></div>
 
     </article>
 
@@ -259,10 +185,10 @@ ionic serve
     <section class="post-footer-item read-next">
       
       <div class="read-next-item">
-        <a href="/mozghub/2018/08/20/github-pages-website-push.html" class="read-next-link"></a>
+        <a href="/mozghub/2018/10/25/how-to-rename-react-native-app.html" class="read-next-link"></a>
         <section>
-          <span>Github Pages Website Push</span>
-          <p>Push itAdd, commit, and push your changes:</p>
+          <span>How to Rename A React Native App</span>
+          <p>How to Rename A React Native App</p>
         </section>
         
       </div>
@@ -270,10 +196,10 @@ ionic serve
 
       
       <div class="read-next-item">
-        <a href="/mozghub/2018/07/18/css-media-queries.html" class="read-next-link"></a>
+        <a href="/mozghub/2018/07/25/install-ionic-framework-on-ubuntu.html" class="read-next-link"></a>
         <section>
-          <span>CSS Media Queries for Desktop, Tablet, Mobile.</span>
-          <p>/*   ##Device = Desktops  ##Screen = 1281px to higher res...</p>
+          <span>Best way to install Ionic framework on Ubuntu.</span>
+          <p>See the Cordova Platform Guide here and the Ionic Install...</p>
         </section>
         
       </div>
