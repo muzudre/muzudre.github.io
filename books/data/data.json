@@ -325,7 +325,7 @@
 	"author": "Open SUNY Textbooks",
 	"cover": "https://muzudre.github.io/books/cover/cover41.jpg",
 	"license": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported",
-	"link_read": "http://textbooks.opensuny.org/download/swdm-pdf/"
+	"link_read": "http://textbooks.opensuny.org/download/swdm-pdf"
 	},
 	{
 	"id": 42,
@@ -357,6 +357,6 @@
 	"author": "The MIT Press",
 	"cover": "https://muzudre.github.io/books/cover/cover45.jpg",
 	"license": "Standard Copyright License",
-	"link_read": "https://www.dropbox.com/s/rnkqcak89lkuor8/5572.pdf?dl=0"
+	"link_read": "https://www.dropbox.com/s/rnkqcak89lkuor8/5572.pdf"
 	}
 ]
