@@ -36,24 +36,6 @@
       "size": "1.8 MB"
     },
     {
-      "id": 1003,
-      "title": "Javascript Enlightenment",
-      "author": "Cody Lindley",
-      "authorUrl": "http://www.javascriptenlightenment.com",
-      "level": "Intermediate",
-      "description": "An accurate JavaScript worldview through an examination of native JavaScript objects and supporting nuances.",
-      "url": "http://www.javascriptenlightenment.com/JavaScript_Enlightenment.pdf",
-      "cover": "javascript/cover_jsenlight.png",
-      "tags": [
-        "core"
-      ],
-      "license": "n/a",
-      "type": "pdf",
-      "pages": "",
-      "year": "",
-      "size": ""
-    },
-    {
       "id": 1004,
       "title": "Eloquent Javascript",
       "author": "Marijn Haverbeke",
