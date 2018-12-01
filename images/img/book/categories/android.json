@@ -1,0 +1,17 @@
+[
+    {
+    "id": 5001,
+    "title": "Android™ Notes for Professionals book",
+    "author": "Stack Overflow Documentation",
+    "authorUrl": "null",
+    "level": "null",
+    "description": "The Android™ Notes for Professionals book is compiled from Stack Overflow Documentation, the content is written by the beautiful people at Stack Overflow. Text content is released under Creative Commons BY-SA. See credits at the end of this book whom contributed to the various chapters. Images may be copyright of their respective owners unless otherwise specified",
+    "type": "pdf",
+    "cover": "android/AndroidGrow.png",
+    "license": "Creative Commons BY-SA. All trademarks belong to their respective company owners",
+    "url": "https://books.goalkicker.com/AndroidBook/AndroidNotesForProfessionals.pdf",
+    "pages": "1329 Pages",
+    "year": "2018",
+    "size": "12.5 MB"
+    }
+]
