@@ -1,0 +1,56 @@
+[
+    {
+    "id": 8001,
+    "title": "Java® Notes for Professionals book",
+    "author": "Stack Overflow Documentation",
+    "authorUrl": "null",
+    "level": "All",
+    "description": "The Java® Notes for Professionals book is compiled from Stack Overflow Documentation, the content is written by the beautiful people at Stack Overflow. Text content is released under Creative Commons BY-SA. See credits at the end of this book whom contributed to the various chapters. Images may be copyright of their respective owners unless otherwise specified",
+    "type": "pdf",
+    "cover": "java/JavaGrow.png",
+    "tags": [
+      "Java® Notes"
+    ],
+    "license": "Creative Commons BY-SA. All trademarks belong to their respective company owners",
+    "url": "https://books.goalkicker.com/JavaBook/JavaNotesForProfessionals.pdf",
+    "pages": "982 Pages",
+    "year": "2018",
+    "size": "7.0 MB"
+    },
+    {
+    "id": 8002,
+    "title": "Spring® Framework Notes for Professionals book",
+    "author": "Stack Overflow Documentation",
+    "authorUrl": "null",
+    "level": "All",
+    "description": "The Spring® Framework Notes for Professionals book is compiled from Stack Overflow Documentation, the content is written by the beautiful people at Stack Overflow. Text content is released under Creative Commons BY-SA. See credits at the end of this book whom contributed to the various chapters. Images may be copyright of their respective owners unless otherwise specified",
+    "type": "pdf",
+    "cover": "java/SpringFrameworkGrow.png",
+    "tags": [
+      "Spring® Framework Notes"
+    ],
+    "license": "Creative Commons BY-SA. All trademarks belong to their respective company owners",
+    "url": "https://books.goalkicker.com/SpringFrameworkBook/SpringFrameworkNotesForProfessionals.pdf",
+    "pages": "68 Pages",
+    "year": "2018",
+    "size": "865 kB"
+    },
+    {
+    "id": 8003,
+    "title": "Java® EE Notes for Professionals book",
+    "author": "Stack Overflow Documentation",
+    "authorUrl": "null",
+    "level": "All",
+    "description": "The Java® EE Notes for Professionals book is compiled from Stack Overflow Documentation, the content is written by the beautiful people at Stack Overflow. Text content is released under Creative Commons BY-SA. See credits at the end of this book whom contributed to the various chapters. Images may be copyright of their respective owners unless otherwise specified",
+    "type": "pdf",
+    "cover": "java/JavaEEGrow.png",
+    "tags": [
+      "Java® EE Notes"
+    ],
+    "license": "Creative Commons BY-SA. All trademarks belong to their respective company owners",
+    "url": "https://goalkicker.com/JavaEEBook/JavaEENotesForProfessionals.pdf",
+    "pages": "32 Pages",
+    "year": "2018",
+    "size": "622 kB"
+    }
+]

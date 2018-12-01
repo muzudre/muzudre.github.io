@@ -8,6 +8,9 @@
     "description": "Many books that teach HTML and CSS resemble dull manuals. To make it easier for you to learn, we threw away the traditional template used by publishers and redesigned this book from scratch.",
     "type": "pdf",
     "cover": "web/Html&css.jpg",
+    "tags": [
+      "Html"
+    ],
     "license": "All trademarks belong to their respective company owners",
     "url": "http://wtf.tw/ref/duckett.pdf",
     "pages": "514 Pages",
@@ -23,6 +26,9 @@
     "description": "Many books that teach HTML and CSS resemble dull manuals. To make it easier for you to learn, we threw away the traditional template used by publishers and redesigned this book from scratch.",
     "type": "pdf",
     "cover": "web/Web Design with HTML and CSS.jpg",
+    "tags": [
+      "Web Design"
+    ],
     "license": "All trademarks belong to their respective company owners",
     "url": "https://stevebraysduis.files.wordpress.com/2014/02/web-design-with-html-and-css-digital-classroom.pdf",
     "pages": "307 Pages ",
@@ -38,6 +44,9 @@
     "description": "The HTML5 Notes for Professionals book is compiled from Stack Overflow Documentation, the content is written by the beautiful people at Stack Overflow. Text content is released under Creative Commons BY-SA. See credits at the end of this book whom contributed to the various chapters. Images may be copyright of their respective owners unless otherwise specified",
     "type": "pdf",
     "cover": "web/HTML5Grow.png",
+    "tags": [
+      "HTML5"
+    ],
     "license": "Creative Commons BY-SA. All trademarks belong to their respective company owners",
     "url": "https://books.goalkicker.com/HTML5Book/HTML5NotesForProfessionals.pdf",
     "pages": "124 Pages",
@@ -53,6 +62,9 @@
     "description": "Good Technical stuff for beginners and intermediates who is looking to learn any technology.",
     "type": "pdf",
     "cover": "web/CSSGrow.png",
+    "tags": [
+      "CSS"
+    ],
     "license": "Creative Commons BY-SA. All trademarks belong to their respective company owners",
     "url": "https://books.goalkicker.com/CSSBook/CSSNotesForProfessionals.pdf",
     "pages": "244 Pages",
@@ -68,6 +80,9 @@
     "description": "The HTML5 Canvas Notes for Professionals book is compiled from Stack Overflow Documentation, the content is written by the beautiful people at Stack Overflow. Text content is released under Creative Commons BY-SA. See credits at the end of this book whom contributed to the various chapters. Images may be copyright of their respective owners unless otherwise specified",
     "type": "pdf",
     "cover": "web/HTML5CanvasGrow.png",
+    "tags": [
+      "HTML5"
+    ],
     "license": "Creative Commons BY-SA. All trademarks belong to their respective company owners",
     "url": "https://books.goalkicker.com/HTML5CanvasBook/HTML5CanvasNotesForProfessionals.pdf ",
     "pages": "180 Pages",
@@ -83,6 +98,9 @@
     "description": "The .NET Framework Notes for Professionals book is compiled from Stack Overflow Documentation, the content is written by the beautiful people at Stack Overflow. Text content is released under Creative Commons BY-SA. See credits at the end of this book whom contributed to the various chapters. Images may be copyright of their respective owners unless otherwise specified",
     "type": "pdf",
     "cover": "web/DotNETFrameworkGrow.png",
+    "tags": [
+      ".NET"
+    ],
     "license": "Creative Commons BY-SA. All trademarks belong to their respective company owners",
     "url": "https://books.goalkicker.com/DotNETFrameworkBook/DotNETFrameworkNotesForProfessionals.pdf",
     "pages": "192 Pages",
@@ -98,6 +116,9 @@
     "description": "The Algorithms Notes for Professionals book is compiled from Stack Overflow Documentation, the content is written by the beautiful people at Stack Overflow. Text content is released under Creative Commons BY-SA. See credits at the end of this book whom contributed to the various chapters. Images may be copyright of their respective owners unless otherwise specified",
     "type": "pdf",
     "cover": "web/AlgorithmsGrow.png",
+    "tags": [
+      "Algorithms"
+    ],
     "license": "Creative Commons BY-SA. All trademarks belong to their respective company owners",
     "url": "https://books.goalkicker.com/AlgorithmsBook/AlgorithmsNotesForProfessionals.pdf",
     "pages": "257 Pages",
@@ -113,6 +134,9 @@
     "description": "The Bash Notes for Professionals book is compiled from Stack Overflow Documentation, the content is written by the beautiful people at Stack Overflow. Text content is released under Creative Commons BY-SA. See credits at the end of this book whom contributed to the various chapters. Images may be copyright of their respective owners unless otherwise specified",
     "type": "pdf",
     "cover": "web/BashGrow.png",
+    "tags": [
+      "Bash"
+    ],
     "license": "Creative Commons BY-SA. All trademarks belong to their respective company owners",
     "url": "https://books.goalkicker.com/BashBook/BashNotesForProfessionals.pdf",
     "pages": "204 Pages",

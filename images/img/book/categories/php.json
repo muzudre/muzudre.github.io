@@ -1,0 +1,20 @@
+[
+    {
+    "id": 10001,
+    "title": "PHP Notes for Professionals book",
+    "author": "Stack Overflow Documentation",
+    "authorUrl": "null",
+    "level": "All",
+    "description": "The PHP Notes for Professionals book is compiled from Stack Overflow Documentation, the content is written by the beautiful people at Stack Overflow. Text content is released under Creative Commons BY-SA. See credits at the end of this book whom contributed to the various chapters. Images may be copyright of their respective owners unless otherwise specified",
+    "type": "pdf",
+    "cover": "php/PHPGrow.png",
+    "tags": [
+      "PHP Notes"
+    ],
+    "license": "Creative Commons BY-SA. All trademarks belong to their respective company owners",
+    "url": "https://books.goalkicker.com/PHPBook/PHPNotesForProfessionals.pdf",
+    "pages": "481 Pages",
+    "year": "2018",
+    "size": "3.5 MB"
+    }
+]

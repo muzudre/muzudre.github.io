@@ -4,14 +4,71 @@
     "title": "Objective-C® Notes for Professionals book",
     "author": "Stack Overflow Documentation",
     "authorUrl": "null",
-    "level": "beginner",
-    "description": "Very good reference to learn new programming languages. There are books for almost everything",
+    "level": "All",
+    "description": "The Objective-C® Notes for Professionals book is compiled from Stack Overflow Documentation, the content is written by the beautiful people at Stack Overflow. Text content is released under Creative Commons BY-SA. See credits at the end of this book whom contributed to the various chapters. Images may be copyright of their respective owners unless otherwise specified",
     "type": "pdf",
     "cover": "c/ObjectiveCGrow.png",
+    "tags": [
+      "Objective-C®"
+    ],
     "license": "Creative Commons BY-SA. All trademarks belong to their respective company owners",
-    "url": "http://wtf.tw/ref/duckett.pdf",
+    "url": "https://books.goalkicker.com/ObjectiveCBook/ObjectiveCNotesForProfessionals.pdf",
     "pages": "129 Pages",
     "year": "2018",
-    "size": "18.78 MB"
+    "size": "1.4 MB"
+    },
+    {
+    "id": 4002,
+    "title": "C Notes for Professionals book",
+    "author": "Stack Overflow Documentation",
+    "authorUrl": "null",
+    "level": "All",
+    "description": "The C Notes for Professionals book is compiled from Stack Overflow Documentation, the content is written by the beautiful people at Stack Overflow. Text content is released under Creative Commons BY-SA. See credits at the end of this book whom contributed to the various chapters. Images may be copyright of their respective owners unless otherwise specified",
+    "type": "pdf",
+    "cover": "c/CGrow.png",
+    "tags": [
+      "C Notes"
+    ],
+    "license": "Creative Commons BY-SA. All trademarks belong to their respective company owners",
+    "url": "https://books.goalkicker.com/CBook/CNotesForProfessionals.pdf",
+    "pages": "342 Pages",
+    "year": "2018",
+    "size": "2.4 MB"
+    },
+    {
+    "id": 4003,
+    "title": "C++ Notes for Professionals book",
+    "author": "Stack Overflow Documentation",
+    "authorUrl": "null",
+    "level": "All",
+    "description": "The C++ Notes for Professionals book is compiled from Stack Overflow Documentation, the content is written by the beautiful people at Stack Overflow. Text content is released under Creative Commons BY-SA. See credits at the end of this book whom contributed to the various chapters. Images may be copyright of their respective owners unless otherwise specified",
+    "type": "pdf",
+    "cover": "c/CPlusPlusGrow.png",
+    "tags": [
+      "C++ Notes"
+    ],
+    "license": "Creative Commons BY-SA. All trademarks belong to their respective company owners",
+    "url": "https://books.goalkicker.com/CPlusPlusBook/CPlusPlusNotesForProfessionals.pdf",
+    "pages": "708 Pages",
+    "year": "2018",
+    "size": "5.0 MB"
+    },
+    {
+    "id": 4004,
+    "title": "C# Notes for Professionals book",
+    "author": "Stack Overflow Documentation",
+    "authorUrl": "null",
+    "level": "All",
+    "description": "The C# Notes for Professionals book is compiled from Stack Overflow Documentation, the content is written by the beautiful people at Stack Overflow. Text content is released under Creative Commons BY-SA. See credits at the end of this book whom contributed to the various chapters. Images may be copyright of their respective owners unless otherwise specified",
+    "type": "pdf",
+    "cover": "c/CSharpGrow.png",
+    "tags": [
+      "C# Notes"
+    ],
+    "license": "Creative Commons BY-SA. All trademarks belong to their respective company owners",
+    "url": "https://books.goalkicker.com/CSharpBook/CSharpNotesForProfessionals.pdf",
+    "pages": "808 Pages",
+    "year": "2018",
+    "size": "5.9 MB"
     }
 ]

@@ -1,0 +1,20 @@
+[
+    {
+    "id": 9001,
+    "title": "Objective-C® Notes for Professionals book",
+    "author": "Stack Overflow Documentation",
+    "authorUrl": "null",
+    "level": "beginner",
+    "description": "Very good reference to learn new programming languages. There are books for almost everything",
+    "type": "pdf",
+    "cover": "c/ObjectiveCGrow.png",
+    "tags": [
+      "core"
+    ],
+    "license": "Creative Commons BY-SA. All trademarks belong to their respective company owners",
+    "url": "http://wtf.tw/ref/duckett.pdf",
+    "pages": "129 Pages",
+    "year": "2018",
+    "size": "18.78 MB"
+    }
+]

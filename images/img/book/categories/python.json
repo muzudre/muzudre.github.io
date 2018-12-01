@@ -1,5 +1,20 @@
 [
     {
+      "id": 2009,
+      "title": "Python® Notes for Professionals book",
+      "author": "Stack Overflow Documentation",
+      "authorUrl": "null",
+      "level": "null",
+      "description": "The Python® Notes for Professionals book is compiled from Stack Overflow Documentation, the content is written by the beautiful people at Stack Overflow. Text content is released under Creative Commons BY-SA. See credits at the end of this book whom contributed to the various chapters. Images may be copyright of their respective owners unless otherwise specified",
+      "type": "pdf",
+      "cover": "python/PythonGrow.png",
+      "license": "Creative Commons BY-SA. All trademarks belong to their respective company owners",
+      "url": "https://books.goalkicker.com/PythonBook/PythonNotesForProfessionals.pdf",
+      "pages": "816 Pages",
+      "year": "2018",
+      "size": "6.2 MB"
+    },
+    {
       "id": 2001,
       "title": "How to Make Mistakes in Python",
       "author": "Mike Pirnat",
@@ -103,21 +118,6 @@
       "pages": "",
       "year": "",
       "size": ""
-    },
-    {
-      "id": 2009,
-      "title": "Python® Notes for Professionals book",
-      "author": "Stack Overflow Documentation",
-      "authorUrl": "null",
-      "level": "null",
-      "description": "The Python® Notes for Professionals book is compiled from Stack Overflow Documentation, the content is written by the beautiful people at Stack Overflow. Text content is released under Creative Commons BY-SA. See credits at the end of this book whom contributed to the various chapters. Images may be copyright of their respective owners unless otherwise specified",
-      "type": "pdf",
-      "cover": "python/PythonGrow.png",
-      "license": "Creative Commons BY-SA. All trademarks belong to their respective company owners",
-      "url": "https://books.goalkicker.com/PythonBook/PythonNotesForProfessionals.pdf",
-      "pages": "816 Pages",
-      "year": "2018",
-      "size": "6.2 MB"
     },
     {
       "id": 20011,

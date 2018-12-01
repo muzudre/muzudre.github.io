@@ -1,0 +1,38 @@
+[
+    {
+    "id": 12001,
+    "title": "Swift™ Notes for Professionals book",
+    "author": "Stack Overflow Documentation",
+    "authorUrl": "null",
+    "level": "All",
+    "description": "The Swift™ Notes for Professionals book is compiled from Stack Overflow Documentation, the content is written by the beautiful people at Stack Overflow. Text content is released under Creative Commons BY-SA. See credits at the end of this book whom contributed to the various chapters. Images may be copyright of their respective owners unless otherwise specified",
+    "type": "pdf",
+    "cover": "swift/SwiftGrow.png",
+    "tags": [
+      "Swift™ Notes"
+    ],
+    "license": "Creative Commons BY-SA. All trademarks belong to their respective company owners",
+    "url": "https://books.goalkicker.com/SwiftBook/SwiftNotesForProfessionals.pdf",
+    "pages": "291 Pages",
+    "year": "2018",
+    "size": "2.7 MB"
+    },
+    {
+    "id": 12002,
+    "title": "iOS® Developer Notes for Professionals book",
+    "author": "Stack Overflow Documentation",
+    "authorUrl": "null",
+    "level": "All",
+    "description": "The iOS® Developer Notes for Professionals book is compiled from Stack Overflow Documentation, the content is written by the beautiful people at Stack Overflow. Text content is released under Creative Commons BY-SA. See credits at the end of this book whom contributed to the various chapters. Images may be copyright of their respective owners unless otherwise specified",
+    "type": "pdf",
+    "cover": "swift/iOSGrow.png",
+    "tags": [
+      "iOS® Developer Notes"
+    ],
+    "license": "Creative Commons BY-SA. All trademarks belong to their respective company owners",
+    "url": "https://goalkicker.com/iOSBook/iOSNotesForProfessionals.pdf",
+    "pages": "893 Pages",
+    "year": "2018",
+    "size": "14.2 MB"
+    }
+]
