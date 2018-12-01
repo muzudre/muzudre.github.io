@@ -162,10 +162,10 @@
 	"authorUrl": "null",
 	"level": "null",
 	"description": "null",
-	"type": "web",
+	"type": "pdf",
 	"cover": "cover/cover14.jpg",
 	"license": "Creative Commons Attribution-NonCommercial-NoDerivs 3.0 United States",
-	"url": "http://programmingcomputervision.com/"
+	"url": "http://programmingcomputervision.com/downloads/ProgrammingComputerVision_CCdraft.pdf"
 	},
 	{
 	"id": 15,
@@ -174,10 +174,10 @@
 	"authorUrl": "null",
 	"level": "null",
 	"description": "null",
-	"type": "web",
+	"type": "pdf",
 	"cover": "cover/cover15.jpg",
 	"license": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0 New Zealand",
-	"url": "http://www.briggs.net.nz/snake-wrangling-for-kids.html"
+	"url": "https://nostarch.com/download/PythonForKidsSolutions.pdf"
 	},
 	{
 	"id": 16,
@@ -186,10 +186,10 @@
 	"authorUrl": "null",
 	"level": "null",
 	"description": "null",
-	"type": "web",
+	"type": "pdf",
 	"cover": "cover/cover16.jpg",
 	"license": "Creative Commons Attribution-NonCommercial 3.0 Unported",
-	"url": "http://greenteapress.com/wp/think-bayes/"
+	"url": "http://www.greenteapress.com/thinkbayes/thinkbayes.pdf"
 	},
 	{
 	"id": 17,
@@ -210,10 +210,10 @@
 	"authorUrl": "null",
 	"level": "null",
 	"description": "null",
-	"type": "web",
+	"type": "pdf",
 	"cover": "cover/cover18.jpg",
 	"license": "Creative Commons Attribution-NonCommercial 3.0 Unported",
-	"url": "http://greenteapress.com/wp/think-python-2e/"
+	"url": "http://greenteapress.com/thinkpython2/thinkpython2.pdf"
 	},
 	{
 	"id": 19,
@@ -225,7 +225,7 @@
 	"type": "web",
 	"cover": "cover/cover19.jpg",
 	"license": "Creative Commons Attribution-NonCommercial 3.0 Unported",
-	"url": "http://greenteapress.com/wp/think-stats-2e/"
+	"url": "http://greenteapress.com/thinkstats2/thinkstats2.pdf"
 	},
 	{
 	"id": 20,
@@ -318,10 +318,10 @@
 	"authorUrl": "null",
 	"level": "null",
 	"description": "null",
-	"type": "web",
+	"type": "pdf",
 	"cover": "cover/cover27.jpg",
 	"license": "n/a",
-	"url": "http://librta.org/book.html"
+	"url": "http://librta.org/downloads/LAD.pdf"
 	},
 	{
 	"id": 28,
@@ -357,7 +357,7 @@
 	"type": "web",
 	"cover": "cover/cover30.jpg",
 	"license": "Creative Commons Attribution 3.0 Unported",
-	"url": "http://guide.couchdb.org/"
+	"url": "http://guide.couchdb.org/editions/1/en/index.html"
 	},
 	{
 	"id": 31,
@@ -378,10 +378,10 @@
 	"authorUrl": "null",
 	"level": "null",
 	"description": "null",
-	"type": "web",
+	"type": "pdf",
 	"cover": "cover/cover32.jpg",
 	"license": "Creative Commons Attribution-NonCommercial 3.0 Unported",
-	"url": "https://link.springer.com/book/10.1007%2F978-3-642-32392-8"
+	"url": "https://link.springer.com/content/pdf/10.1007%2F978-3-642-32392-8.pdf"
 	},
 	{
 	"id": 33,
@@ -414,10 +414,10 @@
 	"authorUrl": "null",
 	"level": "null",
 	"description": "null",
-	"type": "web",
+	"type": "pdf",
 	"cover": "cover/cover35.jpg",
 	"license": "Standard Copyright License",
-	"url": "http://webdam.inria.fr/Alice/"
+	"url": "http://webdam.inria.fr/Alice/pdfs/all.pdf"
 	},
 	{
 	"id": 36,
@@ -441,7 +441,7 @@
 	"type": "pdf",
 	"cover": "cover/cover37.jpg",
 	"license": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported",
-	"url": "http://www.pythonlearn.com/book.php"
+	"url": "http://do1.dr-chuck.net/py4inf/EN-us/book.pdf"
 	},
 	{
 	"id": 38,
@@ -456,18 +456,6 @@
 	"url": "https://progit2.s3.amazonaws.com/en/2016-03-22-f3531/progit-en.1084.pdf"
 	},
 	{
-	"id": 39,
-	"title": "OpenIntro Statistics, Third Edition",
-	"author": "OpenIntro, Inc.",
-	"authorUrl": "null",
-	"level": "null",
-	"description": "null",
-	"type": "web",
-	"cover": "cover/cover39.jpg",
-	"license": " Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported",
-	"url": "https://drive.google.com/file/d/0B-DHaDEbiOGkc1RycUtIcUtIelE/view"
-	},
-	{
 	"id": 40,
 	"title": "Learn You a Haskell for Great Good! - A Beginner's Guide",
 	"author": "No Starch Press",
@@ -478,30 +466,6 @@
 	"cover": "cover/cover40.jpg",
 	"license": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported",
 	"url": "http://learnyouahaskell.com/chapters"
-	},
-	{
-	"id": 41,
-	"title": "A Spiral Workbook for Discrete Mathematics",
-	"author": "Open SUNY Textbooks",
-	"authorUrl": "null",
-	"level": "null",
-	"description": "null",
-	"type": "pdf",
-	"cover": "cover/cover41.jpg",
-	"license": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported",
-	"url": "http://textbooks.opensuny.org/download/swdm-pdf"
-	},
-	{
-	"id": 42,
-	"title": "The Linux Command Line: A Complete Introduction, Third Internet Edition",
-	"author": "No Starch Press",
-	"authorUrl": "null",
-	"level": "null",
-	"description": "null",
-	"type": "web",
-	"cover": "cover/cover42.jpg",
-	"license": "Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported",
-	"url": "https://sourceforge.net/projects/linuxcommand/files/TLCL/16.07/TLCL-16.07.pdf/download"
 	},
 	{
 	"id": 43,
@@ -526,17 +490,5 @@
 	"cover": "cover/cover44.jpg",
 	"license": "Standard Copyright License",
 	"url": "http://www.red-book.eu/m/documents/syssec_red_book.pdf"
-	},
-	{
-	"id": 45,
-	"title": "Privacy on the Line: The Politics of Wiretapping and Encryption",
-	"author": "The MIT Press",
-	"authorUrl": "null",
-	"level": "null",
-	"description": "null",
-	"type": "web",
-	"cover": "cover/cover45.jpg",
-	"license": "Standard Copyright License",
-	"url": "https://www.dropbox.com/s/rnkqcak89lkuor8/5572.pdf?dl=0"
 	}
 ]
