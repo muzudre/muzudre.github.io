@@ -142,5 +142,24 @@
     "pages": "204 Pages",
     "year": "2018",
     "size": "1.8 MB"
-    }
+    },
+    {
+    "id": 3009,
+    "title": "HTML Canvas Deep Dive",
+    "author": "Josh Marinacci",
+    "authorUrl": "http://joshondesign.com/",
+    "level": "Advanced",
+    "description": "For those who allready know JavaScript basics and wants to learn HTML Canvas.",
+    "url": "http://joshondesign.com/p/books/canvasdeepdive/toc.html",
+    "cover": "javascript/cover_htmlcanvas.png",
+    "tags": [
+    "games",
+    "frontend"
+    ],
+    "license": "n/a",
+    "type": "web",
+    "pages": "",
+    "year": "",
+    "size": ""
+    },
 ]

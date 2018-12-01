@@ -9,7 +9,7 @@
       "url": "https://books.goalkicker.com/Angular2Book/Angular2NotesForProfessionals.pdf",
       "cover": "javascript/Angular2Grow.png",
       "tags": [
-        "core"
+        "Angular 2+ Notes"
       ],
       "license": "Creative Commons BY-SA. All trademarks belong to their respective company owners",
       "type": "pdf",
@@ -27,7 +27,7 @@
       "url": "https://books.goalkicker.com/AngularJSBook/AngularJSNotesForProfessionals.pdf",
       "cover": "javascript/AngularJSGrow.png",
       "tags": [
-        "core"
+        "AngularJS Notes"
       ],
       "license": "Creative Commons BY-SA. All trademarks belong to their respective company owners",
       "type": "pdf",
@@ -35,97 +35,7 @@
       "year": "2018",
       "size": "1.8 MB"
     },
-    {
-      "id": 1004,
-      "title": "Eloquent Javascript",
-      "author": "Marijn Haverbeke",
-      "authorUrl": "http://eloquentjavascript.net",
-      "level": "Beginner",
-      "description": "A book providing an introduction to the JavaScript language and programming in general.",
-      "url": "http://eloquentjavascript.net/",
-      "cover": "javascript/cover_eloquentjs.png",
-      "tags": [
-        "core"
-      ],
-      "license": "n/a",
-      "type": "web",
-      "pages": "",
-      "year": "",
-      "size": ""
-    },
-    {
-      "id": 1005,
-      "title": "JavaScript® Notes for Professionals book",
-      "author": "Stack Overflow Documentation.",
-      "authorUrl": "null",
-      "level": "All",
-      "description": "The JavaScript® Notes for Professionals book is compiled from Stack Overflow Documentation, the content is written by the beautiful people at Stack Overflow. Text content is released under Creative Commons BY-SA. See credits at the end of this book whom contributed to the various chapters. Images may be copyright of their respective owners unless otherwise specified",
-      "url": "https://books.goalkicker.com/JavaScriptBook/JavaScriptNotesForProfessionals.pdf",
-      "cover": "javascript/JavaScriptGrow.png",
-      "tags": [
-        "core"
-      ],
-      "license": "Creative Commons BY-SA. All trademarks belong to their respective company owners",
-      "type": "pdf",
-      "pages": "490 Pages",
-      "year": "2018",
-      "size": "4.2 MB"
-    },
-    {
-      "id": 1006,
-      "title": "JS in ten minutes",
-      "author": "Spencer Tipping",
-      "authorUrl": "http://spencertipping.com/",
-      "level": "Advanced",
-      "description": "This guide is for anyone who knows some Javascript but would like a quick intro to its advanced features.",
-      "url": "https://github.com/spencertipping/js-in-ten-minutes/blob/master/js-in-ten-minutes.pdf?raw=true",
-      "cover": "javascript/cover_js10minutes.png",
-      "tags": [
-        "core"
-      ],
-      "license": "n/a",
-      "type": "web",
-      "pages": "",
-      "year": "",
-      "size": ""
-    },
-    {
-      "id": 1007,
-      "title": "Smooth CoffeeScript",
-      "author": "E. Hoigaard",
-      "authorUrl": "http://autotelicum.github.com/Smooth-CoffeeScript",
-      "level": "Intermediate",
-      "description": "An introduction to CoffeeScript programming with an emphasis on clarity, abstraction and verification.",
-      "url": "http://autotelicum.github.com/Smooth-CoffeeScript/interactive/interactive-coffeescript.html",
-      "cover": "javascript/cover_smoothcoffeescript.png",
-      "tags": [
-        "coffeescript"
-      ],
-      "license": "n/a",
-      "type": "web",
-      "pages": "",
-      "year": "",
-      "size": ""
-    },
-    {
-      "id": 1008,
-      "title": "Hard Rock CoffeeScript",
-      "author": "Alex Chaplinsky",
-      "authorUrl": "https://github.com/alchapone/hard-rock-coffeescript",
-      "level": "Intermediate",
-      "description": "CoffeeScript programming language guide with javascript design patterns explained in coffeescript.",
-      "url": "https://github.com/alchapone/hard-rock-coffeescript",
-      "cover": "javascript/hard_rock_coffeescript.png",
-      "tags": [
-        "coffeescript"
-      ],
-      "license": "n/a",
-      "type": "web",
-      "pages": "",
-      "year": "",
-      "size": ""
-    },
-    {
+        {
       "id": 1009,
       "title": "jQuery® Notes for Professionals book",
       "author": "Stack Overflow Documentation.",
@@ -135,141 +45,13 @@
       "url": "https://books.goalkicker.com/jQueryBook/jQueryNotesForProfessionals.pdf",
       "cover": "javascript/jQueryGrow.png",
       "tags": [
-        "jQuery®"
+        "jQuery® Notes"
       ],
       "license": "Creative Commons BY-SA. All trademarks belong to their respective company owners",
       "type": "pdf",
       "pages": "67 Pages",
       "year": "2018",
       "size": "1.0 MB"
-    },
-    {
-      "id": 10010,
-      "title": "jQuery Fundamentals",
-      "author": "Rebecca Murphey",
-      "authorUrl": "http://jqfundamentals.com",
-      "level": "Beginner",
-      "description": "Community driven Javascript and jQuery book.",
-      "url": "http://jqfundamentals.com/",
-      "cover": "javascript/cover_jqueryfund.png",
-      "tags": [
-        "jquery",
-        "frontend"
-      ],
-      "license": "n/a",
-      "type": "web",
-      "pages": "",
-      "year": "",
-      "size": ""
-    },
-    {
-      "id": 10011,
-      "title": "Developing Backbone.js Applications",
-      "author": "Addy Osmani",
-      "authorUrl": "https://twitter.com/addyosmani",
-      "level": "Intermediate",
-      "description": "In this book we will explore MVC theory and how to build applications using Backbone's models, views, collections and routers.",
-      "url": "http://addyosmani.github.com/backbone-fundamentals",
-      "cover": "javascript/cover_backbonefundamentals.jpg",
-      "tags": [
-        "backbone",
-        "frontend"
-      ],
-      "license": "n/a",
-      "type": "web",
-      "pages": "",
-      "year": "",
-      "size": ""
-    },
-    {
-      "id": 10012,
-      "title": "Javascript Guide",
-      "author": "Mozilla Developer Network",
-      "authorUrl": "https://developer.mozilla.org",
-      "level": "Beginner",
-      "description": "JavaScript is a cross-platform, object-based scripting language. This guide explains everything you need to know about using JavaScript.",
-      "url": "https://developer.mozilla.org/en/JavaScript/Guide/JavaScript_Overview",
-      "cover": "javascript/cover_jsguidemozilla.png",
-      "tags": [
-        "core"
-      ],
-      "license": "n/a",
-      "type": "web",
-      "pages": "",
-      "year": "",
-      "size": ""
-    },
-    {
-      "id": 10013,
-      "title": "JavaScript For Cats",
-      "author": "Max Ogden",
-      "authorUrl": "http://github.com/maxogden",
-      "level": "Beginner",
-      "description": "An in-browser interactive introductory programming text designed for cats. Humans are probably also capable of following along.",
-      "url": "http://jsforcats.com",
-      "cover": "javascript/cover_jsforcats.png",
-      "tags": [
-        "core"
-      ],
-      "license": "n/a",
-      "type": "web",
-      "pages": "",
-      "year": "",
-      "size": ""
-    },
-    {
-      "id": 10014,
-      "title": "Javascript Design Patterns",
-      "author": "Addy Osmani",
-      "authorUrl": "https://twitter.com/addyosmani",
-      "level": "Beginner",
-      "description": "In this book we will explore applying both classical and modern design patterns to the JavaScript programming language",
-      "url": "http://www.addyosmani.com/resources/essentialjsdesignpatterns/book/",
-      "cover": "javascript/cover_jspatterns.png",
-      "tags": [
-        "core"
-      ],
-      "license": "n/a",
-      "type": "web",
-      "pages": "",
-      "year": "",
-      "size": ""
-    },
-    {
-      "id": 10015,
-      "title": "Writing Modular JavaScript With AMD, CommonJS & ES Harmony",
-      "author": "Addy Osmani",
-      "authorUrl": "https://twitter.com/addyosmani",
-      "level": "Advanced",
-      "description": "In this article, we're going to look at three formats for writing modular JavaScript: AMD, CommonJS and proposals for the next version of JavaScript, Harmony.",
-      "url": "http://addyosmani.com/writing-modular-js",
-      "cover": "javascript/cover_modularjavascript.png",
-      "tags": [
-        "core"
-      ],
-      "license": "n/a",
-      "type": "web",
-      "pages": "",
-      "year": "",
-      "size": ""
-    },
-    {
-      "id": 10016,
-      "title": "The little Book on CoffeeScript",
-      "author": "Alex MacCaw",
-      "authorUrl": "http://arcturo.github.com/",
-      "level": "Intermediate",
-      "description": "This book is designed to help you learn CoffeeScript, understand best practices and start building awesome client side applications.",
-      "url": "http://arcturo.github.com/library/coffeescript/01_introduction.html",
-      "cover": "javascript/cover_littlecoffeescript.png",
-      "tags": [
-        "coffeescript"
-      ],
-      "license": "n/a",
-      "type": "web",
-      "pages": "",
-      "year": "",
-      "size": ""
     },
     {
       "id": 10017,
@@ -281,32 +63,13 @@
       "url": "https://books.goalkicker.com/NodeJSBook/NodeJSNotesForProfessionals.pdf",
       "cover": "javascript/NodeJSGrow.png",
       "tags": [
-        "Node js"
+        "Node.js Notes"
       ],
       "license": "Creative Commons BY-SA. All trademarks belong to their respective company owners",
       "type": "pdf",
       "pages": "334 Pages",
       "year": "2018",
       "size": "2.9 MB"
-    },
-    {
-      "id": 10018,
-      "title": "HTML Canvas Deep Dive",
-      "author": "Josh Marinacci",
-      "authorUrl": "http://joshondesign.com/",
-      "level": "Advanced",
-      "description": "For those who allready know JavaScript basics and wants to learn HTML Canvas.",
-      "url": "http://joshondesign.com/p/books/canvasdeepdive/toc.html",
-      "cover": "javascript/cover_htmlcanvas.png",
-      "tags": [
-        "games",
-        "frontend"
-      ],
-      "license": "n/a",
-      "type": "web",
-      "pages": "",
-      "year": "",
-      "size": ""
     },
     {
       "id": 10019,
@@ -362,6 +125,226 @@
       "year": "2018",
       "size": "1.2 MB"
     },
+    {
+      "id": 1004,
+      "title": "Eloquent Javascript",
+      "author": "Marijn Haverbeke",
+      "authorUrl": "http://eloquentjavascript.net",
+      "level": "Beginner",
+      "description": "A book providing an introduction to the JavaScript language and programming in general.",
+      "url": "http://eloquentjavascript.net/",
+      "cover": "javascript/cover_eloquentjs.png",
+      "tags": [
+        "Javascript"
+      ],
+      "license": "n/a",
+      "type": "web",
+      "pages": "",
+      "year": "",
+      "size": ""
+    },
+    {
+      "id": 1005,
+      "title": "JavaScript® Notes for Professionals book",
+      "author": "Stack Overflow Documentation.",
+      "authorUrl": "null",
+      "level": "All",
+      "description": "The JavaScript® Notes for Professionals book is compiled from Stack Overflow Documentation, the content is written by the beautiful people at Stack Overflow. Text content is released under Creative Commons BY-SA. See credits at the end of this book whom contributed to the various chapters. Images may be copyright of their respective owners unless otherwise specified",
+      "url": "https://books.goalkicker.com/JavaScriptBook/JavaScriptNotesForProfessionals.pdf",
+      "cover": "javascript/JavaScriptGrow.png",
+      "tags": [
+        "JavaScript® Notes"
+      ],
+      "license": "Creative Commons BY-SA. All trademarks belong to their respective company owners",
+      "type": "pdf",
+      "pages": "490 Pages",
+      "year": "2018",
+      "size": "4.2 MB"
+    },
+    {
+      "id": 1006,
+      "title": "JS in ten minutes",
+      "author": "Spencer Tipping",
+      "authorUrl": "http://spencertipping.com/",
+      "level": "Advanced",
+      "description": "This guide is for anyone who knows some Javascript but would like a quick intro to its advanced features.",
+      "url": "https://github.com/spencertipping/js-in-ten-minutes/blob/master/js-in-ten-minutes.pdf?raw=true",
+      "cover": "javascript/cover_js10minutes.png",
+      "tags": [
+        "JS"
+      ],
+      "license": "n/a",
+      "type": "web",
+      "pages": "",
+      "year": "",
+      "size": ""
+    },
+    {
+      "id": 1007,
+      "title": "Smooth CoffeeScript",
+      "author": "E. Hoigaard",
+      "authorUrl": "http://autotelicum.github.com/Smooth-CoffeeScript",
+      "level": "Intermediate",
+      "description": "An introduction to CoffeeScript programming with an emphasis on clarity, abstraction and verification.",
+      "url": "http://autotelicum.github.com/Smooth-CoffeeScript/interactive/interactive-coffeescript.html",
+      "cover": "javascript/cover_smoothcoffeescript.png",
+      "tags": [
+        "coffeescript"
+      ],
+      "license": "n/a",
+      "type": "web",
+      "pages": "",
+      "year": "",
+      "size": ""
+    },
+    {
+      "id": 1008,
+      "title": "Hard Rock CoffeeScript",
+      "author": "Alex Chaplinsky",
+      "authorUrl": "https://github.com/alchapone/hard-rock-coffeescript",
+      "level": "Intermediate",
+      "description": "CoffeeScript programming language guide with javascript design patterns explained in coffeescript.",
+      "url": "https://github.com/alchapone/hard-rock-coffeescript",
+      "cover": "javascript/hard_rock_coffeescript.png",
+      "tags": [
+        "coffeescript"
+      ],
+      "license": "n/a",
+      "type": "web",
+      "pages": "",
+      "year": "",
+      "size": ""
+    },
+
+    {
+      "id": 10010,
+      "title": "jQuery Fundamentals",
+      "author": "Rebecca Murphey",
+      "authorUrl": "http://jqfundamentals.com",
+      "level": "Beginner",
+      "description": "Community driven Javascript and jQuery book.",
+      "url": "http://jqfundamentals.com/",
+      "cover": "javascript/cover_jqueryfund.png",
+      "tags": [
+        "jquery",
+        "frontend"
+      ],
+      "license": "n/a",
+      "type": "web",
+      "pages": "",
+      "year": "",
+      "size": ""
+    },
+    {
+      "id": 10011,
+      "title": "Developing Backbone.js Applications",
+      "author": "Addy Osmani",
+      "authorUrl": "https://twitter.com/addyosmani",
+      "level": "Intermediate",
+      "description": "In this book we will explore MVC theory and how to build applications using Backbone's models, views, collections and routers.",
+      "url": "http://addyosmani.github.com/backbone-fundamentals",
+      "cover": "javascript/cover_backbonefundamentals.jpg",
+      "tags": [
+        "backbone",
+        "frontend"
+      ],
+      "license": "n/a",
+      "type": "web",
+      "pages": "",
+      "year": "",
+      "size": ""
+    },
+    {
+      "id": 10012,
+      "title": "Javascript Guide",
+      "author": "Mozilla Developer Network",
+      "authorUrl": "https://developer.mozilla.org",
+      "level": "Beginner",
+      "description": "JavaScript is a cross-platform, object-based scripting language. This guide explains everything you need to know about using JavaScript.",
+      "url": "https://developer.mozilla.org/en/JavaScript/Guide/JavaScript_Overview",
+      "cover": "javascript/cover_jsguidemozilla.png",
+      "tags": [
+        "Javascript"
+      ],
+      "license": "n/a",
+      "type": "web",
+      "pages": "",
+      "year": "",
+      "size": ""
+    },
+    {
+      "id": 10013,
+      "title": "Javascript For Cats",
+      "author": "Max Ogden",
+      "authorUrl": "http://github.com/maxogden",
+      "level": "Beginner",
+      "description": "An in-browser interactive introductory programming text designed for cats. Humans are probably also capable of following along.",
+      "url": "http://jsforcats.com",
+      "cover": "javascript/cover_jsforcats.png",
+      "tags": [
+        "Javascript"
+      ],
+      "license": "n/a",
+      "type": "web",
+      "pages": "",
+      "year": "",
+      "size": ""
+    },
+    {
+      "id": 10014,
+      "title": "Javascript Design Patterns",
+      "author": "Addy Osmani",
+      "authorUrl": "https://twitter.com/addyosmani",
+      "level": "Beginner",
+      "description": "In this book we will explore applying both classical and modern design patterns to the JavaScript programming language",
+      "url": "http://www.addyosmani.com/resources/essentialjsdesignpatterns/book/",
+      "cover": "javascript/cover_jspatterns.png",
+      "tags": [
+        "Javascript Design"
+      ],
+      "license": "n/a",
+      "type": "web",
+      "pages": "",
+      "year": "",
+      "size": ""
+    },
+    {
+      "id": 10015,
+      "title": "Writing Modular JavaScript With AMD, CommonJS & ES Harmony",
+      "author": "Addy Osmani",
+      "authorUrl": "https://twitter.com/addyosmani",
+      "level": "Advanced",
+      "description": "In this article, we're going to look at three formats for writing modular JavaScript: AMD, CommonJS and proposals for the next version of JavaScript, Harmony.",
+      "url": "http://addyosmani.com/writing-modular-js",
+      "cover": "javascript/cover_modularjavascript.png",
+      "tags": [
+        "JavaScript With AMD"
+      ],
+      "license": "n/a",
+      "type": "web",
+      "pages": "",
+      "year": "",
+      "size": ""
+    },
+    {
+      "id": 10016,
+      "title": "The little Book on CoffeeScript",
+      "author": "Alex MacCaw",
+      "authorUrl": "http://arcturo.github.com/",
+      "level": "Intermediate",
+      "description": "This book is designed to help you learn CoffeeScript, understand best practices and start building awesome client side applications.",
+      "url": "http://arcturo.github.com/library/coffeescript/01_introduction.html",
+      "cover": "javascript/cover_littlecoffeescript.png",
+      "tags": [
+        "coffeescript"
+      ],
+      "license": "n/a",
+      "type": "web",
+      "pages": "",
+      "year": "",
+      "size": ""
+    },
+    
     {
       "id": 10022,
       "title": "Javascript Garden",
