@@ -1,23 +1,5 @@
 [
     {
-    "id": 3001,
-    "title": "Html & Css",
-    "author": "by Jon Duckett",
-    "authorUrl": "null",
-    "level": "beginner",
-    "description": "Many books that teach HTML and CSS resemble dull manuals. To make it easier for you to learn, we threw away the traditional template used by publishers and redesigned this book from scratch.",
-    "type": "pdf",
-    "cover": "web/Html&css.jpg",
-    "tags": [
-      "Html"
-    ],
-    "license": "All trademarks belong to their respective company owners",
-    "url": "http://wtf.tw/ref/duckett.pdf",
-    "pages": "514 Pages",
-    "year": "2011",
-    "size": "18.78 MB"
-    },
-    {
     "id": 3002,
     "title": "Web Design with HTML and CSS",
     "author": "Jeremy Osborn",
