@@ -1,20 +1,254 @@
 [
     {
     "id": 13001,
-    "title": "PHP Notes for Professionals book",
+    "title": "Entity Framework Notes for Professionals book",
     "author": "Stack Overflow Documentation",
     "authorUrl": "null",
     "level": "All",
-    "description": "The PHP Notes for Professionals book is compiled from Stack Overflow Documentation, the content is written by the beautiful people at Stack Overflow. Text content is released under Creative Commons BY-SA. See credits at the end of this book whom contributed to the various chapters. Images may be copyright of their respective owners unless otherwise specified",
+    "description": "The Entity Framework Notes for Professionals book is compiled from Stack Overflow Documentation, the content is written by the beautiful people at Stack Overflow. Text content is released under Creative Commons BY-SA. See credits at the end of this book whom contributed to the various chapters. Images may be copyright of their respective owners unless otherwise specified",
     "type": "pdf",
-    "cover": "php/PHPGrow.png",
+    "cover": "others/EntityFrameworkGrow.png",
     "tags": [
-      "PHP Notes"
+      "Entity Framework"
     ],
     "license": "Creative Commons BY-SA. All trademarks belong to their respective company owners",
-    "url": "https://books.goalkicker.com/PHPBook/PHPNotesForProfessionals.pdf",
-    "pages": "481 Pages",
+    "url": "https://books.goalkicker.com/EntityFrameworkBook/EntityFrameworkNotesForProfessionals.pdf",
+    "pages": "94 Pages",
     "year": "2018",
-    "size": "3.5 MB"
+    "size": "1.6 MB"
+    },
+    {
+    "id": 13002,
+    "title": "Excel® VBA Notes for Professionals book",
+    "author": "Stack Overflow Documentation",
+    "authorUrl": "null",
+    "level": "All",
+    "description": "The Excel® VBA Notes for Professionals book is compiled from Stack Overflow Documentation, the content is written by the beautiful people at Stack Overflow. Text content is released under Creative Commons BY-SA. See credits at the end of this book whom contributed to the various chapters. Images may be copyright of their respective owners unless otherwise specified",
+    "type": "pdf",
+    "cover": "others/ExcelVBAGrow.png",
+    "tags": [
+      "Excel® VBA"
+    ],
+    "license": "Creative Commons BY-SA. All trademarks belong to their respective company owners",
+    "url": "https://books.goalkicker.com/ExcelVBABook/ExcelVBANotesForProfessionals.pdf",
+    "pages": "128 Pages",
+    "year": "2018",
+    "size": "2.5 MB"
+    },
+    {
+    "id": 13003,
+    "title": "Git® Notes for Professionals book",
+    "author": "Stack Overflow Documentation",
+    "authorUrl": "null",
+    "level": "All",
+    "description": "The Git® Notes for Professionals book is compiled from Stack Overflow Documentation, the content is written by the beautiful people at Stack Overflow. Text content is released under Creative Commons BY-SA. See credits at the end of this book whom contributed to the various chapters. Images may be copyright of their respective owners unless otherwise specified",
+    "type": "pdf",
+    "cover": "others/GitGrow.png",
+    "tags": [
+      "Git®"
+    ],
+    "license": "Creative Commons BY-SA. All trademarks belong to their respective company owners",
+    "url": "https://books.goalkicker.com/GitBook/GitNotesForProfessionals.pdf",
+    "pages": "128 Pages",
+    "year": "2018",
+    "size": "2.6 MB"
+    },
+    {
+    "id": 13004,
+    "title": "Haskell Notes for Professionals book",
+    "author": "Stack Overflow Documentation",
+    "authorUrl": "null",
+    "level": "All",
+    "description": "The Haskell Notes for Professionals book is compiled from Stack Overflow Documentation, the content is written by the beautiful people at Stack Overflow. Text content is released under Creative Commons BY-SA. See credits at the end of this book whom contributed to the various chapters. Images may be copyright of their respective owners unless otherwise specified",
+    "type": "pdf",
+    "cover": "others/HaskellGrow.png",
+    "tags": [
+      "Haskell"
+    ],
+    "license": "Creative Commons BY-SA. All trademarks belong to their respective company owners",
+    "url": "https://books.goalkicker.com/HaskellBook/HaskellNotesForProfessionals.pdf",
+    "pages": "230 Pages",
+    "year": "2018",
+    "size": "2.0 MB"
+    },
+    {
+    "id": 13005,
+    "title": "Hibernate Notes for Professionals book",
+    "author": "Stack Overflow Documentation",
+    "authorUrl": "null",
+    "level": "All",
+    "description": "The Hibernate Notes for Professionals book is compiled from Stack Overflow Documentation, the content is written by the beautiful people at Stack Overflow. Text content is released under Creative Commons BY-SA. See credits at the end of this book whom contributed to the various chapters. Images may be copyright of their respective owners unless otherwise specified",
+    "type": "pdf",
+    "cover": "others/HibernateGrow.png",
+    "tags": [
+      "Hibernate"
+    ],
+    "license": "Creative Commons BY-SA. All trademarks belong to their respective company owners",
+    "url": "https://books.goalkicker.com/HibernateBook/HibernateNotesForProfessionals.pdf",
+    "pages": "39 Pages",
+    "year": "2018",
+    "size": "685 KB"
+    },
+    {
+    "id": 13006,
+    "title": "Kotlin® Notes for Professionals book",
+    "author": "Stack Overflow Documentation",
+    "authorUrl": "null",
+    "level": "All",
+    "description": "The Kotlin® Notes for Professionals book is compiled from Stack Overflow Documentation, the content is written by the beautiful people at Stack Overflow. Text content is released under Creative Commons BY-SA. See credits at the end of this book whom contributed to the various chapters. Images may be copyright of their respective owners unless otherwise specified",
+    "type": "pdf",
+    "cover": "others/KotlinGrow.png",
+    "tags": [
+      "Kotlin®"
+    ],
+    "license": "Creative Commons BY-SA. All trademarks belong to their respective company owners",
+    "url": "https://books.goalkicker.com/KotlinBook/KotlinNotesForProfessionals.pdf",
+    "pages": "94 Pages",
+    "year": "2018",
+    "size": "1.1 MB"
+    },
+    {
+    "id": 13007,
+    "title": "LaTeX Notes for Professionals book",
+    "author": "Stack Overflow Documentation",
+    "authorUrl": "null",
+    "level": "All",
+    "description": "The LaTeX Notes for Professionals book is compiled from Stack Overflow Documentation, the content is written by the beautiful people at Stack Overflow. Text content is released under Creative Commons BY-SA. See credits at the end of this book whom contributed to the various chapters. Images may be copyright of their respective owners unless otherwise specified",
+    "type": "pdf",
+    "cover": "others/LaTeXGrow.png",
+    "tags": [
+      "LaTeX"
+    ],
+    "license": "Creative Commons BY-SA. All trademarks belong to their respective company owners",
+    "url": "https://books.goalkicker.com/LaTeXBook/LaTeXNotesForProfessionals.pdf",
+    "pages": "60 Pages",
+    "year": "2018",
+    "size": "1.4 MB"
+    },
+    {
+    "id": 13008,
+    "title": "MATLAB® Notes for Professionals book",
+    "author": "Stack Overflow Documentation",
+    "authorUrl": "null",
+    "level": "All",
+    "description": "The MATLAB® Notes for Professionals book is compiled from Stack Overflow Documentation, the content is written by the beautiful people at Stack Overflow. Text content is released under Creative Commons BY-SA. See credits at the end of this book whom contributed to the various chapters. Images may be copyright of their respective owners unless otherwise specified",
+    "type": "pdf",
+    "cover": "others/MATLABGrow.png",
+    "tags": [
+      "MATLAB®"
+    ],
+    "license": "Creative Commons BY-SA. All trademarks belong to their respective company owners",
+    "url": "https://books.goalkicker.com/MATLABBook/MATLABNotesForProfessionals.pdf",
+    "pages": "182 Pages",
+    "year": "2018",
+    "size": "2.8 MB"
+    },
+    {
+    "id": 13009,
+    "title": "Perl® Notes for Professionals book",
+    "author": "Stack Overflow Documentation",
+    "authorUrl": "null",
+    "level": "All",
+    "description": "The Perl® Notes for Professionals book is compiled from Stack Overflow Documentation, the content is written by the beautiful people at Stack Overflow. Text content is released under Creative Commons BY-SA. See credits at the end of this book whom contributed to the various chapters. Images may be copyright of their respective owners unless otherwise specified",
+    "type": "pdf",
+    "cover": "others/PerlGrow.png",
+    "tags": [
+      "Perl®"
+    ],
+    "license": "Creative Commons BY-SA. All trademarks belong to their respective company owners",
+    "url": "https://books.goalkicker.com/PerlBook/PerlNotesForProfessionals.pdf",
+    "pages": "109 Pages",
+    "year": "2018",
+    "size": "1.1 MB"
+    },
+    {
+    "id": 130010,
+    "title": "PowerShell® Notes for Professionals book",
+    "author": "Stack Overflow Documentation",
+    "authorUrl": "null",
+    "level": "All",
+    "description": "The PowerShell® Notes for Professionals book is compiled from Stack Overflow Documentation, the content is written by the beautiful people at Stack Overflow. Text content is released under Creative Commons BY-SA. See credits at the end of this book whom contributed to the various chapters. Images may be copyright of their respective owners unless otherwise specified",
+    "type": "pdf",
+    "cover": "others/PowerShellGrow.png",
+    "tags": [
+      "PowerShell®"
+    ],
+    "license": "Creative Commons BY-SA. All trademarks belong to their respective company owners",
+    "url": "https://books.goalkicker.com/PowerShellBook/PowerShellNotesForProfessionals.pdf",
+    "pages": "184 Pages",
+    "year": "2018",
+    "size": "1.7 MB"
+    },
+    {
+    "id": 130011,
+    "title": "R Notes for Professionals book",
+    "author": "Stack Overflow Documentation",
+    "authorUrl": "null",
+    "level": "All",
+    "description": "The R Notes for Professionals book is compiled from Stack Overflow Documentation, the content is written by the beautiful people at Stack Overflow. Text content is released under Creative Commons BY-SA. See credits at the end of this book whom contributed to the various chapters. Images may be copyright of their respective owners unless otherwise specified",
+    "type": "pdf",
+    "cover": "others/RGrow.png",
+    "tags": [
+      "R"
+    ],
+    "license": "Creative Commons BY-SA. All trademarks belong to their respective company owners",
+    "url": "https://books.goalkicker.com/RBook/RNotesForProfessionals.pdf",
+    "pages": "475 Pages",
+    "year": "2018",
+    "size": "6.5 MB"
+    },
+    {
+    "id": 130012,
+    "title": "VBA Notes for Professionals book",
+    "author": "Stack Overflow Documentation",
+    "authorUrl": "null",
+    "level": "All",
+    "description": "The VBA Notes for Professionals book is compiled from Stack Overflow Documentation, the content is written by the beautiful people at Stack Overflow. Text content is released under Creative Commons BY-SA. See credits at the end of this book whom contributed to the various chapters. Images may be copyright of their respective owners unless otherwise specified",
+    "type": "pdf",
+    "cover": "others/VBAGrow.png",
+    "tags": [
+      "VBA"
+    ],
+    "license": "Creative Commons BY-SA. All trademarks belong to their respective company owners",
+    "url": "https://books.goalkicker.com/VBABook/VBANotesForProfessionals.pdf",
+    "pages": "202 Pages",
+    "year": "2018",
+    "size": "2.2 MB"
+    },
+    {
+    "id": 130013,
+    "title": "Visual Basic® .NET Notes for Professionals book",
+    "author": "Stack Overflow Documentation",
+    "authorUrl": "null",
+    "level": "All",
+    "description": "The Visual Basic® .NET Notes for Professionals book is compiled from Stack Overflow Documentation, the content is written by the beautiful people at Stack Overflow. Text content is released under Creative Commons BY-SA. See credits at the end of this book whom contributed to the various chapters. Images may be copyright of their respective owners unless otherwise specified",
+    "type": "pdf",
+    "cover": "others/VisualBasic_NETGrow.png",
+    "tags": [
+      "Visual Basic® .NET"
+    ],
+    "license": "Creative Commons BY-SA. All trademarks belong to their respective company owners",
+    "url": "https://books.goalkicker.com/VisualBasic_NETBook/VisualBasic_NETNotesForProfessionals.pdf",
+    "pages": "149 Pages",
+    "year": "2018",
+    "size": "2.2 MB"
+    },
+    {
+    "id": 130014,
+    "title": "Xamarin.Forms Notes for Professionals book",
+    "author": "Stack Overflow Documentation",
+    "authorUrl": "null",
+    "level": "All",
+    "description": "The Xamarin.Forms Notes for Professionals book is compiled from Stack Overflow Documentation, the content is written by the beautiful people at Stack Overflow. Text content is released under Creative Commons BY-SA. See credits at the end of this book whom contributed to the various chapters. Images may be copyright of their respective owners unless otherwise specified",
+    "type": "pdf",
+    "cover": "others/XamarinFormsGrow.png",
+    "tags": [
+      "Visual Basic® .NET"
+    ],
+    "license": "Creative Commons BY-SA. All trademarks belong to their respective company owners",
+    "url": "https://books.goalkicker.com/XamarinFormsBook/XamarinFormsNotesForProfessionals.pdf",
+    "pages": "181 Pages",
+    "year": "2018",
+    "size": "2.6 MB"
     }
 ]
