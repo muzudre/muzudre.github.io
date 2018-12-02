@@ -9,7 +9,10 @@
 	"type": "pdf",
 	"cover": "cover/cover1.jpg",
 	"license": "Creative Commons Attribution-NonCommercial 3.0 Unported",
-	"url": "http://eloquentjavascript.net/Eloquent_JavaScript.pdf"
+	"url": "http://eloquentjavascript.net/Eloquent_JavaScript.pdf",
+	"pages": "448 Pages",
+    "year": "2018",
+    "size": "2.2 MB"
 	},
 	{
 	"id": 2,
@@ -21,7 +24,10 @@
 	"type": "web",
 	"cover": "cover/cover2.jpg",
 	"license": "Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported",
-	"url": "https://addyosmani.com/resources/essentialjsdesignpatterns/book/"
+	"url": "https://addyosmani.com/resources/essentialjsdesignpatterns/book/",
+	"pages": "",
+    "year": "",
+    "size": ""
 	},
 	{
 	"id": 3,
@@ -33,7 +39,10 @@
 	"level": "null",
 	"description": "null",
 	"type": "web",
-	"url": "http://www.oreilly.com/openbook/linag2/book/ch01.html"
+	"url": "http://www.oreilly.com/openbook/linag2/book/ch01.html",
+	"pages": "",
+    "year": "",
+    "size": ""
 	},
 	{
 	"id": 4,
@@ -45,7 +54,10 @@
 	"type": "web",
 	"cover": "cover/cover4.jpg",
 	"license": "Open Publication License",
-	"url": "http://ruby-doc.com/docs/ProgrammingRuby/"
+	"url": "http://ruby-doc.com/docs/ProgrammingRuby/",
+	"pages": "",
+    "year": "",
+    "size": ""
 	},
 	{
 	"id": 5,
@@ -57,7 +69,10 @@
 	"type": "web",
 	"cover": "cover/cover5.jpg",
 	"license": "Open Publication License",
-	"url": "http://books.mozdev.org/chapters/"
+	"url": "http://books.mozdev.org/chapters/",
+	"pages": "",
+    "year": "",
+    "size": ""
 	},
 	{
 	"id": 6,
@@ -69,7 +84,10 @@
 	"type": "web",
 	"cover": "cover/cover6.jpg",
 	"license": "Open Publication License",
-	"url": "https://docs.gimp.org/"
+	"url": "https://docs.gimp.org/",
+	"pages": "",
+    "year": "",
+    "size": ""
 	},
 	{
 	"id": 7,
@@ -81,7 +99,10 @@
 	"type": "web",
 	"cover": "cover/cover7.jpg",
 	"license": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported",
-	"url": "https://automatetheboringstuff.com/"
+	"url": "https://automatetheboringstuff.com/",
+	"pages": "",
+    "year": "",
+    "size": ""
 	},
 	{
 	"id": 8,
@@ -93,7 +114,10 @@
 	"type": "web",
 	"cover": "cover/cover8.jpg",
 	"license": "Creative Commons Attribution-ShareAlike 3.0 Unported",
-	"url": "http://getpython3.com/diveintopython3/"
+	"url": "http://getpython3.com/diveintopython3/",
+	"pages": "",
+    "year": "",
+    "size": ""
 	},
 	{
 	"id": 9,
@@ -105,7 +129,10 @@
 	"type": "web",
 	"cover": "cover/cover9.jpg",
 	"license": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported",
-	"url": "http://inventwithpython.com/chapters/"
+	"url": "http://inventwithpython.com/chapters/",
+	"pages": "",
+    "year": "",
+    "size": ""
 	},
 	{
 	"id": 10,
@@ -117,7 +144,10 @@
 	"type": "web",
 	"cover": "cover/cover10.jpg",
 	"license": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported",
-	"url": "http://inventwithpython.com/pygame/chapters/"
+	"url": "http://inventwithpython.com/pygame/chapters/",
+	"pages": "",
+    "year": "",
+    "size": ""
 	},
 	{
 	"id": 11,
@@ -129,7 +159,10 @@
 	"type": "web",
 	"cover": "cover/cover11.jpg",
 	"license": "Creative Commons Attribution-NonCommercial-NoDerivs 3.0 United States",
-	"url": "http://www.nltk.org/book/"
+	"url": "http://www.nltk.org/book/",
+	"pages": "",
+    "year": "",
+    "size": ""
 	},
 	{
 	"id": 12,
@@ -141,7 +174,10 @@
 	"type": "pdf",
 	"cover": "cover/cover12.jpg",
 	"license": "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International",
-	"url": "https://www.cs.auckland.ac.nz/courses/compsci105ssc/resources/ProblemSolvingwithAlgorithmsandDataStructures.pdf"
+	"url": "https://www.cs.auckland.ac.nz/courses/compsci105ssc/resources/ProblemSolvingwithAlgorithmsandDataStructures.pdf",
+	"pages": "240 Pages",
+    "year": "2013",
+    "size": "4.2 MB"
 	},
 	{
 	"id": 13,
@@ -153,7 +189,10 @@
 	"type": "web",
 	"cover": "cover/cover13.jpg",
 	"license": "n/a",
-	"url": "http://learnpythonbreakpython.com/"
+	"url": "http://learnpythonbreakpython.com/",
+	"pages": "",
+    "year": "",
+    "size": ""
 	},
 	{
 	"id": 14,
@@ -165,7 +204,10 @@
 	"type": "pdf",
 	"cover": "cover/cover14.jpg",
 	"license": "Creative Commons Attribution-NonCommercial-NoDerivs 3.0 United States",
-	"url": "http://programmingcomputervision.com/downloads/ProgrammingComputerVision_CCdraft.pdf"
+	"url": "http://programmingcomputervision.com/downloads/ProgrammingComputerVision_CCdraft.pdf",
+	"pages": "300 Pages",
+    "year": "2012",
+    "size": "13.6 MB"
 	},
 	{
 	"id": 15,
@@ -177,7 +219,10 @@
 	"type": "pdf",
 	"cover": "cover/cover15.jpg",
 	"license": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0 New Zealand",
-	"url": "https://nostarch.com/download/PythonForKidsSolutions.pdf"
+	"url": "https://nostarch.com/download/PythonForKidsSolutions.pdf",
+	"pages": "",
+    "year": "",
+    "size": ""
 	},
 	{
 	"id": 16,
@@ -189,7 +234,10 @@
 	"type": "pdf",
 	"cover": "cover/cover16.jpg",
 	"license": "Creative Commons Attribution-NonCommercial 3.0 Unported",
-	"url": "http://www.greenteapress.com/thinkbayes/thinkbayes.pdf"
+	"url": "http://www.greenteapress.com/thinkbayes/thinkbayes.pdf",
+	"pages": "48 Pages",
+    "year": "2017",
+    "size": "1.5 MB"
 	},
 	{
 	"id": 17,
@@ -201,7 +249,10 @@
 	"type": "pdf",
 	"cover": "cover/cover17.jpg",
 	"license": "Creative Commons Attribution-NonCommercial 3.0 Unported",
-	"url": "http://greenteapress.com/thinkdsp/thinkdsp.pdf"
+	"url": "http://greenteapress.com/thinkdsp/thinkdsp.pdf",
+	"pages": "",
+    "year": "",
+    "size": ""
 	},
 	{
 	"id": 18,
@@ -213,7 +264,10 @@
 	"type": "pdf",
 	"cover": "cover/cover18.jpg",
 	"license": "Creative Commons Attribution-NonCommercial 3.0 Unported",
-	"url": "http://greenteapress.com/thinkpython2/thinkpython2.pdf"
+	"url": "http://greenteapress.com/thinkpython2/thinkpython2.pdf",
+	"pages": "146 Pages",
+    "year": "2014",
+    "size": "4.0 MB"
 	},
 	{
 	"id": 19,
@@ -225,7 +279,10 @@
 	"type": "web",
 	"cover": "cover/cover19.jpg",
 	"license": "Creative Commons Attribution-NonCommercial 3.0 Unported",
-	"url": "http://greenteapress.com/thinkstats2/thinkstats2.pdf"
+	"url": "http://greenteapress.com/thinkstats2/thinkstats2.pdf",
+	"pages": "",
+    "year": "",
+    "size": ""
 	},
 	{
 	"id": 20,
@@ -237,7 +294,10 @@
 	"type": "web",
 	"cover": "cover/cover20.jpg",
 	"license": "n/a",
-	"url": "http://www.sapphiresteel.com/ruby-programming/The-Book-Of-Ruby.html"
+	"url": "http://www.sapphiresteel.com/ruby-programming/The-Book-Of-Ruby.html",
+	"pages": "264 Pages",
+    "year": "2014",
+    "size": "2.0 MB"
 	},
 	{
 	"id": 21,
@@ -249,7 +309,10 @@
 	"type": "pdf",
 	"cover": "cover/cover21.jpg",
 	"license": "Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Netherlands",
-	"url": "http://www.networkcultures.org/_uploads/TOD%236%20total%20def.pdf"
+	"url": "http://www.networkcultures.org/_uploads/TOD%236%20total%20def.pdf",
+	"pages": "",
+    "year": "",
+    "size": ""
 	},
 	{
 	"id": 22,
@@ -261,7 +324,10 @@
 	"type": "pdf",
 	"cover": "cover/cover22.jpg",
 	"license": "Creative Commons Attribution-NonCommercial 3.0 Unported",
-	"url": "https://mitpress.mit.edu/sites/default/files/9780262517638_Open_Access_PDF_Version.pdf"
+	"url": "https://mitpress.mit.edu/sites/default/files/9780262517638_Open_Access_PDF_Version.pdf",
+	"pages": "170 Pages",
+    "year": "2010",
+    "size": "5.8 MB"
 	},
 	{
 	"id": 23,
@@ -273,7 +339,10 @@
 	"type": "web",
 	"cover": "cover/cover23.jpg",
 	"license": "Creative Commons Attribution-NonCommercial-NoDerivs 3.0 United States",
-	"url": "http://docs.law.gwu.edu/facweb/dsolove/Digital-Person/text.htm"
+	"url": "http://docs.law.gwu.edu/facweb/dsolove/Digital-Person/text.htm",
+	"pages": "",
+    "year": "",
+    "size": ""
 	},
 	{
 	"id": 24,
@@ -285,7 +354,10 @@
 	"type": "web",
 	"cover": "cover/cover24.jpg",
 	"license": "Creative Commons Attribution-NonCommercial-NoDerivs 3.0 United States",
-	"url": "http://docs.law.gwu.edu/facweb/dsolove/Future-of-Reputation/text.htm"
+	"url": "http://docs.law.gwu.edu/facweb/dsolove/Future-of-Reputation/text.htm",
+	"pages": "",
+    "year": "",
+    "size": ""
 	},
 	{
 	"id": 25,
@@ -297,7 +369,10 @@
 	"type": "pdf",
 	"cover": "cover/cover25.jpg",
 	"license": "Creative Commons Attribution 2.5 Generic",
-	"url": "https://www.open-xchange.com/fileadmin/user_upload/Resources_Pages/Mobile_Developers_Guide/Mobile_Developers_Guide_17thEdition_Web.pdf"
+	"url": "https://www.open-xchange.com/fileadmin/user_upload/Resources_Pages/Mobile_Developers_Guide/Mobile_Developers_Guide_17thEdition_Web.pdf",
+	"pages": "325 Pages",
+    "year": "2017",
+    "size": "7.8 MB"
 	},
 	{
 	"id": 26,
@@ -309,7 +384,10 @@
 	"type": "web",
 	"cover": "cover/cover26.jpg",
 	"license": "n/a",
-	"url": "https://adaptivewebdesign.info/1st-edition/"
+	"url": "https://adaptivewebdesign.info/1st-edition/",
+	"pages": "",
+    "year": "",
+    "size": ""
 	},
 	{
 	"id": 27,
@@ -321,7 +399,10 @@
 	"type": "pdf",
 	"cover": "cover/cover27.jpg",
 	"license": "n/a",
-	"url": "http://librta.org/downloads/LAD.pdf"
+	"url": "http://librta.org/downloads/LAD.pdf",
+	"pages": "388 Pages",
+    "year": "2007",
+    "size": "11.9 MB"
 	},
 	{
 	"id": 28,
@@ -333,7 +414,10 @@
 	"type": "web",
 	"cover": "cover/cover28.gif",
 	"license": "n/a",
-	"url": "http://www.icce.rug.nl/documents/cplusplus/"
+	"url": "http://www.icce.rug.nl/documents/cplusplus/",
+	"pages": "",
+    "year": "",
+    "size": ""
 	},
 	{
 	"id": 29,
@@ -345,7 +429,10 @@
 	"type": "pdf",
 	"cover": "cover/cover29.jpg",
 	"license": "Creative Commons Attribution 3.0 Unported",
-	"url": "https://ia800709.us.archive.org/10/items/ost-business-projectmanagementforallcareersedition2/ProjectManagementforAllCareersEdition2.pdf"
+	"url": "https://ia800709.us.archive.org/10/items/ost-business-projectmanagementforallcareersedition2/ProjectManagementforAllCareersEdition2.pdf",
+	"pages": "135 Pages",
+    "year": "2011",
+    "size": "3.7 MB"
 	},
 	{
 	"id": 30,
@@ -357,7 +444,10 @@
 	"type": "web",
 	"cover": "cover/cover30.jpg",
 	"license": "Creative Commons Attribution 3.0 Unported",
-	"url": "http://guide.couchdb.org/editions/1/en/index.html"
+	"url": "http://guide.couchdb.org/editions/1/en/index.html",
+	"pages": "",
+    "year": "",
+    "size": ""
 	},
 	{
 	"id": 31,
@@ -369,7 +459,10 @@
 	"type": "web",
 	"cover": "cover/cover31.jpg",
 	"license": "Creative Commons Attribution-NonCommercial 3.0 Unported",
-	"url": "http://book.realworldhaskell.org/read/"
+	"url": "http://book.realworldhaskell.org/read/",
+	"pages": "",
+    "year": "",
+    "size": ""
 	},
 	{
 	"id": 32,
@@ -381,7 +474,10 @@
 	"type": "pdf",
 	"cover": "cover/cover32.jpg",
 	"license": "Creative Commons Attribution-NonCommercial 3.0 Unported",
-	"url": "https://link.springer.com/content/pdf/10.1007%2F978-3-642-32392-8.pdf"
+	"url": "https://link.springer.com/content/pdf/10.1007%2F978-3-642-32392-8.pdf",
+	"pages": "380 Pages",
+    "year": "2011",
+    "size": "25.7 MB"
 	},
 	{
 	"id": 33,
@@ -393,7 +489,10 @@
 	"type": "web",
 	"cover": "cover/cover33.jpg",
 	"license": "Creative Commons Attribution-NonCommercial 3.0 Unported",
-	"url": "http://openmymind.net/mongodb.pdf"
+	"url": "http://openmymind.net/mongodb.pdf",
+	"pages": "66 Pages",
+    "year": "2017",
+    "size": "187.0 kB"
 	},
 	{
 	"id": 34,
@@ -405,7 +504,10 @@
 	"type": "web",
 	"cover": "cover/cover34.jpg",
 	"license": "Creative Commons Attribution-NonCommercial 3.0 Unported",
-	"url": "http://natureofcode.com/book/"
+	"url": "http://natureofcode.com/book/",
+	"pages": "",
+    "year": "",
+    "size": ""
 	},
 	{
 	"id": 35,
@@ -417,7 +519,10 @@
 	"type": "pdf",
 	"cover": "cover/cover35.jpg",
 	"license": "Standard Copyright License",
-	"url": "http://webdam.inria.fr/Alice/pdfs/all.pdf"
+	"url": "http://webdam.inria.fr/Alice/pdfs/all.pdf",
+	"pages": "",
+    "year": "",
+    "size": ""
 	},
 	{
 	"id": 36,
@@ -429,7 +534,10 @@
 	"type": "pdf",
 	"cover": "cover/cover36.jpg",
 	"license": "Creative Commons Attribution-ShareAlike 3.0 Unported",
-	"url": "https://debian-handbook.info/download/stable/debian-handbook.pdf"
+	"url": "https://debian-handbook.info/download/stable/debian-handbook.pdf",
+	"pages": "513 Pages",
+    "year": "2015",
+    "size": "28.4 MB"
 	},
 	{
 	"id": 37,
@@ -441,7 +549,10 @@
 	"type": "pdf",
 	"cover": "cover/cover37.jpg",
 	"license": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported",
-	"url": "http://do1.dr-chuck.net/py4inf/EN-us/book.pdf"
+	"url": "http://do1.dr-chuck.net/py4inf/EN-us/book.pdf",
+	"pages": "244 Pages",
+    "year": "2009",
+    "size": "1.5 MB"
 	},
 	{
 	"id": 38,
@@ -453,7 +564,10 @@
 	"type": "pdf",
 	"cover": "cover/cover38.jpg",
 	"license": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported",
-	"url": "https://progit2.s3.amazonaws.com/en/2016-03-22-f3531/progit-en.1084.pdf"
+	"url": "https://progit2.s3.amazonaws.com/en/2016-03-22-f3531/progit-en.1084.pdf",
+	"pages": "574 Pages",
+    "year": "2017",
+    "size": "7.6 MB"
 	},
 	{
 	"id": 40,
@@ -465,7 +579,10 @@
 	"type": "web",
 	"cover": "cover/cover40.jpg",
 	"license": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported",
-	"url": "http://learnyouahaskell.com/chapters"
+	"url": "http://learnyouahaskell.com/chapters",
+	"pages": "",
+    "year": "",
+    "size": ""
 	},
 	{
 	"id": 43,
@@ -477,7 +594,10 @@
 	"type": "pdf",
 	"cover": "cover/cover43.jpg",
 	"license": "Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported",
-	"url": "http://onyxneon.com/books/modern_perl/modern_perl_a4.pdf"
+	"url": "http://onyxneon.com/books/modern_perl/modern_perl_a4.pdf",
+	"pages": "209 Pages",
+    "year": "2014",
+    "size": "791 kB"
 	},
 	{
 	"id": 44,
@@ -489,6 +609,9 @@
 	"type": "pdf",
 	"cover": "cover/cover44.jpg",
 	"license": "Standard Copyright License",
-	"url": "http://www.red-book.eu/m/documents/syssec_red_book.pdf"
+	"url": "http://www.red-book.eu/m/documents/syssec_red_book.pdf",
+	"pages": "194 Pages",
+    "year": "2013",
+    "size": "1.4 MB"
 	}
 ]
