@@ -1,20 +1,20 @@
 [
     {
     "id": 9001,
-    "title": "Objective-C® Notes for Professionals book",
+    "title": "Linux® Notes for Professionals book",
     "author": "Stack Overflow Documentation",
     "authorUrl": "null",
-    "level": "beginner",
-    "description": "Very good reference to learn new programming languages. There are books for almost everything",
+    "level": "All",
+    "description": "The Linux® Notes for Professionals book is compiled from Stack Overflow Documentation, the content is written by the beautiful people at Stack Overflow. Text content is released under Creative Commons BY-SA. See credits at the end of this book whom contributed to the various chapters. Images may be copyright of their respective owners unless otherwise specified",
     "type": "pdf",
-    "cover": "c/ObjectiveCGrow.png",
+    "cover": "linux/LinuxGrow.png",
     "tags": [
-      "core"
+      "Linux®"
     ],
     "license": "Creative Commons BY-SA. All trademarks belong to their respective company owners",
-    "url": "http://wtf.tw/ref/duckett.pdf",
-    "pages": "129 Pages",
+    "url": "https://books.goalkicker.com/LinuxBook/LinuxNotesForProfessionals.pdf",
+    "pages": "65 Pages",
     "year": "2018",
-    "size": "18.78 MB"
+    "size": "880 kB"
     }
 ]
