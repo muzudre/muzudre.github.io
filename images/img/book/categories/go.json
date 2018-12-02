@@ -1,20 +1,110 @@
 [
     {
     "id": 7001,
-    "title": "Objective-C® Notes for Professionals book",
-    "author": "Stack Overflow Documentation",
+    "title": "An Introduction to Programming in Go",
+    "author": "Caleb Doxsey",
     "authorUrl": "null",
     "level": "beginner",
-    "description": "Very good reference to learn new programming languages. There are books for almost everything",
+    "description": "Computer programming is the art, craft and science of writing programs which define how computers operate. This book will teach you how to write computer programs using a programming language designed by Google named Go.",
     "type": "pdf",
-    "cover": "c/ObjectiveCGrow.png",
+    "cover": "go/cover.0.png",
     "tags": [
-      "core"
+      "Go"
     ],
-    "license": "Creative Commons BY-SA. All trademarks belong to their respective company owners",
-    "url": "http://wtf.tw/ref/duckett.pdf",
-    "pages": "129 Pages",
-    "year": "2018",
-    "size": "18.78 MB"
+    "license": "Copyright © 2012 by Caleb Doxsey",
+    "url": "http://www.golang-book.com/public/pdf/gobook.0.pdf",
+    "pages": "165 Pages",
+    "year": "2012",
+    "size": "2.9 MB"
+    },
+    {
+    "id": 7002,
+    "title": "Go Bootcamp",
+    "author": "Matt Aimonetti",
+    "authorUrl": "null",
+    "level": "All",
+    "description": "Everything you need to know to get started with Go.",
+    "type": "web",
+    "cover": "go/cover-web.png",
+    "tags": [
+      "Go"
+    ],
+    "license": "Creative Commons Attribution 3.0 License.",
+    "url": "http://www.golangbootcamp.com/book",
+    "pages": "",
+    "year": "",
+    "size": ""
+    },
+    {
+    "id": 7003,
+    "title": "Go by Example",
+    "author": "by @mmcgrana",
+    "authorUrl": "null",
+    "level": "All",
+    "description": "Go is an open source programming language designed for building simple, fast, and reliable software. Go by Example is a hands-on introduction to Go using annotated example programs. Check out the first example or browse the full list below.",
+    "type": "web",
+    "cover": "go/go-example.png",
+    "tags": [
+      "Go"
+    ],
+    "license": "Creative Commons Attribution 3.0 Unported License.",
+    "url": "https://gobyexample.com/",
+    "pages": "",
+    "year": "",
+    "size": ""
+    },
+    {
+    "id": 7004,
+    "title": "Go for Javascript Developers",
+    "author": "Maor Zamski & Daniel Singer",
+    "authorUrl": "null",
+    "level": "All",
+    "description": "Often, a developer will use more than one programming language at a certain timeframe. Switching back and forth between languages can come with some overhead. These context switches can also result in bugs. For instance, if you switch back and forth between Python and Javascript, there's a likelihood you'll mistake evaluation of an empty array between truthy and falsey. Similarly, if you switch back and forth between Go and Javascript, there's a likelihood you'll mistake switch statements default behavior of break/fallthrough. Outlining the differences between languages can help mitigate these potential issues, and make it easier to transition back and forth.",
+    "type": "web",
+    "cover": "go/cover.png",
+    "tags": [
+      "Go"
+    ],
+    "license": "Creative Commons Attribution-ShareAlike 4.0 International License.",
+    "url": "http://www.pazams.com/Go-for-Javascript-Developers/",
+    "pages": "",
+    "year": "",
+    "size": ""
+    },
+    {
+    "id": 7005,
+    "title": "LEARNING GO",
+    "author": "Miek Gieben",
+    "authorUrl": "null",
+    "level": "All",
+    "description": "The Go programming language is an open source project language to make programmers more productive.",
+    "type": "web",
+    "cover": "go/bumper-inverse.png",
+    "tags": [
+      "Go"
+    ],
+    "license": "Creative Commons",
+    "url": "https://miek.nl/go/",
+    "pages": "",
+    "year": "",
+    "size": ""
+    },
+    {
+    "id": 7006,
+    "title": "The Little Go Book",
+    "author": "by Karl Seguin",
+    "authorUrl": "null",
+    "level": "All",
+    "description": "The book might be a couple years old, but it's still relevant. Nothing fundamental or outwardly major has changed in Go (the team has promised a stable API until the next major version). The big changes have been with the tooling, compiler and runtime as well as enhancing the standard library (like supporting HTTP/2).",
+    "type": "pdf",
+    "cover": "go/title.png",
+    "tags": [
+      "Go"
+    ],
+    "license": "Attribution-NonCommercial-ShareAlike 4.0 International.",
+    "url": "https://www.openmymind.net/assets/go/go.pdf",
+    "pages": "84 Pages",
+    "year": "2017",
+    "size": "240 kB"
     }
 ]
