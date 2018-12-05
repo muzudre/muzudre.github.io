@@ -1,1 +1,0 @@
-<small>My Website</small>
