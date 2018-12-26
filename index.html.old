@@ -1,0 +1,366 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel='shortcut icno' type='image/x-icon' href='favicon.ico' />
+
+	<!-- meta tags for google saerch engine -->
+	<meta name="copyright" content="Muslim Zabirov">
+	<meta name="Description" content="Hey, I'm Muslim doing programming for fun and like street workout! This is my web portfolio.">
+	<meta name="keywords" content="Muslim Zabirov, Programming, Portfolio, Design, Street Workout App, Free Programming App">
+
+	<title>Portfolio Designed by | Muslim Zabirov</title>
+	<!-- facebook meta tags -->
+	<meta property="og:url" content="https://muzudre.github.io/" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="Portfolio Designed by | Muslim Zabirov" />
+	<meta property="og:description" content="Hey, I'm Muslim Zabirov doing programming just for fun and like street workout! This is my portfolio and my works." />
+	<meta property="og:image" content="https://muzudre.github.io/images/cover.png" />
+	<!-- normalize -->
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/7.0.0/normalize.min.css">
+	<!-- font awsome -->
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+	<link href="https://fonts.googleapis.com/css?family=Abril+Fatface|Questrial" rel="stylesheet">
+	<!-- style.css -->
+	<link rel="stylesheet" href="css/style.css">
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-111384756-1"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag() { dataLayer.push(arguments); }
+		gtag('js', new Date());
+
+		gtag('config', 'UA-111384756-1');
+	</script>
+	<style>
+		/* helpers/grid.css */
+
+		.grid {
+			margin-left: auto;
+			margin-right: auto;
+			    max-width: 62em;
+			width: 90%;
+		}
+
+		/* helpers/sticky.css */
+
+		.sticky {
+			position: -webkit-sticky;
+			position: sticky;
+			will-change: transform;
+		}
+
+		.sticky--top {
+			top: 0;
+		}
+
+		/* layout/header.css */
+
+		.header {
+			background-color: #fff;
+			padding-bottom: 1em;
+			padding-top: 1em;
+			margin-top: -39px;
+		}
+
+
+		.header::after {
+			bottom: 0;
+			-webkit-box-shadow: 0 0.0625em 0.5em rgba(0, 0, 0, .3);
+			box-shadow: 0 0.0625em 0.5em rgba(0, 0, 0, .3);
+			content: '';
+			left: 0;
+			opacity: 0;
+			position: absolute;
+			right: 0;
+			top: 0;
+			-webkit-transition: opacity 0.3s;
+			transition: opacity 0.3s;
+			z-index: -1;
+		}
+
+		.header.is-active::after {
+			opacity: 1;
+		}
+
+		/* layout/main.css */
+
+		.main {
+			padding-top: 6em;
+			padding-bottom: 6em;
+		}
+
+		/* modules/headline.css */
+
+		h1 {
+			margin-bottom: 1.5em;
+			margin-top: 0;
+		}
+
+		/* modules/navigation.css */
+
+		.navigation a {
+			color: inherit;
+			display: block;
+			text-decoration: none;
+		}
+
+		.navigation .is-active {
+			    background-image: linear-gradient(90deg, #FEE140 0%, #FA709A 100%);
+    color: #fff;
+    padding-left: 1em;
+    padding-right: 1em;
+    padding-bottom: 4px;
+    padding-top: 4px;
+    font-weight: bolder;
+    border-radius: 999px;
+		}
+
+		.navigation .is-active-1 {
+			background-image: linear-gradient(315deg, #4d5dfb 0%, #08c8f6 74%);
+			color: #fff;
+    padding-left: 1em;
+    padding-right: 1em;
+    padding-bottom: 4px;
+    padding-top: 4px;
+    font-weight: bolder;
+    border-radius: 999px;
+		}
+
+		.navigation .is-active-2 {
+			background-image: linear-gradient(315deg, #000000 0%, #414141 74%);
+			color: #fff;
+    padding-left: 1em;
+    padding-right: 1em;
+    padding-bottom: 4px;
+    padding-top: 4px;
+    font-weight: bolder;
+    border-radius: 999px;
+		}
+
+		.navigation__list {
+			list-style: none;
+			margin: -0.5em;
+			padding: 0;
+		}
+
+		.navigation__list--inline {
+			display: -webkit-box;
+			display: -ms-flexbox;
+			display: flex;
+		}
+
+		.navigation__item {
+			margin: 0.5em;
+		}
+
+		/* modules/paragraph.css */
+		p {
+			margin-bottom: 1.5em;
+			margin-top: 1.5em;
+		}
+	</style>
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	<script>
+        (adsbygoogle = window.adsbygoogle || []).push({
+            google_ad_client: "ca-pub-5504883777088684",
+            enable_page_level_ads: true
+        });
+	</script>
+</head>
+
+<body>
+	<header class="header sticky sticky--top js-header">
+
+		<div class="grid">
+
+			<nav class="navigation">
+				<ul class="navigation__list navigation__list--inline">
+					<li class="navigation__item"><a href="#" style="    font-size: 22px;
+    font-weight: bolder;">MuzuDre</a></li>
+					<li class="navigation__item"><a class="is-active-1" target="_blank" href="mozghub/">MozgHub</a></li>
+					<li class="navigation__item"><a class="is-active-2" target="_blank" href="workout/">Workout.</a></li>
+				<!-- 	<li class="navigation__item"><a class="is-active" href="#contact">Contact</a></li> -->
+				</ul>
+			</nav>
+
+		</div>
+
+	</header>
+
+	<div class="">
+		<!-- header -->
+		<section class="banner cf">
+			<div class="wrapper">
+
+				<h1 class="cont">
+					Developer. <br>
+					Coder. <br>
+					<a target="_blank" href="https://stackoverflow.com/story/muzudre"><i class="fa fa-stack-overflow social"></i></a>.
+					<a target="_blank" href="https://www.linkedin.com/in/muzudre/"><i class="fa fa-linkedin social"></i></a>.
+				</h1>
+			</div>
+		</section>
+		<!-- work section -->
+		<section class="work" id="root">
+			<div class="wrapper">
+				<div class="content">
+					<div class="row">
+						<div class="card card_half tall left">
+							<div class="card_inner green">
+								<p>Work on Projects like: www.medical.ibanding.com</p>
+								<h2>Insurance Medical Comparison</h2>
+								<p><a target="_blank" href="https://medical.ibanding.com/" class="btn">View</a></p>
+							</div>
+						</div>
+						<div class="card card_half tall right">
+							<div class="card_inner blue">
+								<p>Work on Projects like: www.directory.ibanding.com</p>
+								<h2>Insurance Agent Directory</h2>
+								<p><a target="_blank" href="https://directory.ibanding.com/directory/" class="btn">View</a></p>
+							</div>
+						</div>
+					</div>
+					<div class="row">
+						<div class="card card_half tall left">
+							<div class="card_inner green">
+								<p>Work on Projects like: www.review.ibanding.com</p>
+								<h2>Read reviews. Share Experience.</h2>
+								<p><a target="_blank" href="https://review.ibanding.com/" class="btn">View</a></p>
+							</div>
+						</div>
+						<div class="card card_half tall right">
+							<div class="card_inner blue">
+								<p>Created Mobile Game</p>
+								<h2>Android Game FastClick</h2>
+								<p><a target="_blank" href="https://play.google.com/store/apps/details?id=com.muzudre.FastClick" class="btn">View
+									on Google Play</a></p>
+							</div>
+						</div>
+					</div>
+
+					<div class="row">
+						<div class="card card_full tall left">
+							<div class="card_inner pink">
+								<p>Street Workout Website: Workout</p>
+								<h2>Street Workout | Awesome stuff for athletes</h2>
+								<p>Workout Routines, Diet, Street Workout</p>
+								<p><a target="_blank" href="https://muzudre.github.io/workout/" class="btn">View</a></p>
+							</div>
+						</div>
+					</div>
+					<div class="row">
+						<div class="card card_full tall left">
+							<div class="card_inner pink">
+								<p>My Programming Blog: MozgHub</p>
+								<h2>MozgHub | Awsome stuff for developers</h2>
+								<p>Programming Tools, Code, Laravel, Node, React, Vue, Mobile</p>
+								<p><a target="_blank" href="https://muzudre.github.io/mozghub/" class="btn">View</a></p>
+							</div>
+						</div>
+					</div>
+					<div class="row">
+						<div class="card card_half tall left">
+							<div class="card_inner pink">
+								<p>Created Mobile App</p>
+								<h2>Street Workout App</h2>
+								<p><a target="_blank" href="https://play.google.com/store/apps/details?id=com.muzudre.Workout" class="btn">View
+									on Google Play</a></p>
+							</div>
+						</div>
+						<div class="card card_half tall right">
+							<div class="card_inner purple">
+								<p>Created Mobile App</p>
+								<h2>Free Coding Books</h2>
+								<p><a target="_blank" href="https://play.google.com/store/apps/details?id=com.muzudre.Probooks" class="btn">View
+									on Goole Play</a></p>
+							</div>
+						</div>
+					</div>
+					<div class="row">
+						<div class="card card_half tall left">
+							<div class="card_inner pink">
+								<p>Created Mobile App</p>
+								<h2>Black Wallpapers - 4K Dark & AMOLED Backgrounds</h2>
+								<p><a target="_blank" href="https://play.google.com/store/apps/details?id=com.muzudre.blackwallpapers" class="btn">View on Google Play</a></p>
+							</div>
+						</div>
+						<div class="card card_half tall right">
+							<div class="card_inner purple">
+								<p>Created Mobile App</p>
+								<h2>Street Workout Wallpapers - Dark & AMOLED</h2>
+								<p><a target="_blank" href="https://play.google.com/store/apps/details?id=com.muzudre.streetworkoutwallpapers" class="btn">View on Goole Play</a></p>
+							</div>
+						</div>
+					</div>
+					<div class="row">
+						<div class="card card_full tall left">
+							<div class="card_inner pink">
+								<p>Created Mobile App</p>
+								<h2>Gaming Wallpapers - 4K Dark & AMOLED Backgrounds</h2>
+								<p><a target="_blank" href="https://play.google.com/store/apps/details?id=com.muzudre.gamingwallpapers" class="btn">View on Google Play</a></p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<!-- footer -->
+		<footer>
+			<div class="wrapper cf" id="contact">
+				<div class="row">
+					<ul class="cf">
+						<li>
+							<span class="title">Get in Touch</span>
+							<span class="links">
+								&nbsp; <a target="_blank" href="https://www.instagram.com/muzudre/"><i class="fa fa-instagram"></i></a> &nbsp;
+								<a target="_blank" href="https://www.linkedin.com/in/muzudre/"><i class="fa fa-linkedin"></i></a>&nbsp; <a href="mailto:muzudre@gmail.com"><i class="fa fa-envelope"></i></a></span>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</footer>
+
+	</div>
+
+
+</body>
+<script>
+	function throttle(fn, delay) {
+		var last = void 0;
+		var timer = void 0;
+
+		return function () {
+			var now = +new Date();
+
+			if (last && now < last + delay) {
+				clearTimeout(timer);
+
+				timer = setTimeout(function () {
+					last = now;
+					fn();
+				}, delay);
+			} else {
+				last = now;
+				fn();
+			}
+
+		};
+	}
+
+	function onScroll() {
+		if (window.pageYOffset) {
+			$$header.classList.add('is-active');
+		} else {
+			$$header.classList.remove('is-active');
+		}
+	}
+
+	var $$header = document.querySelector('.js-header');
+
+	window.addEventListener('scroll', throttle(onScroll, 25));
+</script>
+
+</html>
