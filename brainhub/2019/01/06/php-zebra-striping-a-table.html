@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Make a PHP Zebra Striping a Table. - BrainHub | Awsome stuff for developers: Programming Tools, Code, HTML5, Mobile</title>
+    <link rel="shortcut icon" type="image/png" href="/brainhub/favicon.svg"/>
+    <meta name="author"  content="BrainBot">
+    <meta name="description" content="Make a PHP Zebra Striping a Table.">
+    <meta name="keywords"  content="php, table, html, css">
+    <!-- Open Graph -->
+    <meta property="og:title" content="Make a PHP Zebra Striping a Table. - BrainHub | Awsome stuff for developers: Programming Tools, Code, HTML5, Mobile">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="http://localhost:4000/2019/01/06/php-zebra-striping-a-table.html">
+    <meta property="og:description" content="loves technology & design. I am very happy to share my thoughts on technology and life with you here.">
+    <meta property="og:site_name" content="BrainHub | Awsome stuff for developers: Programming Tools, Code, HTML5, Mobile">
+    <link rel="stylesheet" href="/brainhub/assets/css/normalize.css">
+    <link rel="stylesheet" href="/brainhub/assets/css/font-rocgem.css">
+    <link rel="stylesheet" href="/brainhub/assets/css/github-markdown.css">
+    <link rel="stylesheet" href="/brainhub/assets/css/prism.css">
+    <link rel="stylesheet" href="/brainhub/assets/css/share.min.css">
+    <link rel="stylesheet" href="/brainhub/assets/css/app.min.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css">
+    <script src="/brainhub/assets/js/jquery.js"></script>
+    <script>
+        $(document).ready(function() {
+            $(window).scroll(function(o) {
+                var n = $(window).scrollTop() / ($(document).height() - $(window).height()),
+                    e = Math.round(100 * n);
+                $("#scrollPercentLabel>span").html(e)
+            })
+        });
+    </script>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-122336637-1"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-122336637-1');
+    </script>
+
+	
+    <style>
+    .markdown-body .anchor{
+        float: left;
+        margin-top: -8px;
+        margin-left: -20px;
+        padding-right: 4px;
+        line-height: 1;
+        opacity: 0;
+    }
+    
+    .markdown-body .anchor .anchor-icon{
+        font-size: 15px
+    }
+</style>
+<script>
+    $(document).ready(function() {
+        let nodes = document.querySelector(".markdown-body").querySelectorAll("h1,h2,h3")
+        for(let node of nodes) {
+            var anchor = document.createElement("a")
+            var anchorIcon = document.createElement("i")
+            anchorIcon.setAttribute("class", "fa fa-anchor fa-lg anchor-icon")
+            anchorIcon.setAttribute("aria-hidden", true)
+            anchor.setAttribute("class", "anchor")
+            anchor.setAttribute("href", "#" + node.getAttribute("id"))
+            
+            anchor.onmouseover = function() {
+                this.style.opacity = "0.4"
+            }
+            
+            anchor.onmouseout = function() {
+                this.style.opacity = "0"
+            }
+            
+            anchor.appendChild(anchorIcon)
+            node.appendChild(anchor)
+        }
+    })
+</script>
+</head>
+
+
+<body>
+
+  <input id="nm-switch" type="hidden" value="true"> <header class="g-header">
+    <div class="g-logo">
+        <a href="/brainhub/"></a>
+    </div>
+    <i id="menu-toggle" class="iconfont icon-menu"></i>
+    <nav class="g-nav">
+        <ul>
+            
+            <li><a href="/brainhub/">home</a></li>
+            
+            <li><a href="/brainhub/books.html">books</a></li>
+            
+            <li><a href="/brainhub/tags.html">tags</a></li>
+            
+        </ul>
+    </nav>
+</header>
+
+  <header class="g-banner post-header post-pattern-circuitBoard bgcolor-default post-no-cover"
+    data-theme="default">
+    <div class="post-wrapper">
+      <div class="post-tags">
+        
+        
+
+        <a href="/brainhub/tags.html#php" class="post-tag">php</a>
+        
+
+        <a href="/brainhub/tags.html#table" class="post-tag">table</a>
+        
+
+        <a href="/brainhub/tags.html#html" class="post-tag">html</a>
+        
+
+        <a href="/brainhub/tags.html#css" class="post-tag">css</a>
+        
+        
+      </div>
+      <h1>Make a PHP Zebra Striping a Table.</h1>
+      <div class="post-meta">
+        <span class="post-meta-item"><i class="iconfont icon-author"></i><a href="/brainhub" target="_blank"
+            rel="author">Brainbot</a></></span>
+        <time class="post-meta-item" datetime="19-01-06"><i class="iconfont icon-date"></i>06 Jan 2019</time>
+      </div>
+    </div>
+    
+  </header>
+
+  <div class="post-content visible">
+    
+
+    <article class="markdown-body">
+      <blockquote>
+  <p>Table row in a loop:</p>
+</blockquote>
+
+<div class="language-php highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c">&lt;!-- Before loop --&gt;</span>
+<span class="cp">&lt;?php</span> <span class="nv">$c</span> <span class="o">=</span>  <span class="mi">0</span><span class="p">;</span>  <span class="cp">?&gt;</span>
+
+<span class="c">&lt;!-- Start loop --&gt;</span> 
+<span class="nt">&lt;tr</span> <span class="na">class=</span><span class="s">"</span><span class="cp">&lt;?=</span><span class="p">(</span><span class="nv">$c</span><span class="o">++%</span><span class="mi">2</span><span class="o">==</span><span class="mi">1</span><span class="p">)</span> <span class="o">?</span> <span class="s1">'odd'</span> <span class="o">:</span> <span class="s1">'even'</span> <span class="cp">?&gt;</span><span class="s">"</span><span class="nt">&gt;</span>
+<span class="c">&lt;!-- End loop --&gt;</span>
+</code></pre></div></div>
+
+<blockquote>
+  <p>CSS:</p>
+</blockquote>
+
+<div class="language-css highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nc">.even</span> <span class="p">{</span>  <span class="nl">background-color</span><span class="p">:</span><span class="m">#FFF</span><span class="p">;</span>  <span class="p">}</span>  
+<span class="nc">.odd</span> <span class="p">{</span>  <span class="nl">background-color</span><span class="p">:</span><span class="m">#666</span><span class="p">;</span>  <span class="p">}</span>
+</code></pre></div></div>
+
+    </article>
+
+    
+    <div class="social-share-wrapper">
+      <div class="social-share"></div>
+    </div>
+    
+  </div>
+
+  <section class="author-detail">
+    <section class="post-footer-item author-card">
+      <div class="avatar">
+        <img src="/brainhub/assets/img/profile.png" alt="">
+      </div>
+      <div class="author-name" rel="author">BrainBot</div>
+      <div class="bio">
+        <p>Developer, Loves Technology, Design and Coding, Simple Optimism</p>
+      </div>
+      
+      <ul class="sns-links">
+        
+        <li>
+          <a href="//www.instagram.com/muzudre" target="_blank">
+            <i class="iconfont icon-instagram"></i>
+          </a>
+        </li>
+        
+      </ul>
+      
+    </section>
+    <section class="post-footer-item read-next">
+      
+
+      
+      <div class="read-next-item">
+        <a href="/brainhub/2019/01/01/how-to-setup-watchman-on-ubuntu-16.html" class="read-next-link"></a>
+        <section>
+          <span>How to Setup Watchman on Ubuntu 16.04.</span>
+          <p>```js$ cd ~$ git clone https://github.com/facebook/watchm...</p>
+        </section>
+        
+      </div>
+      
+    </section>
+    <section class="post-footer-item comment">
+      <div id="disqus_thread"></div>
+    </section>
+  </section>
+  <a href="#" class="float" onclick="topFunction()">
+    <p id="scrollPercentLabel"><i class="fa fa-arrow-up"></i> <span> 0</span>%</p>
+  </a>
+  <footer class="g-footer">
+  <section>Code snippets licensed under <a target="_blank" href="https://oss.ninja/mit?organization=BrainHub" rel="nofollow noopener">MIT</a>, unless otherwise noted.<br>Content & Graphics BrainHub ©
+  
+  
+    2018
+    -
+  
+  2019
+  </section>
+  <center>
+    <br>
+    <a href="https://www.iubenda.com/privacy-policy/53819098" class="iubenda-black iubenda-embed " title="Privacy Policy">Privacy Policy</a> <script type="text/javascript">(function (w,d) {var loader = function () {var s = d.createElement("script"), tag = d.getElementsByTagName("script")[0]; s.src="https://cdn.iubenda.com/iubenda.js"; tag.parentNode.insertBefore(s,tag);}; if(w.addEventListener){w.addEventListener("load", loader, false);}else if(w.attachEvent){w.attachEvent("onload", loader);}else{w.onload = loader;}})(window, document);</script>
+  </center>
+</footer>
+
+
+  <script src="/brainhub/assets/js/social-share.min.js"></script>
+  <script>
+    socialShare('.social-share', {
+      sites: [
+        
+          'facebook'
+          ,
+    
+    
+          'instagram'
+          ,
+    
+    
+          'twitter'
+          
+    
+      ]
+    });
+  </script>
+
+  
+  <script>
+    /**
+     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+    /*
+    var disqus_config = function () {
+    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    };
+    */
+    (function () { // DON'T EDIT BELOW THIS LINE
+      var d = document,
+        s = d.createElement('script');
+      s.src = 'https://mozghub-com.disqus.com/embed.js';
+      s.setAttribute('data-timestamp', +new Date());
+
+      (d.head || d.body).appendChild(s);
+    })();
+  </script>
+  
+
+  <script src="/brainhub/assets/js/prism.js"></script>
+  <script src="/brainhub/assets/js/index.min.js"></script>
+</body>
+
+</html>
