@@ -1,13 +1,12 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
 	<head>
-		<meta charset="utf-8" />
-		<meta http-equiv="x-ua-compatible" content="ie=edge" />
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+		<meta http-equiv="x-ua-compatible" content="ie=edge">
 		<title>Muslim Zabirov | Portfolio</title>
 		<meta name="description" content="Hey, I'm Muslim doing programming for fun and like street workout! This is my web portfolio." />
-		<meta name="viewport" content="width=device-width, initial-scale=1, minimal-ui" />
 		<meta name="keywords" content="Muslim Zabirov, Programming, Portfolio, Design, Street Workout App, Free Programming App">
-
 		<meta name="twitter:card" content="summary" />
 		<meta name="twitter:title" content="Muslim Zabirov | Portfolio" />
 		<meta name="twitter:description" content="Hey, I'm Muslim doing programming for fun and like street workout! This is my web portfolio." />
@@ -21,148 +20,379 @@
 		<meta name="og:url" content="https://muzudre.github.io/" />
 		<meta name="og:site_name" content="Muslim Zabirov" />
 		<meta name="og:type" content="website" />
-		
-		<link rel="icon" type="image/jpg" href="content/logo.png" sizes="196x196" />
-		<link rel="icon" type="image/jpg" href="content/logo.png" sizes="128x128" />
-		<link rel="icon" type="image/jpg" href="content/logo.png" sizes="96x96" />
-		<link rel="icon" type="image/jpg" href="content/logo.png" sizes="32x32" />
-		<link rel="icon" type="image/jpg" href="content/logo.png" sizes="16x16" />
-		
-		<link rel="apple-touch-icon" href="apple-touch-icon.png" />
-		<link rel="shortcut icon" href="favicon.ico" />
-		<link rel="stylesheet" type="text/css" href="assets/normalize.css" />
-		<link href="https://fonts.googleapis.com/css?family=Roboto+Mono:300,300i,400,400i,700,700i%7cTitillium+Web:900" rel="stylesheet" />
-		<link rel="stylesheet" type="text/css" href="assets/thelist.css" />
+		<!-- icon -->
+		<link rel="shortcut icon" href="assets/images/logo/favorite-icon.png">
+		<!-- fraimwork - css include -->
+		<link rel="stylesheet" type="text/css" href="assets/css/bootstrap.min.css">
+		<!-- icon - css include -->
+		<link rel="stylesheet" type="text/css" href="https://code.ionicframework.com/ionicons/1.5.2/css/ionicons.min.css">
+		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
+		<!-- custom - css include -->
+		<link rel="stylesheet" type="text/css" href="assets/css/style.css">
 		<!-- Global site tag (gtag.js) - Google Analytics -->
 		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-111384756-1"></script>
 		<script>
 			window.dataLayer = window.dataLayer || [];
 			function gtag() { dataLayer.push(arguments); }
 			gtag('js', new Date());
-
 			gtag('config', 'UA-111384756-1');
 		</script>
 	</head>
-	<body>
-		<div class="Page" id="Page">
-			<div class="HomeUi" id="HomeUi">
-				<header class="homeUiHeader Dark" id="homeUiHeader"><a href="index.html">
-					<h1><span>D</span><span>e</span><span>v</span><span>e</span><span>l</span><span>o</span><span>p</span><span>e</span><span>r</span><span>.</span><br /><span>C</span><span>o</span><span>d</span><span>e</span><span>r</span><span>.</span></h1>
-				</a>
-			</header>
-			<div class="homeUiLeft">
-				<div>
-					Muslim Zabirov <br />
-					Full Stack Developer <br />
-					Coding just for fun
+	<body class="home-page-4">
+		<!-- backtotop - start -->
+		<div id="thetop" class="thetop"></div>
+		<div class="backtotop">
+			<a href="#" class="scroll"><i class="fas fa-angle-double-up"></i></a>
+		</div>
+		<!-- backtotop - end -->
+		<!-- preloader - start -->
+		<div id="preloader"></div>
+		<!-- preloader - end -->
+		<!-- header-section (default-header) - start
+		================================================== -->
+		<header id="header-section" class="header-section clearfix">
+			<div class="default-header">
+				<div class="container-fluid">
+					<div class="row">
+						<div class="col-lg-2 col-md-4 col-sm-3">
+							<div class="website-logo">
+								<a href="index.html" class="website-link">
+									<img style="width: 55%;" src="assets/images/logo/logo-2.png" alt="logo_not_found">
+								</a>
+							</div>
+						</div>
+						<div class="col-lg-8 col-md-4 col-sm-1">
+							<div class="main-menu ul-li-center clearfix">
+								<ul class="clearfix">
+									<li><a href="index.html">Home</a></li>
+									<li><a href="pages/support.html">Support</a></li>
+									<li><a href="https://muzudre.github.io/brainhub/">BrainHub</a></li>
+									<li><a href="https://muzudre.github.io/workout/">Workout</a></li>
+									<li><a href="content/cv.pdf" target="_blank">CV</a></li>
+									<li><a href="#about-section-one">About</a></li>
+								</ul>
+							</div>
+						</div>
+						<div class="col-lg-2 col-md-4 col-sm-6">
+							<div class="btns-group ul-li-right clearfix">
+								<ul class="clearfix">
+									<li>
+										<button type="button" id="sidebarCollapse" class="menu-btn"><i class="ion-more"></i></button>
+									</li>
+								</ul>
+							</div>
+						</div>
+						
+					</div>
 				</div>
-				<div>
-					Check my CV<br />
-					<a href="content/cv.pdf" target="_blank">Here 👈</a>
+			</div>
+			<div class="mobile-menu-wrapper">
+				<div id="sidebar">
+					<div id="dismiss"><i class="fas fa-arrow-left"></i></div>
+					<!-- pages-list - start -->
+					<div class="pages-list mb-30">
+						<div class="sidebar-title mb-15">
+							<h2>all pages</h2>
+						</div>
+						<ul class="list-unstyled components">
+							<li><a href="index.html"><i class="fas fa-home"></i> Home</a></li>
+							<li><a href="pages/support.html"><i class="fas fa-donate"></i> Donate</a></li>
+							<li><a href="https://muzudre.github.io/brainhub/"><i class="fas fa-brain"></i> BrainHub</a></li>
+							<li><a href="https://muzudre.github.io/workout/"><i class="fas fa-dumbbell"></i> Workout</a></li>
+							<li><a href="content/cv.pdf" target="_blank"><i class="fas fa-file"></i> CV</a></li>
+							<li><a href="#about-section-one"><i class="fas fa-info-circle"></i> About</a></li>
+						</ul>
+					</div>
+					<!-- pages-list - end -->
+					<!-- footer-area - start -->
+					<div class="footer-area ul-li-center text-center">
+						<ul class="social-links">
+							<li><a target="_blank" href="https://www.linkedin.com/in/muzudre/"><i class="fab fa-linkedin"></i> LinkedIn</a></li>
+							<li><a target="_blank" href="https://www.instagram.com/muzudre/"><i class="fab fa-instagram"></i> Instagram</a></li>
+							<li><a target="_blank" href="mailto:muzudre@gmail.com"><i class="fas fa-envelope"></i> Email</a></li>
+						</ul>
+						<p class="copyright-text m-0">
+							&copy; 2017<script>new Date().getFullYear()>2017&&document.write("-"+new Date().getFullYear());</script>, Muslim Zabirov
+						</p>
+					</div>
+					<!-- footer-area - end -->
 				</div>
-				<div>
-					<ul class="homeUiMenu">
-						<li><span>-01</span> <a href="https://muzudre.github.io/brainhub/">brainhub</a></li>
-						<li><span>00</span> <a href="https://muzudre.github.io/workout/">wokout</a></li>
-						<li><span>01</span> <a href="#/aboutme">about me</a></li>
-						<li><span>02</span> <a href="#/contact">contact</a></li>
+				<div class="overlay"></div>
+			</div>
+		</header>
+		<!-- header-section (default-header) - end
+		================================================== -->
+		<!-- portfolio-section - start
+		================================================== -->
+		<section id="portfolio-section" class="portfolio-section clearfix">
+			<div class="container-fluid">
+				<div id='root'></div>
+			</div>
+		</section>
+		<!-- portfolio-section - end
+		================================================== -->
+		<!-- about-section-one - start
+		================================================== -->
+		<section id="about-section-one" class="about-section-one sec-ptb-80 clearfix">
+			<div class="container">
+				<div class="row justify-content-md-center">
+					<div class="col-lg-3 col-md-8 col-sm-12">
+						<div class="title-content">
+							<div class="section-title">
+								<h2 class="sec-title-text color-white">about me</h2>
+							</div>
+							<p class="paragraph-text">Developer. Coder</p>
+						</div>
+					</div>
+					<div class="col-lg-9 col-md-8 col-sm-12">
+						<p class="paragraph-text">
+							I am a web developer with a vast array of knowledge in many different front end and back end languages, responsive frameworks. My objective is simply to be the best web developer that I can be and to contribute to the technology industry all that I know and can do. I am dedicated to perfecting my craft by learning from more seasoned developers, remaining humble, and continuously making strides to learn all that I can about development.<br>
+							<img style="width: 15%;" src="assets/images/logo/logo-2.png" alt="logo_not_found"> - thats means while learnign develop.
+						</p>
+					</div>
+				</div>
+			</div>
+			<hr>
+			<div class="container">
+				<div class="row justify-content-md-center">
+					<div class="col-lg-3 col-md-8 col-sm-12">
+						<div class="title-content">
+							<div class="section-title">
+								<h2 class="sec-title-text color-white">Skils</h2>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-3 col-md-8 col-sm-12">
+						<div class="section-title">
+							<h2 class="sec-title-text color-white">Front-end</h2>
+						</div>
+						<p class="paragraph-text">
+							-HTML <br>
+							-CSS <br>
+							-JavaScript <br>
+							-Bootstrap 4 <br>
+						</p>
+					</div>
+					<div class="col-lg-3 col-md-8 col-sm-12">
+						<div class="section-title">
+							<h2 class="sec-title-text color-white">Back-end</h2>
+						</div>
+						<p class="paragraph-text">
+							-PHP <br>
+							-Laravel <br>
+							-SQL <br>
+						</p>
+					</div>
+					<div class="col-lg-3 col-md-8 col-sm-12">
+						<p class="paragraph-text">
+							Currently I'm exploring these technologies:
+						</p>
+						<p class="paragraph-text">
+							-GoLand <br>
+							-Python <br>
+							-React Native <br>
+							-ReactJS <br>
+							-VueJs <br>
+						</p>
+					</div>
+					<div class="col-lg-6 col-md-8 col-sm-12">
+						<div class="section-title">
+							<h2 class="sec-title-text color-white">Tools</h2>
+						</div>
+						<p class="paragraph-text">
+							-Photoshop, -Illustrator, -Sublime Text 3,
+							-Visual Studio Code, -Android Studio, -PhpStorm
+							-WebStorm
+						</p>
+					</div>
+					
+				</div>
+				<!-- social-links-text - start -->
+				<div class="social-links-text ul-li">
+					<span class="title-text bg-royalblue">follow / contact</span>
+					<ul class="clearfix">
+						<li><a target="_blank" href="https://www.linkedin.com/in/muzudre/"><i class="fab fa-linkedin"></i> LinkedIn</a></li>
+						<li><a target="_blank" href="https://www.instagram.com/muzudre/"><i class="fab fa-instagram"></i> Instagram</a></li>
+						<li><a target="_blank" href="mailto:muzudre@gmail.com"><i class="fas fa-envelope"></i> Email</a></li>
 					</ul>
 				</div>
+				<!-- social-links-text - end -->
 			</div>
-			<div class="homeUiSocials">
-				<ul class="homeUiMenu">
-					<li><span>03</span> <a target="_blank" href="https://www.linkedin.com/in/muzudre/">LinkedIn</a></li>
-					<li><span>04</span> <a target="_blank" href="https://www.instagram.com/muzudre/">Instagram</a></li>
-					<li><span>05</span> <a target="_blank" href="mailto:muzudre@gmail.com">Email</a></li>
-				</ul>
-			</div>
-			<nav class="TheList" id="TheList">
-				<div class="theListWrapper">
-					<ul class="theListList" id="theListList">
-						<li>
-							<a href="#/project-1" data-color="#4C44FF">
-								<span class="theListYear">WEBSITE</span>
-								<span class="theListTitle">Medical Comparison</span>
-							</a>
-						</li>
-						<li>
-							<a href="#/project-2" data-color="#19bd9d">
-								<span class="theListYear">WEBSITE</span>
-								<span class="theListTitle">Insurance Directory</span>
-							</a>
-						</li>
-						<li>
-							<a href="#/project-3" data-color="#E8651E">
-								<span class="theListYear">WEBSITE</span>
-								<span class="theListTitle">Add reviews</span>
-							</a>
-						</li>
-						<li>
-							<a href="#/project-4" data-color="#FF143D">
-								<span class="theListYear">MOBILE GAME</span>
-								<span class="theListTitle">FastClick Game</span>
-							</a>
-						</li>
-						<li>
-							<a href="#/project-5" data-color="#E8651E">
-								<span class="theListYear">WEBSITE</span>
-								<span class="theListTitle">Street Workout</span>
-							</a>
-						</li>
-						<li>
-							<a href="#/project-6" data-color="#FFC132">
-								<span class="theListYear">WEBSITE</span>
-								<span class="theListTitle">MozgHub</span>
-							</a>
-						</li>
-						<li>
-							<a href="#/project-7" data-color="#C43AE8">
-								<span class="theListYear">MOBILE APP</span>
-								<span class="theListTitle">Street Workout App</span>
-							</a>
-						</li>
-						<li>
-							<a href="#/project-8" data-color="#19bdb0">
-								<span class="theListYear">MOBILE APP</span>
-								<span class="theListTitle">Black Wallpapers</span>
-							</a>
-						</li>
-						<li>
-							<a href="#/project-9" data-color="#ff2e2e">
-								<span class="theListYear">MOBILE APP</span>
-								<span class="theListTitle">Street Workout Wallpapers</span>
-							</a>
-						</li>
-						<li>
-							<a href="#/project-10" data-color="#542eff">
-								<span class="theListYear">MOBILE APP</span>
-								<span class="theListTitle">Gaming Wallpapers</span>
-							</a>
-						</li>
-						<li>
-							<a href="#/project-11" data-color="#542eff">
-								<span class="theListYear">MOBILE APP</span>
-								<span class="theListTitle">Coding Books</span>
-							</a>
-						</li>
-					</ul>
+		</section>
+		<!-- about-section-one - end
+		================================================== -->
+		<!-- footer-section (default-footer) - start
+		================================================== -->
+		<footer id="footer-section" class="footer-section sec-ptb-80 clearfix">
+			<div class="default-footer clearfix">
+				<div class="container">
+					<div class="row">
+						<div class="col-lg-3 col-md-3 col-sm-12">
+							<div class="website-logo mb-15">
+								<a href="index.html" class="website-link">
+									<img style="width: 75%;" src="assets/images/logo/logo-1.png" alt="logo_not_found">
+								</a>
+							</div>
+							
+						</div>
+						<div class="col-lg-4 col-md-4 col-sm-12">
+							<div class="address-info ul-li-block">
+								<div class="about-info">
+									<p class="mb-0">Code snippets licensed under MIT, unless otherwise noted. Content & Graphics Muslim Zabirov &copy; 2017<script>new Date().getFullYear()>2017&&document.write("-"+new Date().getFullYear());</script>
+								</p>
+								<br>
+								<a href="https://www.iubenda.com/privacy-policy/53819098" class="iubenda-black iubenda-embed " title="Privacy Policy">Privacy Policy</a> <script type="text/javascript">(function (w,d) {var loader = function () {var s = d.createElement("script"), tag = d.getElementsByTagName("script")[0]; s.src="https://cdn.iubenda.com/iubenda.js"; tag.parentNode.insertBefore(s,tag);}; if(w.addEventListener){w.addEventListener("load", loader, false);}else if(w.attachEvent){w.attachEvent("onload", loader);}else{w.onload = loader;}})(window, document);</script>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-5 col-md-5 col-sm-12">
+						<div class="menu-list ul-li-right clearfix">
+							<ul class="clearfix">
+								<li><a href="pages/support.html"><i class="fas fa-donate"></i> Support</a></li>
+								<li><a href="https://muzudre.github.io/brainhub/"><i class="fas fa-brain"></i> BrainHub</a></li>
+								<li><a href="https://muzudre.github.io/workout/"><i class="fas fa-dumbbell"></i> Workout</a></li>
+								<li><a href="content/cv.pdf" target="_blank"><i class="fas fa-file"></i> CV</a></li>
+							</ul>
+						</div>
+					</div>
 				</div>
-			</nav>
-		</div>
-		<div class="Subpage" id="Subpage">
-			<a href="#" class="subpageClose" id="subpageClose"><span>00</span> back</a>
-			<div class="subpageContent" id="subpageContent">
-				
 			</div>
 		</div>
-		<div class="Border Faded" id="Border">
-			<span></span>
-			<span></span>
-			<span></span>
-			<span></span>
+	</footer>
+	<!-- footer-section (default-footer) - end
+	================================================== -->
+	<!-- fraimwork - jquery include -->
+	<script src="assets/js/jquery-3.3.1.min.js"></script>
+	<script src="assets/js/bootstrap.min.js"></script>
+	<!-- custom - jquery include -->
+	<script src="assets/js/custom.js"></script>
+	<!-- Load React API -->
+	<script src= "https://unpkg.com/react@16/umd/react.production.min.js"></script>
+	<!-- Load React DOM-->
+	<script src= "https://unpkg.com/react-dom@16/umd/react-dom.production.min.js"></script>
+	<!-- Load Babel Compiler -->
+	<script src="https://unpkg.com/babel-standalone@6.15.0/babel.min.js"></script>
+	<script type="text/babel">
+	function Post(props) {
+		const content = props.posts.map((post) =>
+		<div class="grid-item" key={post.id}>
+			<a target="_blank" href={post.url}>
+						<div class="image-container">
+								<img src={post.cover} alt={post.title} />
+						</div>
+							<div class="item-content">
+									<h2 class="item-title">{post.title}</h2>
+									<div class="post-meta ul-li">
+											<ul class="clearfix">
+													<li><a href="#!">{post.type}</a></li>
+													<li><a href="#!">{post.content}</a></li>
+											</ul>
+									</div>
+							</div>
+					</a>
+			</div>
+		);
+		return (
+		<div class="grid portfolio-four clearfix">
+					<div class="grid-sizer"></div>
+				{content}
 		</div>
-	</div>
-	<script src="assets/jquery-2.2.4.min.js"></script>
-	<script src="assets/thelist.js"></script>
-</body>
+		);
+		}
+		const posts = [
+		{
+			id: 1,
+			title: 'Insurance Medical Comparison',
+			type: 'website',
+			content: 'Link',
+			cover: 'assets/images/1.png',
+			url: 'https://ibanding.com/medical/'
+		},
+		{
+			id: 2,
+			title: 'Insurance Agent Directory',
+			type: 'website',
+			content: 'Link',
+			cover: 'assets/images/1.png',
+			url: 'https://directory.ibanding.com/directory/'
+		},
+		{
+			id: 3,
+			title: 'Read reviews. Share Experience.',
+			type: 'website',
+			content: 'Link',
+			cover: 'assets/images/1.png',
+			url: 'https://review.ibanding.com/'
+		},
+		{
+			id: 4,
+			title: 'Android Game FastClick',
+			type: 'mobile',
+			content: 'Link',
+			cover: 'assets/images/1.png',
+			url: 'https://play.google.com/store/apps/details?id=com.muzudre.FastClick'
+		},
+		{
+			id: 5,
+			title: 'BrainHub | Awesome stuff for developer',
+			type: 'website',
+			content: 'Link',
+			cover: 'assets/images/1.png',
+			url: 'https://muzudre.github.io/brainhub/'
+		},
+		{
+			id: 6,
+			title: 'Street Workout App',
+			type: 'mobile',
+			content: 'Link',
+			cover: 'assets/images/1.png',
+			url: 'https://play.google.com/store/apps/details?id=com.muzudre.Workout'
+		},
+		{
+			id: 7,
+			title: 'Black Wallpapers - 4K Dark & AMOLED Backgrounds',
+			type: 'mobile',
+			content: 'Link',
+			cover: 'assets/images/1.png',
+			url: 'https://play.google.com/store/apps/details?id=com.muzudre.blackwallpapers'
+		},
+		{
+			id: 8,
+			title: 'Street Workout Wallpapers - Dark & AMOLED',
+			type: 'mobile',
+			content: 'Link',
+			cover: 'assets/images/1.png',
+			url: 'https://play.google.com/store/apps/details?id=com.muzudre.streetworkoutwallpapers'
+		},
+		{
+			id: 9,
+			title: 'Gaming Wallpapers - 4K Dark & AMOLED Backgrounds',
+			type: 'mobile',
+			content: 'Link',
+			cover: 'assets/images/1.png',
+			url: 'https://play.google.com/store/apps/details?id=com.muzudre.gamingwallpapers'
+		},
+		{
+			id: 10,
+			title: 'Free Coding Books: Hacker and Designer News',
+			type: 'mobile',
+			content: 'Link',
+			cover: 'assets/images/1.png',
+			url: 'https://play.google.com/store/apps/details?id=com.muzudre.Probooks&hl=en_US'
+		},
+		{
+			id: 10,
+			title: 'Street Workout | Awesome stuff for athletes',
+			type: 'mobile',
+			content: 'Link',
+			cover: 'assets/images/1.png',
+			url: 'https://muzudre.github.io/workout/'
+		}
+		];
+		ReactDOM.render(
+		<Post posts={posts} />,
+			document.getElementById('root')
+			);
+		</script>
+	</body>
 </html>
