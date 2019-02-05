@@ -113,8 +113,8 @@ a {
 .g-header .g-logo {
   float: left;
   margin-left: 2%;
-  width: 89px;
-  height: 36px;
+  width: 135px;
+  height: 35px;
   background: url(../icons/logo.png) center no-repeat;
   background-size: 100% 100%;
   opacity: 0.8;
@@ -263,7 +263,7 @@ a {
 }
 
 .home-content {
-  margin: -42px auto 60px;
+  margin: -20px auto 60px;
   position: relative;
 }
 
@@ -399,7 +399,8 @@ a {
 }
 
 .author-card .avatar img {
-  width: 100%;
+  width: 90%;
+  border-radius: 50%;
 }
 
 .author-card .author-name {
@@ -820,7 +821,7 @@ a {
 }
 
 .post-no-cover {
-  height: 254px;
+  height: 30%;
 }
 
 .post-no-cover .post-tags {

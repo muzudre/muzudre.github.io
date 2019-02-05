@@ -1,48 +1,74 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>How to start AVD emulator without device frame. - BrainHub | Awsome stuff for developers: Programming Tools, Code, HTML5, Mobile</title>
-    <link rel="shortcut icon" type="image/png" href="/brainhub/favicon.svg"/>
-    <meta name="author"  content="BrainBot">
-    <meta name="description" content="How to start AVD emulator without device frame.">
-    <meta name="keywords"  content="android, avd">
-    <!-- Open Graph -->
-    <meta property="og:title" content="How to start AVD emulator without device frame. - BrainHub | Awsome stuff for developers: Programming Tools, Code, HTML5, Mobile">
-    <meta property="og:type" content="website">
-    <meta property="og:url" content="http://localhost:4000/2018/11/08/how-to-hide-android-emulator.html">
-    <meta property="og:description" content="loves technology & design. I am very happy to share my thoughts on technology and life with you here.">
-    <meta property="og:site_name" content="BrainHub | Awsome stuff for developers: Programming Tools, Code, HTML5, Mobile">
-    <link rel="stylesheet" href="/brainhub/assets/css/normalize.css">
-    <link rel="stylesheet" href="/brainhub/assets/css/font-rocgem.css">
-    <link rel="stylesheet" href="/brainhub/assets/css/github-markdown.css">
-    <link rel="stylesheet" href="/brainhub/assets/css/prism.css">
-    <link rel="stylesheet" href="/brainhub/assets/css/share.min.css">
-    <link rel="stylesheet" href="/brainhub/assets/css/app.min.css">
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css">
-    <script src="/brainhub/assets/js/jquery.js"></script>
-    <script>
-        $(document).ready(function() {
-            $(window).scroll(function(o) {
-                var n = $(window).scrollTop() / ($(document).height() - $(window).height()),
-                    e = Math.round(100 * n);
-                $("#scrollPercentLabel>span").html(e)
-            })
-        });
-    </script>
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-122336637-1"></script>
-    <script>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>
+    How to start AVD emulator without device frame. - BrainHub | Simplicity is the soul of efficiency: Programming Tools, Code, HTML5, Mobile
+  </title>
+  <link
+    rel="shortcut icon"
+    type="image/png"
+    href="/brainhub/favicon.svg"
+  />
+  <meta name="author" content="Muslim Zabirov" />
+  <meta
+    name="description"
+    content="How to start AVD emulator without device frame."
+  />
+  <meta
+    name="keywords"
+    content="android, avd"
+  />
+  <!-- Open Graph -->
+  <meta
+    property="og:title"
+    content="How to start AVD emulator without device frame. - BrainHub | Simplicity is the soul of efficiency: Programming Tools, Code, HTML5, Mobile"
+  />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="http://localhost:4000/2018/11/08/how-to-hide-android-emulator.html" />
+  <meta property="og:description" content="loves technology & design. I am very happy to share my thoughts on technology and life with you here." />
+  <meta property="og:site_name" content="BrainHub | Simplicity is the soul of efficiency: Programming Tools, Code, HTML5, Mobile" />
+  <link rel="stylesheet" href="/brainhub/assets/css/normalize.css" />
+  <link rel="stylesheet" href="/brainhub/assets/css/font-rocgem.css" />
+  <link
+    rel="stylesheet"
+    href="/brainhub/assets/css/github-markdown.css"
+  />
+  <link rel="stylesheet" href="/brainhub/assets/css/prism.css" />
+  <link rel="stylesheet" href="/brainhub/assets/css/share.min.css" />
+  <link rel="stylesheet" href="/brainhub/assets/css/app.min.css" />
+  <link
+    rel="stylesheet"
+    href="https://use.fontawesome.com/releases/v5.6.3/css/all.css"
+  />
+  <script src="/brainhub/assets/js/jquery.js"></script>
+  <script>
+    $(document).ready(function() {
+      $(window).scroll(function(o) {
+        var n =
+            $(window).scrollTop() / ($(document).height() - $(window).height()),
+          e = Math.round(100 * n);
+        $("#scrollPercentLabel>span").html(e);
+      });
+    });
+  </script>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script
+    async
+    src="https://www.googletagmanager.com/gtag/js?id=UA-122336637-1"
+  ></script>
+  <script>
     window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+    gtag("js", new Date());
 
-    gtag('config', 'UA-122336637-1');
-    </script>
+    gtag("config", "UA-122336637-1");
+  </script>
 
-	
-    <style>
+   <style>
     .markdown-body .anchor{
         float: left;
         margin-top: -8px;
@@ -155,9 +181,9 @@
       <div class="avatar">
         <img src="/brainhub/assets/img/profile.png" alt="">
       </div>
-      <div class="author-name" rel="author">BrainBot</div>
+      <div class="author-name" rel="author">Muslim Zabirov</div>
       <div class="bio">
-        <p>Developer, Loves Technology, Design and Coding, Simple Optimism</p>
+        <p>I spend most of my time in doing programming and Street Workout.</p>
       </div>
       
       <ul class="sns-links">
@@ -165,6 +191,12 @@
         <li>
           <a href="//www.instagram.com/muzudre" target="_blank">
             <i class="iconfont icon-instagram"></i>
+          </a>
+        </li>
+        
+        <li>
+          <a href="muzudre@gmail.com" target="_blank">
+            <i class="iconfont icon-email"></i>
           </a>
         </li>
         
@@ -202,17 +234,35 @@
     <p id="scrollPercentLabel"><i class="fa fa-arrow-up"></i> <span> 0</span>%</p>
   </a>
   <footer class="g-footer">
-  <section>Code snippets licensed under <a target="_blank" href="https://oss.ninja/mit?organization=BrainHub" rel="nofollow noopener">MIT</a>, unless otherwise noted.<br>Content & Graphics BrainHub ©
-  
-  
-    2018
-    -
-  
-  2019
+  <section>
+    Code snippets licensed under <a target="_blank" href="https://oss.ninja/mit?organization=BrainHub" rel="nofollow noopener">MIT</a>, unless otherwise noted.<br />Content & Graphics BrainHub ©   2018 - 
+    2019
   </section>
   <center>
-    <br>
-    <a href="https://www.iubenda.com/privacy-policy/53819098" class="iubenda-black iubenda-embed " title="Privacy Policy">Privacy Policy</a> <script type="text/javascript">(function (w,d) {var loader = function () {var s = d.createElement("script"), tag = d.getElementsByTagName("script")[0]; s.src="https://cdn.iubenda.com/iubenda.js"; tag.parentNode.insertBefore(s,tag);}; if(w.addEventListener){w.addEventListener("load", loader, false);}else if(w.attachEvent){w.attachEvent("onload", loader);}else{w.onload = loader;}})(window, document);</script>
+    <br />
+    <a
+      href="https://www.iubenda.com/privacy-policy/53819098"
+      class="iubenda-black iubenda-embed "
+      title="Privacy Policy"
+      >Privacy Policy</a
+    >
+    <script type="text/javascript">
+      (function(w, d) {
+        var loader = function() {
+          var s = d.createElement("script"),
+            tag = d.getElementsByTagName("script")[0];
+          s.src = "https://cdn.iubenda.com/iubenda.js";
+          tag.parentNode.insertBefore(s, tag);
+        };
+        if (w.addEventListener) {
+          w.addEventListener("load", loader, false);
+        } else if (w.attachEvent) {
+          w.attachEvent("onload", loader);
+        } else {
+          w.onload = loader;
+        }
+      })(window, document);
+    </script>
   </center>
 </footer>
 
