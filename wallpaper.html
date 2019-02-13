@@ -213,6 +213,8 @@
     <script src="js/plugins.js"></script>
     <!-- Main JS -->
     <script src="js/main.js"></script>
+    <!-- image load js file -->
+    <script src="https://unpkg.com/imagesloaded@4/imagesloaded.pkgd.min.js"></script>
     <!-- Load React API -->
     <script src="https://unpkg.com/react@16/umd/react.production.min.js"></script>
     <!-- Load React DOM-->
@@ -407,6 +409,22 @@
         <Wallpapers posts={posts} />,
         document.getElementById("wallpapers")
       );
+    </script>
+    <script type="text/javascript">
+      $('#wallpapers').imagesLoaded()
+      .always( function( instance ) {
+        console.log('all images loaded');
+      })
+      .done( function( instance ) {
+        console.log('all images successfully loaded');
+      })
+      .fail( function() {
+        console.log('all images loaded, at least one is broken');
+      })
+      .progress( function( instance, image ) {
+        var result = image.isLoaded ? 'loaded' : 'broken';
+        console.log( 'image is ' + result + ' for ' + image.img.src );
+      });
     </script>
   </body>
 </html>
