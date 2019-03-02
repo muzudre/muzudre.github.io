@@ -111,15 +111,15 @@ a {
 }
 
 .g-header .g-logo {
-  float: left;
-  margin-left: 2%;
-  width: 190px;
-  height: 43px;
-  background: url(../icons/logo.png) center no-repeat;
-  background-size: 100% 100%;
-  opacity: 0.8;
-  transition: all 0.2s;
-  margin-top: -13px;
+      float: left;
+    margin-left: 1%;
+    width: 150px;
+    height: 38px;
+    background: url(../icons/logo.png) center no-repeat;
+    background-size: 100% 100%;
+    opacity: 0.8;
+    transition: all 0.2s;
+    margin-top: -7px;
 }
 
 .g-header .g-logo:hover {
