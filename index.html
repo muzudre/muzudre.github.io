@@ -85,6 +85,17 @@
     gtag("js", new Date());
     gtag("config", "UA-111384756-1");
     </script>
+    <style type="text/css">
+      .title{
+        color: #6200ee;
+      }
+      .color{
+        color: #6200ee;
+      }
+      .icon{
+        font-size:30px;color: #6200ee;
+      }
+    </style>
 
   </head>
 
@@ -92,7 +103,7 @@
     <!-- begin of preloader -->
     <div class="preloader">
       <div class="line_loader"></div>
-      <p style="color: #6200ee;">loading</p>
+      <p class="color">loading</p>
     </div>
     <!-- <div class="overlay2"></div> -->
     <!-- <div class="overlay"></div> -->
@@ -108,7 +119,7 @@
             <div class="row">
               <div class="col-lg-9 col-md-6 col-5">
                 <!-- logo -->
-                <a href="index.html"><i style="font-size:30px;color: #6200ee;" class="fas fa-signature"></i></a>
+                <a href="index.html"><i class="fas fa-signature icon"></i></a>
 
                 <ul id="menu">
                   <li><a href="index.html">Home</a></li>
@@ -158,7 +169,7 @@
           <!-- <div class="row">
             <div class="col">
               <div class="cover_img">
-                <img class="img-fluid" src="images/img.png" alt="" />
+                <img style="width: 25%" class="img-fluid" src="images/2.gif" alt="" />
               </div>
             </div>
           </div> -->
@@ -437,7 +448,7 @@
     <script src="https://unpkg.com/react-dom@16/umd/react-dom.production.min.js"></script>
     <!-- Load Babel Compiler -->
     <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
-
+  
     <script type="text/babel">
       function Projects(props) {
         const content = props.projects
@@ -451,10 +462,12 @@
                             <img class="img-fluid" src={projects.cover} alt="" />
                         </a>
                     </div>
-                    <div class="work_item_info">
-                        <h4>{projects.title}</h4>
+                    <a href={projects.url} target="_blank">
+                      <div class="work_item_info">
+                        <h4 class="title">{projects.title}</h4>
                         <p>{projects.type}</p>
                     </div>
+                    </a>
                 </div>
             </div>
           ));
