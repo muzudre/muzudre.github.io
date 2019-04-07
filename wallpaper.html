@@ -100,7 +100,7 @@
                 <!-- logo -->
                 <a href="index.html"
                   ><i
-                    style="font-size: 30px;color: #18ff88;"
+                    style="font-size: 30px;color: #42b983;"
                     class="fas fa-signature"
                   ></i
                 ></a>
@@ -157,10 +157,27 @@
       <!-- end of intro wrapper -->
 
       <div id="qrop_blogs" class="qrop_blogs section_single_padding">
-        <div class="container">
+        <div class="container" id="app">
           <div class="row">
             <div class="col-md-12">
-              <div id="wallpapers"></div>
+              <div class="row">
+                <div v-for="post in posts" class="col-lg-4 col-md-6" >
+                  <div class="blog_item mb-40">
+                    <div class="blog_img">
+                      <img class="img-fluid" :src="post.thumb" alt="" />
+                    </div>
+                    <div class="blog_item_info">
+                      <h4>{{post.title}}</h4>
+                      <p>
+                        {{post.size}} | {{post.resolution}}
+                      </p>
+                      <a :href="post.cover" download="wallpaper">
+                        {{post.button}}
+                      </a>
+                    </div>
+                  </div>
+                </div>
+              </div>
             </div>
           </div>
         </div>
@@ -213,218 +230,175 @@
     <script src="js/plugins.js"></script>
     <!-- Main JS -->
     <script src="js/main.js"></script>
-    <!-- image load js file -->
-    <script src="https://unpkg.com/imagesloaded@4/imagesloaded.pkgd.min.js"></script>
-    <!-- Load React API -->
-    <script src="https://unpkg.com/react@16/umd/react.production.min.js"></script>
-    <!-- Load React DOM-->
-    <script src="https://unpkg.com/react-dom@16/umd/react-dom.production.min.js"></script>
-    <!-- Load Babel Compiler -->
-    <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+    <!-- production version, optimized for size and speed -->
+    <script src="https://cdn.jsdelivr.net/npm/vue"></script>
 
-    <script type="text/babel">
-      function Wallpapers(props) {
-        const content = props.posts
-          .slice(0)
-          .reverse()
-          .map(post => (
-            <div class="col-lg-4 col-md-6" key={post.id}>
-              <div class="blog_item mb-40">
-                <div class="blog_img">
-                  <img class="img-fluid" src={post.thumb} alt="" />
-                </div>
-                <div class="blog_item_info">
-                  <h4>{post.title}</h4>
-                  <p>
-                    {post.size} | {post.resolution}
-                  </p>
-                  <a href={post.cover} download="wallpaper">
-                    {post.button}
-                  </a>
-                </div>
-              </div>
-            </div>
-          ));
-        return <div class="row">{content}</div>;
-      }
-      const posts = [
-        {
-          id: 1,
-          title: "Mozilla",
-          type: "wallpaper",
-          content: "Just a small description",
-          cover: "images/wallpapers/1.png",
-          thumb: "images/wallpapers/thumb-1.png",
-          size: "333.4 kB",
-          resolution: "3840x2160 pixels",
-          button: "Download",
-          url: "url"
-        },
-        {
-          id: 2,
-          title: "I dont know what is this",
-          type: "wallpaper",
-          content: "Just a small description",
-          cover: "images/wallpapers/2.png",
-          thumb: "images/wallpapers/thumb-2.png",
-          size: "131.1 kB",
-          resolution: "4500x3000 pixels",
-          button: "Download",
-          url: "url"
-        },
-        {
-          id: 3,
-          title: "Mac OS",
-          type: "wallpaper",
-          content: "Just a small description",
-          cover: "images/wallpapers/3.jpg",
-          thumb: "images/wallpapers/thumb-3.jpg",
-          size: "6.9 MB",
-          resolution: "5120x2880 pixels",
-          button: "Download",
-          url: "url"
-        },
-        {
-          id: 4,
-          title: "Mac OS",
-          type: "wallpaper",
-          content: "Just a small description",
-          cover: "images/wallpapers/4.jpg",
-          thumb: "images/wallpapers/thumb-4.jpg",
-          size: "3.5 MB",
-          resolution: "5120x2880 pixels",
-          button: "Download",
-          url: "url"
-        },
-        {
-          id: 5,
-          title: "Mac OS",
-          type: "wallpaper",
-          content: "Just a small description",
-          cover: "images/wallpapers/5.jpg",
-          thumb: "images/wallpapers/thumb-5.jpg",
-          size: "4.2 MB",
-          resolution: "5120x2880 pixels",
-          button: "Download",
-          url: "url"
-        },
-        {
-          id: 6,
-          title: "Python",
-          type: "wallpaper",
-          content: "Just a small description",
-          cover: "images/wallpapers/6.png",
-          thumb: "images/wallpapers/thumb-6.png",
-          size: "73.3 kB",
-          resolution: "4500x3000 pixels",
-          button: "Download",
-          url: "url"
-        },
-        {
-          id: 7,
-          title: "Windows Surface",
-          type: "wallpaper",
-          content: "Just a small description",
-          cover: "images/wallpapers/7.jpg",
-          thumb: "images/wallpapers/thumb-7.jpg",
-          size: "1.7 MB",
-          resolution: "4500x3000 pixels",
-          button: "Download",
-          url: "url"
-        },
-        {
-          id: 8,
-          title: "The Verge wallpapers",
-          type: "wallpaper",
-          content: "Just a small description",
-          cover: "images/wallpapers/8.png",
-          thumb: "images/wallpapers/thumb-8.png",
-          size: "12.7 MB",
-          resolution: "3000x2000 pixels",
-          button: "Download",
-          url: "url"
-        },
-        {
-          id: 9,
-          title: "vector Mountains",
-          type: "wallpaper",
-          content: "Just a small description",
-          cover: "images/wallpapers/9.png",
-          thumb: "images/wallpapers/thumb-9.png",
-          size: "7.1 MB",
-          resolution: "3840x2160 pixels",
-          button: "Download",
-          url: "url"
-        },
-        {
-          id: 10,
-          title: "Ubuntu",
-          type: "wallpaper",
-          content: "Just a small description",
-          cover: "images/wallpapers/10.png",
-          thumb: "images/wallpapers/thumb-10.png",
-          size: "503.5 kB",
-          resolution: "7680x4320 pixels",
-          button: "Download",
-          url: "url"
-        },
-        {
-          id: 11,
-          title: "Watchdogs",
-          type: "wallpaper",
-          content: "Just a small description",
-          cover: "images/wallpapers/11.jpg",
-          thumb: "images/wallpapers/thumb-11.jpg",
-          size: "7.1 MB",
-          resolution: "4500x3000 pixels",
-          button: "Download",
-          url: "url"
-        },
-        {
-          id: 12,
-          title: "Watchdogs",
-          type: "wallpaper",
-          content: "Just a small description",
-          cover: "images/wallpapers/12.jpg",
-          thumb: "images/wallpapers/thumb-12.jpg",
-          size: "11.5 MB",
-          resolution: "7680x4320 pixels",
-          button: "Download",
-          url: "url"
-        },
-        {
-          id: 13,
-          title: "Mac OS X",
-          type: "wallpaper",
-          content: "Just a small description",
-          cover: "images/wallpapers/13.jpg",
-          thumb: "images/wallpapers/thumb-13.jpg",
-          size: "3.3 MB",
-          resolution: "2880x1800 pixels",
-          button: "Download",
-          url: "url"
-        }
-      ];
-      ReactDOM.render(
-        <Wallpapers posts={posts} />,
-        document.getElementById("wallpapers")
-      );
-    </script>
-    <script type="text/javascript">
-      $('#wallpapers').imagesLoaded()
-      .always( function( instance ) {
-        console.log('all images loaded');
-      })
-      .done( function( instance ) {
-        console.log('all images successfully loaded');
-      })
-      .fail( function() {
-        console.log('all images loaded, at least one is broken');
-      })
-      .progress( function( instance, image ) {
-        var result = image.isLoaded ? 'loaded' : 'broken';
-        console.log( 'image is ' + result + ' for ' + image.img.src );
-      });
+    <script>
+        new Vue({
+            el: '#app',
+            data () {
+                return {
+                    posts: [
+                        {
+                            id: 1,
+                            title: "Mozilla",
+                            type: "wallpaper",
+                            content: "Just a small description",
+                            cover: "images/wallpapers/1.png",
+                            thumb: "images/wallpapers/thumb-1.png",
+                            size: "333.4 kB",
+                            resolution: "3840x2160 pixels",
+                            button: "Download",
+                            url: "url"
+                        },
+                        {
+                            id: 2,
+                            title: "I dont know what is this",
+                            type: "wallpaper",
+                            content: "Just a small description",
+                            cover: "images/wallpapers/2.png",
+                            thumb: "images/wallpapers/thumb-2.png",
+                            size: "131.1 kB",
+                            resolution: "4500x3000 pixels",
+                            button: "Download",
+                            url: "url"
+                        },
+                        {
+                            id: 3,
+                            title: "Mac OS",
+                            type: "wallpaper",
+                            content: "Just a small description",
+                            cover: "images/wallpapers/3.jpg",
+                            thumb: "images/wallpapers/thumb-3.jpg",
+                            size: "6.9 MB",
+                            resolution: "5120x2880 pixels",
+                            button: "Download",
+                            url: "url"
+                        },
+                        {
+                            id: 4,
+                            title: "Mac OS",
+                            type: "wallpaper",
+                            content: "Just a small description",
+                            cover: "images/wallpapers/4.jpg",
+                            thumb: "images/wallpapers/thumb-4.jpg",
+                            size: "3.5 MB",
+                            resolution: "5120x2880 pixels",
+                            button: "Download",
+                            url: "url"
+                        },
+                        {
+                            id: 5,
+                            title: "Mac OS",
+                            type: "wallpaper",
+                            content: "Just a small description",
+                            cover: "images/wallpapers/5.jpg",
+                            thumb: "images/wallpapers/thumb-5.jpg",
+                            size: "4.2 MB",
+                            resolution: "5120x2880 pixels",
+                            button: "Download",
+                            url: "url"
+                        },
+                        {
+                            id: 6,
+                            title: "Python",
+                            type: "wallpaper",
+                            content: "Just a small description",
+                            cover: "images/wallpapers/6.png",
+                            thumb: "images/wallpapers/thumb-6.png",
+                            size: "73.3 kB",
+                            resolution: "4500x3000 pixels",
+                            button: "Download",
+                            url: "url"
+                        },
+                        {
+                            id: 7,
+                            title: "Windows Surface",
+                            type: "wallpaper",
+                            content: "Just a small description",
+                            cover: "images/wallpapers/7.jpg",
+                            thumb: "images/wallpapers/thumb-7.jpg",
+                            size: "1.7 MB",
+                            resolution: "4500x3000 pixels",
+                            button: "Download",
+                            url: "url"
+                        },
+                        {
+                            id: 8,
+                            title: "The Verge wallpapers",
+                            type: "wallpaper",
+                            content: "Just a small description",
+                            cover: "images/wallpapers/8.png",
+                            thumb: "images/wallpapers/thumb-8.png",
+                            size: "12.7 MB",
+                            resolution: "3000x2000 pixels",
+                            button: "Download",
+                            url: "url"
+                        },
+                        {
+                            id: 9,
+                            title: "vector Mountains",
+                            type: "wallpaper",
+                            content: "Just a small description",
+                            cover: "images/wallpapers/9.png",
+                            thumb: "images/wallpapers/thumb-9.png",
+                            size: "7.1 MB",
+                            resolution: "3840x2160 pixels",
+                            button: "Download",
+                            url: "url"
+                        },
+                        {
+                            id: 10,
+                            title: "Ubuntu",
+                            type: "wallpaper",
+                            content: "Just a small description",
+                            cover: "images/wallpapers/10.png",
+                            thumb: "images/wallpapers/thumb-10.png",
+                            size: "503.5 kB",
+                            resolution: "7680x4320 pixels",
+                            button: "Download",
+                            url: "url"
+                        },
+                        {
+                            id: 11,
+                            title: "Watchdogs",
+                            type: "wallpaper",
+                            content: "Just a small description",
+                            cover: "images/wallpapers/11.jpg",
+                            thumb: "images/wallpapers/thumb-11.jpg",
+                            size: "7.1 MB",
+                            resolution: "4500x3000 pixels",
+                            button: "Download",
+                            url: "url"
+                        },
+                        {
+                            id: 12,
+                            title: "Watchdogs",
+                            type: "wallpaper",
+                            content: "Just a small description",
+                            cover: "images/wallpapers/12.jpg",
+                            thumb: "images/wallpapers/thumb-12.jpg",
+                            size: "11.5 MB",
+                            resolution: "7680x4320 pixels",
+                            button: "Download",
+                            url: "url"
+                        },
+                        {
+                            id: 13,
+                            title: "Mac OS X",
+                            type: "wallpaper",
+                            content: "Just a small description",
+                            cover: "images/wallpapers/13.jpg",
+                            thumb: "images/wallpapers/thumb-13.jpg",
+                            size: "3.3 MB",
+                            resolution: "2880x1800 pixels",
+                            button: "Download",
+                            url: "url"
+                        }
+                    ]
+                }
+            }
+        })
     </script>
   </body>
 </html>

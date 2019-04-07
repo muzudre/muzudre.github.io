@@ -87,13 +87,13 @@
     </script>
     <style type="text/css">
       .title{
-        color: #18ff88;
+        color: #42b983;
       }
       .color{
-        color: #18ff88;
+        color: #42b983;
       }
       .icon{
-        font-size:30px;color: #18ff88;
+        font-size:30px;color: #42b983;
       }
     </style>
 
@@ -193,7 +193,7 @@
               <div class="about_info">
                 <h6 class="section_subtitle">a little things about me</h6>
                 <p>
-                  Hello! I'm <span>Muslim Zabirov.
+                  Hello! I'm <span>Muslim Zabirov.</span>
                 </p>
                 <p>
                   I am a web developer with a vast array of knowledge in many
@@ -311,7 +311,24 @@
                   </div>
                 </div>
               </div>
-              <div id="projects"></div>
+              <div id="app">
+                <div class="col-md-9">
+                  <div class="row work_items zoom-gallery">
+                    <!-- blog single item -->
+
+                      <div v-for="item in data" :class="'col-md-4 wow fadeIn ' + item.type" data-wow-delay=".25s">
+                        <div class="blog_item sm-mt-30">
+                          <div class="blog_item_info">
+                            <h4>{{item.title}}</h4>
+                            <p>{{item.content}}</p>
+                            <a target="_blank" :href="item.url">Read More</a>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+
+                </div>
+              </div>
             </div>
           </div>
         </div>
@@ -442,174 +459,146 @@
     <script src="js/plugins.js"></script>
     <!-- Main JS -->
     <script src="js/main.js"></script>
-    <!-- Load React API -->
-    <script src="https://unpkg.com/react@16/umd/react.production.min.js"></script>
-    <!-- Load React DOM-->
-    <script src="https://unpkg.com/react-dom@16/umd/react-dom.production.min.js"></script>
-    <!-- Load Babel Compiler -->
-    <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+    <!-- production version, optimized for size and speed -->
+    <script src="https://cdn.jsdelivr.net/npm/vue"></script>
   
-    <script type="text/babel">
-      function Projects(props) {
-        const content = props.projects
-          .slice(0)
-          .reverse()
-          .map(projects => (
-            <div class={"col-lg-4 col-md-6 col-sm-6 " + projects.type} key={projects.id}>
-                <div class="work_single_item">
-                    <div class="work_image">
-                        <a class="zoom_image" href={projects.cover}>
-                            <img class="img-fluid" src={projects.cover} alt="" />
-                        </a>
-                    </div>
-                    <a href={projects.url} target="_blank">
-                      <div class="work_item_info">
-                        <h4 class="title">{projects.title}</h4>
-                        <p>{projects.type}</p>
-                    </div>
-                    </a>
-                </div>
-            </div>
-          ));
-        return (
-            <div class="row work_items zoom-gallery">
-                {content}
-            </div>
-        );
-      }
-      const projects = [
-      {
-          id: 1,
-          title: "Insurance Medical Comparison",
-          type: "website",
-          content:
-            "Malaysia’s leading standalone medical plans from a network of compassionate insurance providers. We’re here to make sure that you are equipped with the right insurance information so you can make the most informed decisions. You won’t find another quite like us. — here’s why",
-          cover: "images/7.png",
-          button: "View",
-          url: "https://ibanding.com/medical/"
-        },
-        {
-          id: 2,
-          title: "Insurance Agent Directory",
-          type: "website",
-          content:
-            "Malaysia’s First and Largest Insurance Agent Directory There are hundreds of thousands of insurance agents in Malaysia, life insurance agents alone account to about 85,000. All Life Insurance Agents are required to be registered with the Life Insurance Agent Association of Malaysia (LIAM) before they are allowed market and distribute any Life insurance product. Unlike General Insurance Agents, Life Insurance Agents are only able to represent ONE insurance company.",
-          cover: "images/9.png",
-          button: "View",
-          url: "https://directory.ibanding.com/directory/"
-        },
-        {
-          id: 3,
-          title: "Read reviews. Share Experience.",
-          type: "website",
-          content:
-            "Read reviews. Share Experience. Make better decisions. Let’s upgrade Malaysia iBanding Review is a review platform open to everyone. Share your experiences to help others make better choices and help companies improve their product and services.",
-          cover: "images/8.png",
-          button: "View",
-          url: "https://review.ibanding.com/"
-        },
-        {
-          id: 4,
-          title: "Android Game FastClick",
-          type: "mobile",
-          content:
-            "Press the button as fast as you can! In 10 second you have to reach as much as possible clicks and beat your friends records. Simple & Beautiful game Compete for the best score with your friends.",
-          cover: "images/4.png",
-          button: "View On Google Play",
-          url:
-            "https://play.google.com/store/apps/details?id=com.muzudre.FastClick"
-        },
-        {
-          id: 5,
-          title: "BrainHub | Simplicity is the soul of efficiency.",
-          type: "website",
-          content:
-            "BrainHub - is my daily programming notes. I create this blog for myself. Tools, Code, Laravel, Node, React, Vue, Mobile",
-          cover: "images/12.png",
-          button: "View",
-          url: "https://muzudre.github.io/brainhub/"
-        },
-        {
-          id: 6,
-          title: "Street Workout App",
-          type: "mobile",
-          content:
-            "Street Workout in your pocket. All routines classified by difficulty. Street Workout App helps you to achieve impressive Street Workout Skills and functional muscles. There are a lot of trend sports : crossfit calisthenics gymnastics gym freeruning parkour bar brothers bar starz daniel laizans where you you can see this skills.",
-          cover: "images/6.png",
-          button: "View",
-          url:
-            "https://play.google.com/store/apps/details?id=com.muzudre.Workout"
-        },
-        {
-          id: 7,
-          title: "Black Wallpapers - 4K Dark & AMOLED Backgrounds",
-          type: "mobile",
-          content:
-            "Black Wallpapers - 4K Dark & AMOLED Backgrounds. Get the best free Wallpapers and make your phone look amazing as you are. Some wallpapers are personally made by me and some personally picked. This app will always be free and with no advertisement. Change it as often as you like, so your phone always represents your style.",
-          cover: "images/2.png",
-          button: "View On Google Play",
-          url:
-            "https://play.google.com/store/apps/details?id=com.muzudre.blackwallpapers"
-        },
-        {
-          id: 8,
-          title: "Street Workout Wallpapers - Dark & AMOLED",
-          type: "mobile",
-          content:
-            "Street Workout Wallpapers - Dark & AMOLED Backgrounds. Get the best free Wallpapers and make your phone look amazing as you are. Some wallpapers are personally made by me and some personally picked. This app will always be free and with no advertisement. Change it as often as you like, so your phone always represents your style.",
-          cover: "images/5.png",
-          button: "View On Google Play",
-          url:
-            "https://play.google.com/store/apps/details?id=com.muzudre.streetworkoutwallpapers"
-        },
-        {
-          id: 9,
-          title: "Gaming Wallpapers - 4K Dark & AMOLED Backgrounds",
-          type: "mobile",
-          content:
-            "Gaming Wallpapers - 4K Dark & AMOLED Backgrounds Get the best free Wallpapers and make your phone look amazing as you are.This app made by a gamers and all wallpaper are provided by them, some wallpapers are personally made by them and some personally piked.",
-          cover: "images/3.png",
-          button: "View On Google Play",
-          url:
-            "https://play.google.com/store/apps/details?id=com.muzudre.gamingwallpapers"
-        },
-        {
-          id: 10,
-          title: "Free Coding Books: Hacker and Designer News",
-          type: "mobile",
-          content:
-            "Browse your best programming languages, books and start learning to code. Bonus you can also brows Hacker and Designer News. Free Coding Books its an application for all coders from beginner to professional, it contains more than 100 free programming books for different levels whether you are newbie or advanced you will find something that will help to start learning coding step by step or to increase your knowledge.This app contains list of free e-books for programmers with a live search.",
-          cover: "images/1.png",
-          button: "View On Google Play",
-          url:
-            "https://play.google.com/store/apps/details?id=com.muzudre.Probooks&hl=en_US"
-        },
-        {
-          id: 11,
-          title: "Street Workout | Awesome stuff for athletes",
-          type: "website",
-          content:
-            "To provide your body and muscles with enough protein, people usually eat a lot of meat, fish or low-fat cottage cheese. But maybe you like to try something different than your regular chicken or tuna salad. In this blogpost we write about six vegetables that are relatively high in protein.",
-          cover: "images/11.png",
-          button: "View",
-          url: "https://muzudre.github.io/workout/"
-        },
-        {
-          id: 12,
-          title: "KamiBantu – We help you find answers",
-          type: "website",
-          content:
-            "We help you find answers and handle your claim. Step 1: Ask a Question, Step 2: Get expert answers, Step 3: Hire an expert",
-          cover: "images/10.png",
-          button: "View",
-          url: "https://kamibantu.org"
-        }
-      ];
+    <script>
+      new Vue({
+          el: '#app',
+          data () {
+              return {
+                  data: [
+                      {
+                          id: 1,
+                          title: "Insurance Medical Comparison",
+                          type: "website",
+                          content:
+                              "Malaysia’s leading standalone medical plans from a network of compassionate insurance providers. We’re here to make sure that you are equipped with the right insurance information so you can make the most informed decisions. You won’t find another quite like us. — here’s why",
+                          cover: "images/7.png",
+                          button: "View",
+                          url: "https://ibanding.com/medical/"
+                      },
+                      {
+                          id: 2,
+                          title: "Insurance Agent Directory",
+                          type: "website",
+                          content:
+                              "Malaysia’s First and Largest Insurance Agent Directory There are hundreds of thousands of insurance agents in Malaysia, life insurance agents alone account to about 85,000. All Life Insurance Agents are required to be registered with the Life Insurance Agent Association of Malaysia (LIAM) before they are allowed market and distribute any Life insurance product. Unlike General Insurance Agents, Life Insurance Agents are only able to represent ONE insurance company.",
+                          cover: "images/9.png",
+                          button: "View",
+                          url: "https://directory.ibanding.com/directory/"
+                      },
+                      {
+                          id: 3,
+                          title: "Read reviews. Share Experience.",
+                          type: "website",
+                          content:
+                              "Read reviews. Share Experience. Make better decisions. Let’s upgrade Malaysia iBanding Review is a review platform open to everyone. Share your experiences to help others make better choices and help companies improve their product and services.",
+                          cover: "images/8.png",
+                          button: "View",
+                          url: "https://review.ibanding.com/"
+                      },
+                      {
+                          id: 4,
+                          title: "Android Game FastClick",
+                          type: "mobile",
+                          content:
+                              "Press the button as fast as you can! In 10 second you have to reach as much as possible clicks and beat your friends records. Simple & Beautiful game Compete for the best score with your friends.",
+                          cover: "images/4.png",
+                          button: "View On Google Play",
+                          url:
+                              "https://play.google.com/store/apps/details?id=com.muzudre.FastClick"
+                      },
+                      {
+                          id: 5,
+                          title: "BrainHub | Simplicity is the soul of efficiency.",
+                          type: "website",
+                          content:
+                              "BrainHub - is my daily programming notes. I create this blog for myself. Tools, Code, Laravel, Node, React, Vue, Mobile",
+                          cover: "images/12.png",
+                          button: "View",
+                          url: "https://muzudre.github.io/brainhub/"
+                      },
+                      {
+                          id: 6,
+                          title: "Street Workout App",
+                          type: "mobile",
+                          content:
+                              "Street Workout in your pocket. All routines classified by difficulty. Street Workout App helps you to achieve impressive Street Workout Skills and functional muscles. There are a lot of trend sports : crossfit calisthenics gymnastics gym freeruning parkour bar brothers bar starz daniel laizans where you you can see this skills.",
+                          cover: "images/6.png",
+                          button: "View",
+                          url:
+                              "https://play.google.com/store/apps/details?id=com.muzudre.Workout"
+                      },
+                      {
+                          id: 7,
+                          title: "Black Wallpapers - 4K Dark & AMOLED Backgrounds",
+                          type: "mobile",
+                          content:
+                              "Black Wallpapers - 4K Dark & AMOLED Backgrounds. Get the best free Wallpapers and make your phone look amazing as you are. Some wallpapers are personally made by me and some personally picked. This app will always be free and with no advertisement. Change it as often as you like, so your phone always represents your style.",
+                          cover: "images/2.png",
+                          button: "View On Google Play",
+                          url:
+                              "https://play.google.com/store/apps/details?id=com.muzudre.blackwallpapers"
+                      },
+                      {
+                          id: 8,
+                          title: "Street Workout Wallpapers - Dark & AMOLED",
+                          type: "mobile",
+                          content:
+                              "Street Workout Wallpapers - Dark & AMOLED Backgrounds. Get the best free Wallpapers and make your phone look amazing as you are. Some wallpapers are personally made by me and some personally picked. This app will always be free and with no advertisement. Change it as often as you like, so your phone always represents your style.",
+                          cover: "images/5.png",
+                          button: "View On Google Play",
+                          url:
+                              "https://play.google.com/store/apps/details?id=com.muzudre.streetworkoutwallpapers"
+                      },
+                      {
+                          id: 9,
+                          title: "Gaming Wallpapers - 4K Dark & AMOLED Backgrounds",
+                          type: "mobile",
+                          content:
+                              "Gaming Wallpapers - 4K Dark & AMOLED Backgrounds Get the best free Wallpapers and make your phone look amazing as you are.This app made by a gamers and all wallpaper are provided by them, some wallpapers are personally made by them and some personally piked.",
+                          cover: "images/3.png",
+                          button: "View On Google Play",
+                          url:
+                              "https://play.google.com/store/apps/details?id=com.muzudre.gamingwallpapers"
+                      },
+                      {
+                          id: 10,
+                          title: "Free Coding Books: Hacker and Designer News",
+                          type: "mobile",
+                          content:
+                              "Browse your best programming languages, books and start learning to code. Bonus you can also brows Hacker and Designer News. Free Coding Books its an application for all coders from beginner to professional, it contains more than 100 free programming books for different levels whether you are newbie or advanced you will find something that will help to start learning coding step by step or to increase your knowledge.This app contains list of free e-books for programmers with a live search.",
+                          cover: "images/1.png",
+                          button: "View On Google Play",
+                          url:
+                              "https://play.google.com/store/apps/details?id=com.muzudre.Probooks&hl=en_US"
+                      },
+                      {
+                          id: 11,
+                          title: "Street Workout | Awesome stuff for athletes",
+                          type: "website",
+                          content:
+                              "To provide your body and muscles with enough protein, people usually eat a lot of meat, fish or low-fat cottage cheese. But maybe you like to try something different than your regular chicken or tuna salad. In this blogpost we write about six vegetables that are relatively high in protein.",
+                          cover: "images/11.png",
+                          button: "View",
+                          url: "https://muzudre.github.io/workout/"
+                      },
+                      {
+                          id: 12,
+                          title: "KamiBantu – We help you find answers",
+                          type: "website",
+                          content:
+                              "We help you find answers and handle your claim. Step 1: Ask a Question, Step 2: Get expert answers, Step 3: Hire an expert",
+                          cover: "images/10.png",
+                          button: "View",
+                          url: "https://kamibantu.org"
+                      }
+                  ]
+              }
+          }
+      })
 
-      ReactDOM.render(
-        <Projects projects={projects} />,
-        document.getElementById("projects")
-      );
     </script>
   </body>
 </html>
