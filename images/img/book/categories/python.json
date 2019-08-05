@@ -8,6 +8,9 @@
       "description": "The Python® Notes for Professionals book is compiled from Stack Overflow Documentation, the content is written by the beautiful people at Stack Overflow. Text content is released under Creative Commons BY-SA. See credits at the end of this book whom contributed to the various chapters. Images may be copyright of their respective owners unless otherwise specified",
       "type": "pdf",
       "cover": "python/PythonGrow.png",
+      "tags": [
+        "Python® Notes"
+      ],
       "license": "Creative Commons BY-SA. All trademarks belong to their respective company owners",
       "url": "https://books.goalkicker.com/PythonBook/PythonNotesForProfessionals.pdf",
       "pages": "816 Pages",
@@ -23,6 +26,9 @@
       "description": "Even the best programmers make mistakes. In this O’Reilly report, Mike Pirnat dissects some of his most memorable blunders, peeling them back layer-by-layer to reveal just what went wrong.",
       "url": "http://www.oreilly.com/programming/free/files/how-to-make-mistakes-in-python.pdf",
       "cover": "python/cover_how_to_make_mistakes_in_python.gif",
+      "tags": [
+        "Python"
+      ],
       "license": "n/a",
       "type": "pdf",
       "pages": "82 Pages",
@@ -38,6 +44,9 @@
       "description": "In this paper, David Mertz, a director of Python Software Foundation, examines the functional aspects of the language and points out which options work well and which ones you should generally decline.",
       "url": "http://www.oreilly.com/programming/free/files/functional-programming-python.pdf",
       "cover": "python/cover_functional_programming_in_python.gif",
+      "tags": [
+        "Python"
+      ],
       "license": "n/a",
       "type": "pdf",
       "pages": "49 Pages",
@@ -53,6 +62,9 @@
       "description": "This report guides you through the implicit decision tree of choosing what Python version, implementation, and distribution is best suited for you.",
       "url": "http://www.oreilly.com/programming/free/files/from-future-import-python.pdf",
       "cover": "python/cover_picking_python_version_manifesto.gif",
+      "tags": [
+        "Python"
+      ],
       "license": "n/a",
       "type": "pdf",
       "pages": "44 Pages",
@@ -68,6 +80,9 @@
       "description": "Python is an amazing language with a strong and friendly community of programmers. However, there is a lack of documentation on what to learn after getting the basics of Python down your throat. Through this book I aim to solve this problem. I would give you bits of descriptionrmation about some interesting topics which you can further explore.  The topics which are discussed in this book open up your mind towards some nice corners of Python language. This book is an outcome of my desire to have something like this when I was beginning to learn Python.",
       "url": "https://media.readthedocs.org/pdf/intermediatepythongithubio/latest/intermediatepythongithubio.pdf",
       "cover": "python/cover_IntermediatePython_Yasoob2.jpg",
+      "tags": [
+        "Python"
+      ],
       "license": "n/a",
       "type": "pdf",
       "pages": "70 Pages",
@@ -83,6 +98,9 @@
       "description": "This interactive book teaches you Python the interactive way, right in the browser.",
       "url": "http://interactivepython.org/runestone/static/thinkcspy/index.html",
       "cover": "python/runestone.png",
+      "tags": [
+        "Python"
+      ],
       "license": "n/a",
       "type": "web",
       "pages": "",
@@ -98,6 +116,9 @@
       "description": "This book teaches you Python right in the browser.",
       "url": "http://www.openbookproject.net/thinkcs/python/english2e/",
       "cover": "python/gasp_lessons.png",
+      "tags": [
+        "Python"
+      ],
       "license": "n/a",
       "type": "web",
       "pages": "",
@@ -113,6 +134,9 @@
       "description": "This book is a CS2 data structures textbook, with a review of Python concepts in chapter 1",
       "url": "http://interactivepython.org/runestone/static/pythonds/index.html",
       "cover": "python/PythonDScover.png",
+      "tags": [
+        "Python"
+      ],
       "license": "n/a",
       "type": "web",
       "pages": "",
@@ -128,6 +152,9 @@
       "description": "Dive Into Python 3 covers what's new in Python 3 and how its differs from Python 2.",
       "url": "https://github.com/downloads/diveintomark/diveintopython3/dive-into-python3.pdf",
       "cover": "python/cover_divepython3.jpg",
+      "tags": [
+        "Python"
+      ],
       "license": "n/a",
       "type": "pdf",
       "pages": "495 Pages",
@@ -143,6 +170,9 @@
       "description": "A very exhaustive book covering most of the language features, from datatypes to OOP and debugging.",
       "url": "http://www.greenteapress.com/thinkpython/thinkpython.pdf",
       "cover": "python/cover_thinkpython.jpg",
+      "tags": [
+        "Python"
+      ],
       "license": "n/a",
       "type": "pdf",
       "pages": "240 Pages",
@@ -158,6 +188,9 @@
       "description": "Discover Kivy the multitouch Python framework for desktop and mobile, and learn how to create a simple game.",
       "url": "https://media.readthedocs.org/pdf/kivy/master/kivy.pdf",
       "cover": "python/cover_kivy.png",
+      "tags": [
+        "Python"
+      ],
       "license": "n/a",
       "type": "pdf",
       "pages": "763 Pages",
@@ -173,6 +206,9 @@
       "description": "With this hands-on tutorial, discover Django the popular high-level Python Web framework that encourages rapid development and clean, pragmatic design.",
       "url": "https://media.readthedocs.org/pdf/django/latest/django.pdf",
       "cover": "python/cover_django.png",
+      "tags": [
+        "Python"
+      ],
       "license": "n/a",
       "type": "pdf",
       "pages": "1913 Pages",
@@ -188,6 +224,9 @@
       "description": "Learn the Flask web microframework by example. Flask aims to keep the core simple but extensible and gives you freedom to choose the libraries of your choice.",
       "url": "http://flask.pocoo.org/docs/tutorial/",
       "cover": "python/cover_flask.png",
+      "tags": [
+        "Python"
+      ],
       "license": "n/a",
       "type": "web",
       "pages": "",
@@ -203,6 +242,9 @@
       "description": "Teaches the Pygame 2D graphics library with the source code for 11 games.",
       "url": "https://inventwithpython.com/makinggames.pdf",
       "cover": "python/cover_makinggame.png",
+      "tags": [
+        "Python"
+      ],
       "license": "n/a",
       "type": "pdf",
       "pages": "365 Pages",
@@ -218,6 +260,9 @@
       "description": "In this 55 pages tutorial, Ian Ozsvald shows you a number of techniques to get a 10-500 performance increase in your Python apps, from profiling, to PyPy, numPy, Multiprocessing...",
       "url": "http://ianozsvald.com/HighPerformancePythonfromTrainingatEuroPython2011_v0.2.pdf",
       "cover": "python/cover_highperf.png",
+      "tags": [
+        "Python"
+      ],
       "license": "n/a",
       "type": "pdf",
       "pages": "55 Pages",
@@ -233,6 +278,9 @@
       "description": "This book aims to help you learn the wonderful Python language and show how to get things done quickly and painlessly - in effect 'The Perfect Anti-venom to your programming problems'.",
       "url": "http://files.swaroopch.com/python/byte_of_python.pdf",
       "cover": "python/cover_swaroop.png",
+      "tags": [
+        "Python"
+      ],
       "license": "n/a",
       "type": "pdf",
       "pages": "177 Pages",
@@ -248,6 +296,9 @@
       "description": "This document is a syllabus for a first course in Python programming. This course contains an introduction to the Python language, instruction in the important and commonly used features of the language, and practical excercises in the use of those features.",
       "url": "http://www.davekuhlman.org/python_101.html",
       "cover": "python/cover_python101.png",
+      "tags": [
+        "Python"
+      ],
       "license": "n/a",
       "type": "web",
       "pages": "",
@@ -263,6 +314,9 @@
       "description": "[PDF DRAFT] This book gives an entry point to hands-on computer vision (images, videos...) with enough understanding of the underlying theory and algorithms.",
       "url": "http://programmingcomputervision.com/downloads/ProgrammingComputerVision_CCdraft.pdf",
       "cover": "python/cover_computervision.jpg",
+      "tags": [
+        "Python"
+      ],
       "license": "n/a",
       "type": "pdf",
       "pages": "300 Pages",
@@ -278,6 +332,9 @@
       "description": "Practical introduction to programming for language processing, written by the creators of NLTK.",
       "url": "http://www.nltk.org/book/",
       "cover": "python/cover_nltk.jpg",
+      "tags": [
+        "Python"
+      ],
       "license": "n/a",
       "type": "web",
       "pages": "",
@@ -293,6 +350,9 @@
       "description": "This book is about complexity science, data structures and algorithms, intermediate programming in Python, and the philosophy of science.",
       "url": "http://www.greenteapress.com/complexity/thinkcomplexity.pdf",
       "cover": "python/cover_complexity.jpg",
+      "tags": [
+        "Python"
+      ],
       "license": "n/a",
       "type": "pdf",
       "pages": "148 Pages",
@@ -308,6 +368,9 @@
       "description": "Think Stats is an introduction to Probability and Statistics for Python programmers.",
       "url": "http://greenteapress.com/thinkstats/thinkstats.pdf",
       "cover": "python/cover_stats.jpg",
+      "tags": [
+        "Python"
+      ],
       "license": "n/a",
       "type": "pdf",
       "pages": "140 Pages",
@@ -323,6 +386,9 @@
       "description": "Think Stats is an introduction to Probability and Statistics for Python programmers.",
       "url": "http://greenteapress.com/thinkstats2/thinkstats2.pdf",
       "cover": "python/cover_stats.jpg",
+      "tags": [
+        "Python"
+      ],
       "license": "n/a",
       "type": "pdf",
       "pages": "264 Pages",
@@ -338,6 +404,9 @@
       "description": "The Python Module of the Week series, or PyMOTW, is a tour of the Python standard library through short and concrete examples. It covers more than 50 modules.",
       "url": "https://pymotw.com/2/contents.html",
       "cover": "python/cover_pymotw.png",
+      "tags": [
+        "Python"
+      ],
       "license": "n/a",
       "type": "web",
       "pages": "",
@@ -353,6 +422,9 @@
       "description": "Teaching material on the scientific Python ecosystem, a quick introduction to central tools and techniques. The different chapters each correspond to a 1 to 2 hours course with increasing level of expertise, from beginner to expert.",
       "url": "http://scipy-lectures.github.com/",
       "cover": "python/cover_scientific.jpg",
+      "tags": [
+        "Python"
+      ],
       "license": "n/a",
       "type": "web",
       "pages": "",
@@ -368,6 +440,9 @@
       "description": "A book for the total new comers into Python world. Was started as book for students before they read Python tutorial.",
       "url": "https://media.readthedocs.org/pdf/pymbook/latest/pymbook.pdf",
       "cover": "python/pym.png",
+      "tags": [
+        "Python"
+      ],
       "license": "n/a",
       "type": "web",
       "pages": "143 Pages",
@@ -383,6 +458,9 @@
       "description": "This book guides you through the process of porting your Python 2 code to Python 3, from choosing a porting strategy to solving your distribution issues. Using plenty of code examples is takes you cross the hurdles and shows you the new Python features.",
       "url": "http://python3porting.com/pdfs/SupportingPython3-screen-1.0-latest.pdf",
       "cover": "python/cover_porting_python3.png",
+      "tags": [
+        "Python"
+      ],
       "license": "n/a",
       "type": "pdf",
       "pages": "119 Pages",
@@ -398,6 +476,9 @@
       "description": "This opinionated guide exists to provide both novice and expert Python developers a best-practice handbook to the installation, configuration, and usage of Python on a daily basis.",
       "url": "https://media.readthedocs.org/pdf/python-guide/latest/python-guide.pdf",
       "cover": "python/PythonGuide.png",
+      "tags": [
+        "Python"
+      ],
       "license": "n/a",
       "type": "pdf",
       "pages": "167 Pages",
@@ -413,6 +494,9 @@
       "description": "Python in Hydrology is written for learning Python using its applications in hydrology. The book covers the basic applications of hydrology, and also the advanced topic like use of copula.",
       "url": "http://www.greenteapress.com/pythonhydro/pythonhydro.pdf",
       "cover": "python/cover_python_in_hydrology.png",
+      "tags": [
+        "Python"
+      ],
       "license": "n/a",
       "type": "pdf",
       "pages": "127 Pages",
@@ -428,6 +512,9 @@
       "description": "Learn to program with the source code for several simple ASCII-art (and later, 2D graphical Pygame) games.",
       "url": "https://inventwithpython.com/chapters/",
       "cover": "python/cover_invent4th_thumb.png",
+      "tags": [
+        "Python"
+      ],
       "license": "n/a",
       "type": "web",
       "pages": "",
@@ -443,6 +530,9 @@
       "description": "This is a tutorial and cookbook for Biopython (Biopython is a set of freely available toos for biological computations.",
       "url": "http://biopython.org/DIST/docs/tutorial/Tutorial.pdf",
       "cover": "python/cover_biopython.jpg",
+      "tags": [
+        "Python"
+      ],
       "license": "n/a",
       "type": "pdf",
       "pages": "347 Pages",
@@ -458,6 +548,9 @@
       "description": "A beginner's guide to web development with Django 1.7. This book has been designed to get you going fast and to learn by example. You'll learn the key aspects of the Python Django Framework by developing an application called Rango.",
       "url": "http://www.tangowithdjango.com/book17/",
       "cover": "python/cover_tangowithdjango.jpg",
+      "tags": [
+        "Python"
+      ],
       "license": "n/a",
       "type": "web",
       "pages": "",
@@ -473,6 +566,9 @@
       "description": "This book is prepared from the training notes of Anand Chitipothu. Anand conducts Python trainings classes on a semi-regular basis in Bangalore, India.",
       "url": "http://anandology.com/python-practice-book/index.html",
       "cover": "python/cover_python_practice_book.png",
+      "tags": [
+        "Python"
+      ],
       "license": "n/a",
       "type": "web",
       "pages": "",
@@ -488,6 +584,9 @@
       "description": "This book is a collection of the best practices for using Flask. There are a lot of pieces to the average Flask application.",
       "url": "http://exploreflask.com",
       "cover": "python/exploreflask.png",
+      "tags": [
+        "Python"
+      ],
       "license": "n/a",
       "type": "web",
       "pages": "",
@@ -503,6 +602,9 @@
       "description": "Python's syntax and idioms are much easier to learn than those of most other full-featured languages. This book uses programming language Python to introduce folks to programming and algorithmic thinking.",
       "url": "http://www.eecs.wsu.edu/~schneidj/PyBook/swan.pdf",
       "cover": "python/algo_ps_python.png",
+      "tags": [
+        "Python"
+      ],
       "license": "n/a",
       "type": "pdf",
       "pages": "356 Pages",
@@ -518,6 +620,9 @@
       "description": "In this book, we are going to learn to make games on the Raspberry Pi with Pygame. We'll look at drawing, animation, keyboard and mouse controls, sound, and physics. This book isn't for absolute programming beginners, but it's not far from it.",
       "url": "https://www.raspberrypi.org/magpi-issues/Essentials_Games_v1.pdf",
       "cover": "python/make_games_with_python.png",
+      "tags": [
+        "Python"
+      ],
       "license": "n/a",
       "type": "pdf",
       "pages": "156 Pages",
@@ -533,6 +638,9 @@
       "description": "Learn how to use Python to write programs that do in minutes what would take you hours to do by hand -- no prior programming experience required. Once you've mastered the basics of programming, you'll create Python programs that effortlessly perform useful and impressive feats of automation.",
       "url": "https://automatetheboringstuff.com/",
       "cover": "python/automate_cover_medium.png",
+      "tags": [
+        "Python"
+      ],
       "license": "n/a",
       "type": "web",
       "pages": "",
@@ -548,6 +656,9 @@
       "description": "By exploring the fundamental theory behind design choices, this practical guide helps you gain a deeper understanding of Python's implementation. You'll learn how to locate performance bottlenecks and significantly speed up your code in high-data-volume programs.",
       "url": "http://ianozsvald.com/HighPerformancePythonfromTrainingatEuroPython2011_v0.2.pdf",
       "cover": "python/cover_highperf.png",
+      "tags": [
+        "Python"
+      ],
       "license": "n/a",
       "type": "pdf",
       "pages": "55 Pages",
@@ -563,6 +674,9 @@
       "description": "You're knee deep in learning the Python programming language. The syntax is starting to make sense. Now you want to take your knowledge and make something real. This book explains each Python web application stack layer and provides the resources.",
       "url": "http://www.fullstackpython.com/table-of-contents.html",
       "cover": "python/fullstackpython.jpg",
+      "tags": [
+        "Python"
+      ],
       "license": "n/a",
       "type": "web",
       "pages": "",
@@ -578,6 +692,9 @@
       "description": "This book is assembled from lectures given by the author over a period of 10 years at the School of Computing of DePaul University. The lectures cover multiple classes, including Analysis and Design of Algorithms, Scientific Computing, Monte Carlo Simulations, and Parallel Algorithms.",
       "url": "https://raw.githubusercontent.com/mdipierro/nlib/master/docs/book_numerical.pdf",
       "cover": "python/annotated-algorithms.jpg",
+      "tags": [
+        "Python"
+      ],
       "license": "n/a",
       "type": "pdf",
       "pages": "383 Pages",
@@ -593,6 +710,9 @@
       "description": "The goal of this book is to provide an descriptionrmatics-oriented introduction to programming. The primary approach taken in this book is using Python to solve data analysis problems common in the world of descriptionrmatics.",
       "url": "https://www.py4e.com/book",
       "cover": "python/cover_python4everybody.jpg",
+      "tags": [
+        "Python"
+      ],
       "license": "n/a",
       "type": "web",
       "pages": "245 Pages",
