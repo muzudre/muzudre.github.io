@@ -34,5 +34,42 @@
     "pages": "231 Pages",
     "year": "2018",
     "size": "2.2 MB"
+    },
+    {
+    "id": 11003,
+    "title": "Ruby Programming",
+    "author": "Wikibooks.org",
+    "authorUrl": "wikibooks.org",
+    "level": "All",
+    "description": "The book is currently broken down into several sections and is intended to be read sequentially. Getting started will show how to install and get started with Ruby in your environment. Basic Ruby demonstrates the main features of the language syntax. ",
+    "type": "pdf",
+    "cover": "rails/11003.png",
+    "tags": [
+      "Ruby"
+    ],
+    "license": "Creative Commons Attribution-ShareAlike 3.0 Unported",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Ruby_Programming.pdf",
+    "pages": "261 Pages",
+    "year": "2012",
+    "size": "1.2 MB"
+    },
+    {
+    "id": 11004,
+    "title": "Programming Ruby, The Pragmatic Programmer's Guide",
+    "author": "Addison-Wesley Longman, Inc",
+    "authorUrl": "http://www.aw.com/",
+    "level": "All",
+    "description": "A tutorial and reference for the Ruby, a rapid growing object-oriented programming language.",
+    "type": "web",
+    "cover": "rails/11004.jpg",
+    "tags": [
+      "Ruby ",
+      "Object Oriented Programming"
+    ],
+    "license": "Open Publication License",
+    "url": "http://ruby-doc.com/docs/ProgrammingRuby/",
+    "pages": "608 Pages",
+    "year": "2000",
+    "size": ""
     }
 ]
