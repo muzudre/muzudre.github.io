@@ -16,5 +16,205 @@
     "pages": "65 Pages",
     "year": "2018",
     "size": "880 kB"
+    },
+    {
+    "id": 9002,
+    "title": "Debian GNU/Linux: Guide to Installation and Usage",
+    "author": "John Goerzen",
+    "authorUrl": "",
+    "level": "All",
+    "description": "Debian is a free operating system for you computer.",
+    "type": "pdf",
+    "cover": "linux/9002.png",
+    "tags": [
+      "Linux"
+    ],
+    "license": "GNU General Public License",
+    "url": "http://www.gutenberg.org/files/6527/6527-pdf.pdf",
+    "pages": "172 Pages",
+    "year": "1999",
+    "size": "2.3 MB"
+    },
+    {
+    "id": 9003,
+    "title": "Effective AWK Programming, 3rd Edition",
+    "author": "O’Reilly Media, Inc.",
+    "authorUrl": "",
+    "level": "All",
+    "description": "Teaches you about the awk language and how you can use it effectively. Also describes gawk, the GNU implementation of awk.",
+    "type": "pdf",
+    "cover": "linux/9003.jpg",
+    "tags": [
+      "Linux"
+    ],
+    "license": "GNU General Public License",
+    "url": "http://www.gutenberg.org/files/6527/6527-pdf.pdf",
+    "pages": "570 Pages",
+    "year": "2001",
+    "size": "2.2 MB"
+    },
+    {
+    "id": 9004,
+    "title": "GTK+/Gnome Application Development",
+    "author": "New Riders Publishing",
+    "authorUrl": "http://www.newriders.com/",
+    "level": "All",
+    "description": "Describes how to write a Gnome application using the Gnome libraries and tools.",
+    "type": "pdf",
+    "cover": "linux/9004.jpg",
+    "tags": [
+      "Linux"
+    ],
+    "license": "Open Publication License",
+    "url": "http://devernay.free.fr/cours/IHM/GTK/GGAD.pdf",
+    "pages": "414 Pages",
+    "year": "1999",
+    "size": "2.8 MB"
+    },
+    {
+    "id": 9005,
+    "title": "Into the Core: A look at Tiny Core Linux",
+    "author": "",
+    "authorUrl": "null",
+    "level": "All",
+    "description": "This book covers Core from start to finish. The concepts are explained in detail, ending up with several example projects. Build your project with complete control over what is included, what hardware is supported, with nothing extra and no bloat.",
+    "type": "pdf",
+    "cover": "linux/9005.jpg",
+    "tags": [
+      "Core Linux"
+    ],
+    "license": "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International",
+    "url": "http://distro.ibiblio.org/tinycorelinux/corebook.pdf",
+    "pages": "163 Pages",
+    "year": "2010",
+    "size": "1.0 MB"
+    },
+    {
+    "id": 9006,
+    "title": "Introduction to Linux - A Hands on Guide",
+    "author": "Fultus Corporation",
+    "authorUrl": "http://www.fultus.com/",
+    "level": "All",
+    "description": "This book covers Core from start to finish. The concepts are explained in detail, ending up with several example projects. Build your project with complete control over what is included, what hardware is supported, with nothing extra and no bloat.",
+    "type": "web",
+    "cover": "linux/9006.jpg",
+    "tags": [
+      "Introduction to Linux"
+    ],
+    "license": "GNU Free Documentation License",
+    "url": "http://tldp.org/LDP/intro-linux/html/index.html",
+    "pages": "253 Pages",
+    "year": "2008",
+    "size": ""
+    },
+    {
+    "id": 9007,
+    "title": "Learning Debian GNU/Linux",
+    "author": "O’Reilly Media, Inc.",
+    "authorUrl": "http://www.oreilly.com/",
+    "level": "All",
+    "description": "Focuses on the needs of the new Linux user and on desktop Linux applications.",
+    "type": "web",
+    "cover": "linux/9007.jpg",
+    "tags": [
+      "GNU/Linux"
+    ],
+    "license": "Open Publication License",
+    "url": "https://www.oreilly.com/openbook/debian/book/",
+    "pages": "",
+    "year": "1999",
+    "size": ""
+    },
+    {
+    "id": 9008,
+    "title": "Linux 101 Examination Modular Training Notes",
+    "author": "Leading Edge Business Solutions",
+    "authorUrl": "null",
+    "level": "All",
+    "description": "This course material is based on the objectives for the Linux Professionals Institute's LPI 101 examination. The course is intended to provide readers with the basic skills required for operating and administering Linux systems.",
+    "type": "pdf",
+    "cover": "linux/9008.jpg",
+    "tags": [
+      "Linux",
+      "System Administration"
+    ],
+    "license": "GNU Free Documentation License",
+    "url": "https://www.ledge.co.za/software/lpinotes/101-letter.pdf",
+    "pages": "233 Pages",
+    "year": "2006",
+    "size": "2.1 MB"
+    },
+    {
+    "id": 9009,
+    "title": "Learning Debian GNU/Linux",
+    "author": "Alessandro Rubini & Jonathan Corbet",
+    "authorUrl": "null",
+    "level": "All",
+    "description": "Shows how to write Linux system's device drivers, for technical programmers who face the need to deal with the inner levels of a Linux box.",
+    "type": "web",
+    "cover": "linux/9009.jpg",
+    "tags": [
+      "GNU/Linux"
+    ],
+    "license": "GNU Free Documentation License",
+    "url": "https://www.xml.com/ldd/chapter/book/index.html",
+    "pages": "586 Pages",
+    "year": "2001",
+    "size": ""
+    },
+    {
+    "id": 90010,
+    "title": "Linux Network Administrator's Guide, 2nd Edition",
+    "author": "Olaf Kirch & Terry Dawson",
+    "authorUrl": "null",
+    "level": "All",
+    "description": "Provide a single reference for beginner and experienced network administrators.",
+    "type": "web",
+    "cover": "linux/90010.jpg",
+    "tags": [
+      "GNU/Linux"
+    ],
+    "license": "Open Publication License",
+    "url": "https://www.oreilly.com/openbook/linag2/book/",
+    "pages": "474 Pages",
+    "year": "2001",
+    "size": ""
+    },
+    {
+    "id": 90011,
+    "title": "Secure Programming for Linux and Unix",
+    "author": "David A. Wheeler",
+    "authorUrl": "null",
+    "level": "All",
+    "description": "Provide a single reference for beginner and experienced network administrators.",
+    "type": "pdf",
+    "cover": "linux/90011.jpg",
+    "tags": [
+      "GNU/Linux"
+    ],
+    "license": "GNU Free Documentation License",
+    "url": "https://dwheeler.com/secure-programs/3.71/Secure-Programs-HOWTO.pdf",
+    "pages": "194 Pages",
+    "year": "2015",
+    "size": "1.6 MB"
+    },
+    {
+    "id": 90012,
+    "title": "The Debian Administrator's Handbook",
+    "author": "Raphaël Hertzog and Roland Mas",
+    "authorUrl": "null",
+    "level": "All",
+    "description": "Written by two Debian developers, this book teaches the essentials to anyone who wants to become an effective and independent Debian GNU/Linux administrator.",
+    "type": "pdf",
+    "cover": "linux/90012.jpg",
+    "tags": [
+      "GNU/Linux",
+      "System Administration"
+    ],
+    "license": "Creative Commons Attribution-ShareAlike 3.0 Unported",
+    "url": "https://debian-handbook.info/download/stable/debian-handbook.pdf",
+    "pages": "513 Pages",
+    "year": "2015",
+    "size": "28.4 MB"
     }
 ]
