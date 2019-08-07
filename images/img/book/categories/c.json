@@ -74,8 +74,8 @@
     {
     "id": 4005,
     "title": "Beej's Guide to Network Programming Using Internet Sockets",
-    "author": "null",
-    "authorUrl": "null",
+    "author": "Beej",
+    "authorUrl": "http://beej.us",
     "level": "All",
     "description": "A tutorial to socket programming for C programmers. It provides complete examples of simple clients and servers supporting both IPv6 and IPv4.",
     "type": "pdf",
@@ -174,7 +174,7 @@
     "level": "All",
     "description": "This Creative Commons-licensed textbook written by Norwich University students and faculty aims to provide an introduction to the C++ programming language.",
     "type": "pdf",
-    "cover": "c/40010.jpg",
+    "cover": "c/40010.png",
     "tags": [
       "C ",
       "C++"

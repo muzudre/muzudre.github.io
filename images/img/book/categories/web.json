@@ -147,7 +147,7 @@
     {
     "id": 30010,
     "title": "A beginner’s guide to HTML&CSS",
-    "author": "shayhowe",
+    "author": "Shayhowe",
     "authorUrl": "https://learn.shayhowe.com/",
     "level": "Beginner",
     "description": "null",
@@ -166,8 +166,8 @@
     {
     "id": 30011,
     "title": "A free guide to learn HTML and CSS",
-    "author": "null",
-    "authorUrl": "null",
+    "author": "marksheet",
+    "authorUrl": "https://marksheet.io",
     "level": "Beginner",
     "description": "null",
     "url": "https://marksheet.io/introduction.html",

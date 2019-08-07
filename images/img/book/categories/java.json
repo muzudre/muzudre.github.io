@@ -74,7 +74,7 @@
     {
     "id": 8005,
     "title": "Bleeding at the Keyboard: A Guide to Modern Programming with Java",
-    "author": "n/a",
+    "author": "Gregory Rawlins",
     "authorUrl": "null",
     "level": "All",
     "description": "Bleeding at the Keyboard made its first appearance as a material developed for the Fall 1999 C212 class at Indiana University, Bloomington. In this book, Rawlins try to guide us step by step on learning Java with the analogy of theatrical performance. Here we have objects (actors), classes (roles the actors play), methods (scenes the actors play out), Java interpreter (stage managers and producers), programmers (screenwriters and directors) and user (audiences).",
