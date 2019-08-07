@@ -1,20 +1,20 @@
 [
     {
     "id": 16001,
-    "title": "Git® Notes for Professionals book",
-    "author": "Stack Overflow Documentation",
+    "title": "The complete beginners guide to Adobe Photoshop",
+    "author": "TastyTuts",
     "authorUrl": "null",
     "level": "All",
-    "description": "The Git® Notes for Professionals book is compiled from Stack Overflow Documentation, the content is written by the beautiful people at Stack Overflow. Text content is released under Creative Commons BY-SA. See credits at the end of this book whom contributed to the various chapters. Images may be copyright of their respective owners unless otherwise specified",
+    "description": "Learn all about this course and what we will be learning and creating over the next 33 episodes.",
     "type": "pdf",
-    "cover": "git/GitGrow.png",
+    "cover": "git/16001.png",
     "tags": [
-      "Git®"
+      "Photoshop"
     ],
-    "license": "Creative Commons BY-SA. All trademarks belong to their respective company owners",
-    "url": "https://books.goalkicker.com/GitBook/GitNotesForProfessionals.pdf",
-    "pages": "128 Pages",
+    "license": "File may be distributed freely for educational purposes only",
+    "url": "https://tastytuts.com/emailer/photoshop_beginners/photoshop_for_beginners_tastytuts.pdf",
+    "pages": "44 Pages",
     "year": "2018",
-    "size": "2.6 MB"
+    "size": "1.5 MB"
     }
 ]
