@@ -97,7 +97,7 @@
     "level": "All",
     "description": "This book covers Core from start to finish. The concepts are explained in detail, ending up with several example projects. Build your project with complete control over what is included, what hardware is supported, with nothing extra and no bloat.",
     "type": "web",
-    "cover": "linux/9006.jpg",
+    "cover": "linux/9006.png",
     "tags": [
       "Introduction to Linux"
     ],
@@ -170,7 +170,7 @@
     "level": "All",
     "description": "Provide a single reference for beginner and experienced network administrators.",
     "type": "web",
-    "cover": "linux/90010.jpg",
+    "cover": "linux/90010.png",
     "tags": [
       "GNU/Linux"
     ],
@@ -188,7 +188,7 @@
     "level": "All",
     "description": "Provide a single reference for beginner and experienced network administrators.",
     "type": "pdf",
-    "cover": "linux/90011.jpg",
+    "cover": "linux/90011.png",
     "tags": [
       "GNU/Linux"
     ],
