@@ -1,20 +1,187 @@
 [
     {
     "id": 15001,
-    "title": "Git® Notes for Professionals book",
-    "author": "Stack Overflow Documentation",
+    "title": "[Early Access Version] Model-Based Machine Learning",
+    "author": "John Winn with Christopher M. Bishop...",
     "authorUrl": "null",
     "level": "All",
-    "description": "The Git® Notes for Professionals book is compiled from Stack Overflow Documentation, the content is written by the beautiful people at Stack Overflow. Text content is released under Creative Commons BY-SA. See credits at the end of this book whom contributed to the various chapters. Images may be copyright of their respective owners unless otherwise specified",
-    "type": "pdf",
-    "cover": "git/GitGrow.png",
+    "description": "This book looks at machine learning from a perspective called model-based machine learning. This viewpoint will guide you towards building successful machine learning solutions without requiring that you master the huge literature on machine learning.",
+    "type": "web",
+    "cover": "machine-learning/15001.jpg",
     "tags": [
-      "Git®"
+      "Machine Learning"
     ],
-    "license": "Creative Commons BY-SA. All trademarks belong to their respective company owners",
-    "url": "https://books.goalkicker.com/GitBook/GitNotesForProfessionals.pdf",
-    "pages": "128 Pages",
-    "year": "2018",
-    "size": "2.6 MB"
+    "license": "n/a",
+    "url": "http://www.mbmlbook.com/",
+    "pages": "",
+    "year": "2016",
+    "size": ""
+    },
+    {
+    "id": 15002,
+    "title": "A Course in Machine Learning",
+    "author": "Hal Daumé III",
+    "authorUrl": "null",
+    "level": "All",
+    "description": "A set of introductory materials that covers most major aspects of modern machine learning (supervised learning, unsupervised learning, large margin methods, probabilistic modeling, learning theory, etc.).",
+    "type": "pdf",
+    "cover": "machine-learning/15002.png",
+    "tags": [
+      "Machine Learning"
+    ],
+    "license": "Self-published",
+    "url": "http://ciml.info/dl/v0_99/ciml-v0_99-all.pdf",
+    "pages": "227 Pages",
+    "year": "2015",
+    "size": "3.9 MB"
+    },
+    {
+    "id": 15003,
+    "title": "Azure Machine Learning",
+    "author": "Pearson Education",
+    "authorUrl": "http://www.pearsoned.co.uk/",
+    "level": "All",
+    "description": "Introduces Microsoft Azure Machine Learning, a service that a developer can use to build predictive analytics models (using training datasets from a variety of data sources) and then deploy those models for consumption as cloud web services.",
+    "type": "pdf",
+    "cover": "machine-learning/15003.jpg",
+    "tags": [
+      "Machine Learning ",
+      "Cloud Computing"
+    ],
+    "license": "Self-published",
+    "url": "http://download.microsoft.com/download/0/9/6/096170E9-23A2-4DA6-89F5-7F5079CB53AB/9780735698178.pdf",
+    "pages": "236 Pages",
+    "year": "2015",
+    "size": "7.3 MB"
+    },
+    {
+    "id": 15004,
+    "title": "Computer Science & Information Technology",
+    "author": "AIRCC Publishing Corporation",
+    "authorUrl": "http://airccse.org/",
+    "level": "All",
+    "description": "Proceeding from the Fourth International Conference on Computer Science and Information Technology (CoSIT 2017) Geneva, Switzerland, March 25-26, 2017.",
+    "type": "pdf",
+    "cover": "machine-learning/15004.jpg",
+    "tags": [
+      "Machine Learning ",
+      "Cloud Computing"
+    ],
+    "license": "Creative Commons Attribution 4.0 International",
+    "url": "http://aircconline.com/csit/csit766.pdf",
+    "pages": "208 Pages",
+    "year": "2017",
+    "size": "8.8 MB"
+    },
+    {
+    "id": 15005,
+    "title": "Data-Intensive Text Processing with MapReduce",
+    "author": "Morgan & Claypool Publishers",
+    "authorUrl": "http://www.morganclaypool.com/",
+    "level": "All",
+    "description": "This book focuses on MapReduce algorithm design, with an emphasis on text processing algorithms common in natural language processing, information retrieval, and machine learning.",
+    "type": "pdf",
+    "cover": "machine-learning/15005.jpg",
+    "tags": [
+      "Machine Learning ",
+      "Cloud Computing"
+    ],
+    "license": "Morgan & Claypool Synthesis Lectures on Human Language Technologies",
+    "url": "http://lintool.github.io/MapReduceAlgorithms/MapReduce-book-final.pdf",
+    "pages": "175 Pages",
+    "year": "2010",
+    "size": "1.8 MB"
+    },
+    {
+    "id": 15006,
+    "title": "Numerical Algorithms: Methods for Computer Vision, Machine Learning, and Graphics",
+    "author": "A K Peters, Ltd.",
+    "authorUrl": "http://www.akpeters.com/",
+    "level": "All",
+    "description": "This textbook presents a new approach to numerical analysis for modern computer scientists and introduces numerical modeling and algorithmic design from a practical standpoint and provides insight into the theoretical tools needed to support these skills.",
+    "type": "pdf",
+    "cover": "machine-learning/15006.jpg",
+    "tags": [
+      "Machine Learning ",
+      "Numerical Methods"
+    ],
+    "license": "n/a",
+    "url": "https://people.csail.mit.edu/jsolomon/share/book/numerical_book.pdf",
+    "pages": "397 Pages",
+    "year": "2015",
+    "size": "18.1 MB"
+    },
+    {
+    "id": 15007,
+    "title": "Artificial Intelligence: Foundations of Computational Agents",
+    "author": "Cambridge University Press",
+    "authorUrl": "http://uk.cambridge.org/",
+    "level": "All",
+    "description": "A textbook aimed at junior to senior undergraduate students and first-year graduate students. It presents artificial intelligence (AI) using a coherent framework to study the design of intelligent computational agents.",
+    "type": "web",
+    "cover": "machine-learning/15007.jpg",
+    "tags": [
+      "Artificial Intelligence"
+    ],
+    "license": "Creative Commons Attribution-NonCommercial-NoDerivs 2.5 Canada",
+    "url": "https://artint.info/html/ArtInt.html",
+    "pages": "682 Pages",
+    "year": "2010",
+    "size": ""
+    },
+    {
+    "id": 15008,
+    "title": "Introduction to Autonomous Robots",
+    "author": "Nikolaus Correll",
+    "authorUrl": "null",
+    "level": "All",
+    "description": "This book introduces concepts in mobile, autonomous robotics to 3rd-4th year students in Computer Science or a related discipline.",
+    "type": "pdf",
+    "cover": "machine-learning/15008.jpg",
+    "tags": [
+      "Artificial Intelligence"
+    ],
+    "license": "Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported",
+    "url": "https://github.com/correll/Introduction-to-Autonomous-Robots/releases/download/v1.9.1/book_EN.pdf",
+    "pages": "226 Pages",
+    "year": "2016",
+    "size": "14.9 MB"
+    },
+    {
+    "id": 15009,
+    "title": "Linked Open Data - Creating Knowledge Out of Interlinked Data: Results of the LOD2 Project",
+    "author": "Springer-Verlag GmbH",
+    "authorUrl": "http://www.springer.com/",
+    "level": "All",
+    "description": "Presents an overview of the results of the 4-year research project 'LOD2 – Creating Knowledge out of Interlinked Data', the goal of which was realizing the Semantic Web vision of making the Web a global, distributed, semantics-based information system.",
+    "type": "pdf",
+    "cover": "machine-learning/15009.jpg",
+    "tags": [
+      "Artificial Intelligence ",
+      "Open Data"
+    ],
+    "license": "Creative Commons Attribution-NonCommercial 4.0 International",
+    "url": "https://link.springer.com/content/pdf/10.1007%2F978-3-319-09846-3.pdf",
+    "pages": "218 Pages",
+    "year": "2014",
+    "size": "37.3 MB"
+    },
+    {
+    "id": 150010,
+    "title": "Natural Language Processing with Python: Analyzing Text with the Natural Language Toolkit",
+    "author": "O’Reilly Media, Inc.",
+    "authorUrl": "http://www.oreilly.com/",
+    "level": "All",
+    "description": "This book offers a highly accessible introduction to natural language processing, the field that supports a variety of language technologies, from predictive text and email filtering to automatic summarization and translation.",
+    "type": "web",
+    "cover": "machine-learning/150010.jpg",
+    "tags": [
+      "Artificial Intelligence"
+    ],
+    "license": "Creative Commons Attribution-NonCommercial 4.0 International",
+    "url": "http://www.nltk.org/book_1ed/",
+    "pages": "504 Pages",
+    "year": "2009",
+    "size": ""
     }
 ]
