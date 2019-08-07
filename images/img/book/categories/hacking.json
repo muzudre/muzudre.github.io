@@ -1,20 +1,167 @@
 [
     {
     "id": 17001,
-    "title": "Git® Notes for Professionals book",
-    "author": "Stack Overflow Documentation",
+    "title": "Cracking Codes with Python",
+    "author": "No Starch Press",
+    "authorUrl": "http://www.nostarch.com/",
+    "level": "All",
+    "description": "Cracking Codes with Python teaches complete beginners how to program in the Python programming language. The book features the source code to several ciphers and hacking programs for these ciphers.",
+    "type": "web",
+    "cover": "hacking/17001.jpg",
+    "tags": [
+      "Python ",
+      "Computer Security"
+    ],
+    "license": "n/a",
+    "url": "http://inventwithpython.com/hacking/",
+    "pages": "416 Pages",
+    "year": "2018",
+    "size": ""
+    },
+    {
+    "id": 17002,
+    "title": "Information Security for Journalists",
+    "author": "n/a",
     "authorUrl": "null",
     "level": "All",
-    "description": "The Git® Notes for Professionals book is compiled from Stack Overflow Documentation, the content is written by the beautiful people at Stack Overflow. Text content is released under Creative Commons BY-SA. See credits at the end of this book whom contributed to the various chapters. Images may be copyright of their respective owners unless otherwise specified",
+    "description": "A practical handbook for journalists and investigative reporters in particular. It lays out the most effective means of keeping your work private and safe from spying.",
     "type": "pdf",
-    "cover": "git/GitGrow.png",
+    "cover": "hacking/17002.jpg",
     "tags": [
-      "Git®"
+      "Cryptography ",
+      "Computer Security"
     ],
-    "license": "Creative Commons BY-SA. All trademarks belong to their respective company owners",
-    "url": "https://books.goalkicker.com/GitBook/GitNotesForProfessionals.pdf",
-    "pages": "128 Pages",
-    "year": "2018",
-    "size": "2.6 MB"
+    "license": "Creative Commons Attribution 4.0 International",
+    "url": "https://tcij.org/sites/default/files/u11/InfoSec%20for%20Journalists%20V1.3.pdf",
+    "pages": "74 Pages",
+    "year": "2016",
+    "size": "1.7 MB"
+    },
+    {
+    "id": 17003,
+    "title": "Managing Risk and Information Security: Protect to Enable",
+    "author": "Malcolm Harkins",
+    "authorUrl": "APress",
+    "level": "All",
+    "description": "This book describes the changing risk environment and why a fresh approach to information security is needed. It describes the increasing number of threats and vulnerabilities, but also offers strategies for developing solutions.",
+    "type": "pdf",
+    "cover": "hacking/17003.jpg",
+    "tags": [
+      "Information Security"
+    ],
+    "license": "Open Access",
+    "url": "https://link.springer.com/content/pdf/10.1007%2F978-1-4302-5114-9.pdf",
+    "pages": "145 Pages",
+    "year": "2012",
+    "size": "3.3 MB"
+    },
+    {
+    "id": 17004,
+    "title": "The SysSec Red Book: A Roadmap for Systems Security Research",
+    "author": "SysSec",
+    "authorUrl": "http://www.syssec-project.eu/",
+    "level": "All",
+    "description": "The Red Book presents a roadmap in the area of systems security, as prepared by the SysSec consortium and its constituency in the first half of 2013.",
+    "type": "pdf",
+    "cover": "hacking/17004.jpg",
+    "tags": [
+      "Information Security ",
+      "System Administration"
+    ],
+    "license": "Standard Copyright License",
+    "url": "http://www.red-book.eu/m/documents/syssec_red_book.pdf",
+    "pages": "194 Pages",
+    "year": "2013",
+    "size": "1.4 MB"
+    },
+    {
+    "id": 17005,
+    "title": "Blown to Bits: Your Life, Liberty, and Happiness After the Digital Explosion",
+    "author": "Addison-Wesley Professional",
+    "authorUrl": "http://www.awprofessional.com/",
+    "level": "All",
+    "description": "Provides a unique and informative perspective from the computing industry's greatest minds. A insightful book that helps you understand computers and their impact on the world in a whole new way.",
+    "type": "pdf",
+    "cover": "hacking/17005.jpg",
+    "tags": [
+      "Hackers and Computer Philosophy"
+    ],
+    "license": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported",
+    "url": "http://www.bitsbook.com/wp-content/uploads/2008/12/B2B_3.pdf",
+    "pages": "384 Pages",
+    "year": "2008",
+    "size": "22 MB"
+    },
+    {
+    "id": 17006,
+    "title": "Privacy on the Line: The Politics of Wiretapping and Encryption",
+    "author": "The MIT Press",
+    "authorUrl": "https://mitpress.mit.edu/",
+    "level": "All",
+    "description": "A concise introduction to open access, covers what open access is and isn't, how it benefits authors and readers of research, how it has moved from the periphery to the mainstream, and what its future may hold.",
+    "type": "pdf",
+    "cover": "hacking/17006.jpg",
+    "tags": [
+      "Hackers and Computer Philosophy"
+    ],
+    "license": "Standard Copyright License",
+    "url": "https://www.dropbox.com/s/rnkqcak89lkuor8/5572.pdf",
+    "pages": "495 Pages",
+    "year": "2010",
+    "size": "3.9 MB"
+    },
+    {
+    "id": 17007,
+    "title": "Software and Mind: The Mechanistic Myth and Its Consequences",
+    "author": "Andsor Books",
+    "authorUrl": "http://softwareandmind.com/",
+    "level": "All",
+    "description": "Addressing general readers as well as software practitioners, Software and Mind discusses the fallacies of the mechanistic ideology and the degradation of minds caused by these fallacies.",
+    "type": "pdf",
+    "cover": "hacking/17007.jpg",
+    "tags": [
+      "Hackers and Computer Philosophy"
+    ],
+    "license": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International",
+    "url": "https://www.dropbox.com/s/rnkqcak89lkuor8/5572.pdf",
+    "pages": "930 Pages",
+    "year": "2013",
+    "size": "7.3 MB"
+    },
+    {
+    "id": 17008,
+    "title": "Taken Out of Context: American Teen Sociality in Networked Publics",
+    "author": "danah michele boyd",
+    "authorUrl": "null",
+    "level": "All",
+    "description": "This dissertation documents author's 2.5-year ethnographic study of American teens' engagement with social network sites.",
+    "type": "pdf",
+    "cover": "hacking/17008.jpg",
+    "tags": [
+      "Hackers and Computer Philosophy"
+    ],
+    "license": "Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported",
+    "url": "https://www.dropbox.com/s/rnkqcak89lkuor8/5572.pdf",
+    "pages": "406 Pages",
+    "year": "2008",
+    "size": "2.2 MB"
+    },
+    {
+    "id": 17009,
+    "title": "The Hacker Crackdown: Law and Disorder on the Electronic Frontier",
+    "author": "Bantam Books Inc.",
+    "authorUrl": "null",
+    "level": "All",
+    "description": "A classic work highlights the 1990 assault on hackers, on the arrest of suspected illicit hackers and other computer-based law-breakers.",
+    "type": "web",
+    "cover": "hacking/17009.jpg",
+    "tags": [
+      "Hackers and Computer Philosophy"
+    ],
+    "license": "n/a",
+    "url": "http://www.mit.edu/hacker/hacker.html",
+    "pages": "336 Pages",
+    "year": "1993",
+    "size": ""
     }
 ]
