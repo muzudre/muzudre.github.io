@@ -16,5 +16,41 @@
     "pages": "128 Pages",
     "year": "2018",
     "size": "2.6 MB"
+    },
+    {
+    "id": 14002,
+    "title": "Pro Git book",
+    "author": "Scott Chacon and Ben Straub and published by Apress",
+    "authorUrl": "null",
+    "level": "All",
+    "description": "This chapter will be about getting started with Git. We will begin by explaining some background on version control tools, then move on to how to get Git running on your system and finally how to get it set up to start working with. At the end of this chapter you should understand why Git is around, why you should use it and you should be all set up to do so.",
+    "type": "pdf",
+    "cover": "git/14002.png",
+    "tags": [
+      "Git"
+    ],
+    "license": "Creative Commons Attribution Non Commercial Share Alike 3.0 license.",
+    "url": "https://github.com/progit/progit2/releases/download/2.1.160/progit.pdf",
+    "pages": "522 Pages",
+    "year": "2014",
+    "size": "17.7 MB"
+    },
+    {
+    "id": 14003,
+    "title": "Git Community Book",
+    "author": "Alecs King, Amos Waterland...",
+    "authorUrl": "null",
+    "level": "All",
+    "description": "Welcome to Git - the fast, distributed version control system.This book is meant to be a starting point for people new to Git to learn it as quickly and easily as possible.This book will start out by introducing you to the way Git stores data, to give you the context for why it is different than other VCS tools. This is meant to take you about 20 minutes.",
+    "type": "pdf",
+    "cover": "git/14003.png",
+    "tags": [
+      "Git"
+    ],
+    "license": "The open Git resource pulled together by the whole community",
+    "url": "http://radio-sensors.org/download/git-book.pdf",
+    "pages": "132 Pages",
+    "year": "2017",
+    "size": "688 kB"
     }
 ]
