@@ -252,24 +252,6 @@
       "size": "4.6 MB"
     },
     {
-      "id": 20018,
-      "title": "High Performance Python tutorial",
-      "author": "Ian Ozsvald",
-      "authorUrl": "http://ianozsvald.com/2011/07/25/high-performance-python-tutorial-v0-2-from-europython-2011",
-      "level": "Advanced",
-      "description": "In this 55 pages tutorial, Ian Ozsvald shows you a number of techniques to get a 10-500 performance increase in your Python apps, from profiling, to PyPy, numPy, Multiprocessing...",
-      "url": "http://ianozsvald.com/HighPerformancePythonfromTrainingatEuroPython2011_v0.2.pdf",
-      "cover": "python/cover_highperf.png",
-      "tags": [
-        "Python"
-      ],
-      "license": "n/a",
-      "type": "pdf",
-      "pages": "55 Pages",
-      "year": "2011",
-      "size": "720 kB"
-    },
-    {
       "id": 20019,
       "title": "A byte of Python",
       "author": "Swaroop C H",
@@ -646,24 +628,6 @@
       "pages": "",
       "year": "",
       "size": ""
-    },
-    {
-      "id": 20066,
-      "title": "High Performance Python",
-      "author": "Ian Ozsvald",
-      "authorUrl": "http://ianozsvald.com/",
-      "level": "Intermediate",
-      "description": "By exploring the fundamental theory behind design choices, this practical guide helps you gain a deeper understanding of Python's implementation. You'll learn how to locate performance bottlenecks and significantly speed up your code in high-data-volume programs.",
-      "url": "http://ianozsvald.com/HighPerformancePythonfromTrainingatEuroPython2011_v0.2.pdf",
-      "cover": "python/cover_highperf.png",
-      "tags": [
-        "Python"
-      ],
-      "license": "n/a",
-      "type": "pdf",
-      "pages": "55 Pages",
-      "year": "2011",
-      "size": "720 kB"
     },
     {
       "id": 20067,

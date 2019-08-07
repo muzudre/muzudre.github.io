@@ -52,5 +52,133 @@
     "pages": "32 Pages",
     "year": "2018",
     "size": "622 kB"
+    },
+    {
+    "id": 8004,
+    "title": "3D Programming in Java",
+    "author": "Daniel Selman",
+    "authorUrl": "null",
+    "level": "All",
+    "description": "Java 3D is a client−side Java application programming interface (API) developed at Sun Microsystems for rendering interactive 3D graphics using Java. Using Java 3D you will be able to develop richly interactive 3D applications, ranging from immersive games to scientific visualization applications.",
+    "type": "pdf",
+    "cover": "java/8004.png",
+    "tags": [
+      "Java 3D"
+    ],
+    "license": "n/a",
+    "url": "http://www.mat.uniroma2.it/~picard/SMC/didattica/materiali_did/Java/Java_3D/Java_3D_Programming.pdf",
+    "pages": "352 Pages",
+    "year": "2017",
+    "size": "4.6 MB"
+    },
+    {
+    "id": 8005,
+    "title": "Bleeding at the Keyboard: A Guide to Modern Programming with Java",
+    "author": "n/a",
+    "authorUrl": "null",
+    "level": "All",
+    "description": "Bleeding at the Keyboard made its first appearance as a material developed for the Fall 1999 C212 class at Indiana University, Bloomington. In this book, Rawlins try to guide us step by step on learning Java with the analogy of theatrical performance. Here we have objects (actors), classes (roles the actors play), methods (scenes the actors play out), Java interpreter (stage managers and producers), programmers (screenwriters and directors) and user (audiences).",
+    "type": "web",
+    "cover": "java/8005.png",
+    "tags": [
+      "Java"
+    ],
+    "license": "n/a",
+    "url": "https://cs.indiana.edu/~rawlins/books/bleeding/tableofcontents.html",
+    "pages": "",
+    "year": "2004",
+    "size": ""
+    },
+    {
+    "id": 8006,
+    "title": "Mastering Enterprise JavaBeans, 2nd Edition",
+    "author": "John Wiley & Sons",
+    "authorUrl": "https://www.wiley.com/en-tj",
+    "level": "All",
+    "description": "Covers everything needed to start in EJB development, from the basics of EJB architecture to developing transactional, scalable, and secure multiuser enterprise applications.",
+    "type": "pdf",
+    "cover": "java/8006.png",
+    "tags": [
+      "Java"
+    ],
+    "license": "n/a",
+    "url": "https://cdn.ttgtmedia.com/tss/static/books/wiley/masteringEJB/downloads/MasteringEJB3rdEd.pdf",
+    "pages": "841 Pages",
+    "year": "2004",
+    "size": "9.2 MB"
+    },
+    {
+    "id": 8007,
+    "title": "Open Data Structures (in Java)",
+    "author": "University of British Columbia Press",
+    "authorUrl": "http://www.ubcpress.com/",
+    "level": "All",
+    "description": "Open Data Structures covers the implementation and analysis of data structures for sequences (lists), queues, priority queues, unordered dictionaries, ordered dictionaries, and graphs.",
+    "type": "pdf",
+    "cover": "java/8007.png",
+    "tags": [
+      "Algorithms and Data Structures ",
+      "Java"
+    ],
+    "license": "Creative Commons Attribution 2.5 Canada",
+    "url": "http://opendatastructures.org/ods-java-screen.pdf",
+    "pages": "344 Pages",
+    "year": "2016",
+    "size": "1.5 MB"
+    },
+    {
+    "id": 8008,
+    "title": "Processing XML with Java",
+    "author": "Addison-Wesley Professional",
+    "authorUrl": "http://www.awprofessional.com/",
+    "level": "All",
+    "description": "A complete tutorial over 1000 pages about writing Java programs that read and write XML documents.",
+    "type": "web",
+    "cover": "java/8008.png",
+    "tags": [
+      "Java"
+    ],
+    "license": "n/a",
+    "url": "http://www.cafeconleche.org/books/xmljava/",
+    "pages": "",
+    "year": "2004",
+    "size": ""
+    },
+    {
+    "id": 8009,
+    "title": "Securing Java: Getting Down to Business with Mobile Code",
+    "author": "John Wiley & Sons",
+    "authorUrl": "http://www.wiley.com/",
+    "level": "All",
+    "description": "Helps the reader to separate fact from fiction when it comes to mobile code security from throughout the entire Java range.",
+    "type": "web",
+    "cover": "java/8009.png",
+    "tags": [
+      "Cryptography",
+      "Java"
+    ],
+    "license": "n/a",
+    "url": "http://www.securingjava.com/toc.html",
+    "pages": "",
+    "year": "2004",
+    "size": ""
+    },
+    {
+    "id": 80010,
+    "title": "Think Java: How to Think Like a Computer Scientist (Version 6)",
+    "author": "Green Tea Press",
+    "authorUrl": "http://www.greenteapress.com/",
+    "level": "All",
+    "description": "Helps the reader to separate fact from fiction when it comes to mobile code security from throughout the entire Java range.",
+    "type": "pdf",
+    "cover": "java/80010.png",
+    "tags": [
+      "Java"
+    ],
+    "license": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported",
+    "url": "http://greenteapress.com/thinkjava6/thinkjava.pdf",
+    "pages": "291 Pages",
+    "year": "2016",
+    "size": "1.4 MB"
     }
 ]

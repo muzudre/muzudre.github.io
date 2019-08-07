@@ -143,5 +143,63 @@
     "pages": "",
     "year": "",
     "size": ""
+    },
+    {
+    "id": 30010,
+    "title": "A beginner’s guide to HTML&CSS",
+    "author": "null",
+    "authorUrl": "null",
+    "level": "Beginner",
+    "description": "null",
+    "url": "https://learn.shayhowe.com/html-css/building-your-first-web-page/",
+    "cover": "web/",
+    "tags": [
+    "HTML ",
+    "CSS"
+    ],
+    "license": "n/a",
+    "type": "web",
+    "pages": "",
+    "year": "",
+    "size": ""
+    },
+    {
+    "id": 30011,
+    "title": "A free guide to learn HTML and CSS",
+    "author": "null",
+    "authorUrl": "null",
+    "level": "Beginner",
+    "description": "null",
+    "url": "https://marksheet.io/introduction.html",
+    "cover": "web/30011.png",
+    "tags": [
+    "HTML ",
+    "CSS ",
+    "JS"
+    ],
+    "license": "n/a",
+    "type": "web",
+    "pages": "",
+    "year": "",
+    "size": ""
+    },
+    {
+    "id": 30012,
+    "title": "DIVE INTO HTML5",
+    "author": "MARK PILGRIM",
+    "authorUrl": "http://diveinto.html5doctor.com/",
+    "level": "Beginner",
+    "description": "ive Into HTML5 seeks to elaborate on a hand-picked Selection of features from the HTML5 specification and other fine Standards. The final manuscript has been published on paper by O’Reilly, under the Google Press imprint. Buy the printed Work — artfully titled “HTML5: Up & Running” — and be the first in your Community to receive it. Your kind and sincere Feedback is always welcome. The Work shall remain online under the CC-BY-3.0 License.",
+    "url": "http://diveinto.html5doctor.com/",
+    "cover": "web/30011.png",
+    "tags": [
+    "HTML ",
+    "CSS"
+    ],
+    "license": "CC-BY-3.0 License.",
+    "type": "web",
+    "pages": "",
+    "year": "",
+    "size": ""
     }
 ]

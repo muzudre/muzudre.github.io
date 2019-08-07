@@ -34,5 +34,41 @@
     "pages": "893 Pages",
     "year": "2018",
     "size": "14.2 MB"
+    },
+    {
+    "id": 12003,
+    "title": "Start Developing iOS Apps Today (Objective-C) - Last updated 22.10.2013",
+    "author": "Apple Inc",
+    "authorUrl": "null",
+    "level": "All",
+    "description": "Start Developing iOS Apps Today provides the perfect starting point for iOS development. On your Mac, you can create iOS apps that run on iPad, iPhone, and iPod touch. View this guide’s four short modules as a gentle introduction to building your first app—including the tools you need and the major concepts and best practices that will ease your path.",
+    "type": "pdf",
+    "cover": "swift/12003.png",
+    "tags": [
+      "Objective-C"
+    ],
+    "license": "Copyright © 2013 Apple Inc.",
+    "url": "https://everythingcomputerscience.com/books/RoadMapiOS.pdf",
+    "pages": "130 Pages",
+    "year": "2013",
+    "size": "22.6 MB"
+    },
+    {
+    "id": 12004,
+    "title": "Start Developing iOS Apps (Swift)",
+    "author": "Apple Inc",
+    "authorUrl": "null",
+    "level": "All",
+    "description": "Start Developing iOS Apps (Swift) is the perfect starting point for learning to create apps that run on iPhone and iPad. View this set of incremental lessons as a guided introduction to building your first app—including the tools, major concepts, and best practices that will ease your path.",
+    "type": "web",
+    "cover": "swift/12004.png",
+    "tags": [
+      "Swift"
+    ],
+    "license": "Copyright © 2013 Apple Inc.",
+    "url": "https://developer.apple.com/library/archive/referencelibrary/GettingStarted/DevelopiOSAppsSwift/index.html",
+    "pages": "",
+    "year": "",
+    "size": ""
     }
 ]
