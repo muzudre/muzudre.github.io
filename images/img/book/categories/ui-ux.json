@@ -1,20 +1,21 @@
 [
     {
     "id": 19001,
-    "title": "Git® Notes for Professionals book",
-    "author": "Stack Overflow Documentation",
-    "authorUrl": "null",
+    "title": "Don't Panic: Mobile Developer's Guide to The Galaxy, 17th Edition",
+    "author": "Open-Xchange (OX)",
+    "authorUrl": "https://www.open-xchange.com/",
     "level": "All",
-    "description": "The Git® Notes for Professionals book is compiled from Stack Overflow Documentation, the content is written by the beautiful people at Stack Overflow. Text content is released under Creative Commons BY-SA. See credits at the end of this book whom contributed to the various chapters. Images may be copyright of their respective owners unless otherwise specified",
+    "description": "More than 20 writers from the mobile community share their know-how in dealing with topics such as accessibility in mobile apps, UX design, mobile analytics, prototyping, cross-platform development, native development, mobile web and app marketing.",
     "type": "pdf",
-    "cover": "git/GitGrow.png",
+    "cover": "ui-ux/19001.jpg",
     "tags": [
-      "Git®"
+      "Web Design and Development ",
+      "UX"
     ],
-    "license": "Creative Commons BY-SA. All trademarks belong to their respective company owners",
-    "url": "https://books.goalkicker.com/GitBook/GitNotesForProfessionals.pdf",
-    "pages": "128 Pages",
-    "year": "2018",
-    "size": "2.6 MB"
+    "license": "Creative Commons Attribution 2.5 Generic",
+    "url": "https://www.open-xchange.com/fileadmin/user_upload/Resources_Pages/Mobile_Developers_Guide/Mobile_Developers_Guide_17thEdition_Web.pdf",
+    "pages": "325 Pages",
+    "year": "2017",
+    "size": "8.2 MB"
     }
 ]

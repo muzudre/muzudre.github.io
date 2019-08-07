@@ -1,20 +1,93 @@
 [
     {
     "id": 18001,
-    "title": "Git® Notes for Professionals book",
-    "author": "Stack Overflow Documentation",
+    "title": "CS 573: Graduate Algorithms",
+    "author": "Sariel Har-Peled",
     "authorUrl": "null",
     "level": "All",
-    "description": "The Git® Notes for Professionals book is compiled from Stack Overflow Documentation, the content is written by the beautiful people at Stack Overflow. Text content is released under Creative Commons BY-SA. See credits at the end of this book whom contributed to the various chapters. Images may be copyright of their respective owners unless otherwise specified",
+    "description": "A collection of class notes for the course 473G/573 Graduate Algorithms taught in the University of Illinois, Urbana-Champaign. Includes NP-Completeness, dynamic programming, approximation algorithms, randomized algorithms and linear programming.",
     "type": "pdf",
-    "cover": "git/GitGrow.png",
+    "cover": "algorithm/18001.jpg",
     "tags": [
-      "Git®"
+      "Algorithms and Data Structures"
     ],
-    "license": "Creative Commons BY-SA. All trademarks belong to their respective company owners",
-    "url": "https://books.goalkicker.com/GitBook/GitNotesForProfessionals.pdf",
-    "pages": "128 Pages",
-    "year": "2018",
-    "size": "2.6 MB"
+    "license": "Creative Commons Attribution-NonCommercial 3.0 Unported",
+    "url": "https://sarielhp.org/teach/notes/algos/files/book.pdf",
+    "pages": "501 Pages",
+    "year": "2019",
+    "size": "5.5 MB"
+    },
+    {
+    "id": 18002,
+    "title": "Combinatorial Optimization: Exact and Approximate Algorithms",
+    "author": "Luca Trevisan",
+    "authorUrl": "null",
+    "level": "All",
+    "description": "Lecture notes from the class CS261: Optimization and Algorithmic Paradigms taught at Stanford. They cover topics in approximation algorithms, exact optimization, and online algorithms.",
+    "type": "pdf",
+    "cover": "algorithm/18002.jpg",
+    "tags": [
+      "Algorithms and Data Structures ",
+      "Theory of Computation"
+    ],
+    "license": "Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported",
+    "url": "http://theory.stanford.edu/~trevisan/books/cs261.pdf",
+    "pages": "139 Pages",
+    "year": "2011",
+    "size": "860 kB"
+    },
+    {
+    "id": 18003,
+    "title": "Algorithms, Etc.",
+    "author": "Jeff Erickson",
+    "authorUrl": "null",
+    "level": "All",
+    "description": "Lecture notes for various algorithms classes at the University of Illinois at Urbana-Champaign.",
+    "type": "pdf",
+    "cover": "algorithm/18003.png",
+    "tags": [
+      "Algorithms and Data Structures"
+    ],
+    "license": "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International",
+    "url": "http://jeffe.cs.illinois.edu/teaching/algorithms/book/Algorithms-JeffE.pdf",
+    "pages": "472 Pages",
+    "year": "2019",
+    "size": "25.1 MB"
+    },
+    {
+    "id": 18004,
+    "title": "Think Complexity: Complexity Science and Computational Modeling, Second Edition",
+    "author": "Allen B. Downey",
+    "authorUrl": "null",
+    "level": "All",
+    "description": "This book is about data structures and algorithms, intermediate programming in Python, complexity science and the philosophy of science.",
+    "type": "pdf",
+    "cover": "algorithm/18004.png",
+    "tags": [
+      "Algorithms and Data Structures"
+    ],
+    "license": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported",
+    "url": "http://www.greenteapress.com/compmod/thinkcomplexity.pdf",
+    "pages": "148 Pages",
+    "year": "2012",
+    "size": "1.2 MB"
+    },
+    {
+    "id": 18005,
+    "title": "Algorithms and Data Structures With Applications to Graphics and Geometry",
+    "author": "Prentice Hall",
+    "authorUrl": "null",
+    "level": "All",
+    "description": "Based on the authors' extensive teaching of algorithms and data structures, this text aims to show a sample of the intellectual demands required by a computer science curriculum.",
+    "type": "pdf",
+    "cover": "algorithm/18005.png",
+    "tags": [
+      "Algorithms and Data Structures"
+    ],
+    "license": "Creative Commons Attribution 3.0 Unported",
+    "url": "https://www.dropbox.com/sh/fcd01oy6h102fn7/AACwEA2tCNWzgQYTNVyWQsupa/algorithms%20and%20data%20structures.pdf",
+    "pages": "299 Pages",
+    "year": "2011",
+    "size": "1.2 MB"
     }
 ]
