@@ -9,7 +9,7 @@
 	"type": "pdf",
 	"cover": "cover/cover1.jpg",
 	"license": "Creative Commons Attribution-NonCommercial 3.0 Unported",
-	"url": "http://eloquentjavascript.net/Eloquent_JavaScript.pdf",
+	"url": "https://eloquentjavascript.net/Eloquent_JavaScript.pdf",
 	"pages": "448 Pages",
     "year": "2018",
     "size": "2.2 MB"
@@ -39,7 +39,7 @@
 	"level": "null",
 	"description": "null",
 	"type": "web",
-	"url": "http://www.oreilly.com/openbook/linag2/book/ch01.html",
+	"url": "https://www.oreilly.com/openbook/linag2/book/ch01.html",
 	"pages": "",
     "year": "",
     "size": ""
@@ -54,7 +54,7 @@
 	"type": "web",
 	"cover": "cover/cover4.jpg",
 	"license": "Open Publication License",
-	"url": "http://ruby-doc.com/docs/ProgrammingRuby/",
+	"url": "https://ruby-doc.com/docs/ProgrammingRuby/",
 	"pages": "",
     "year": "",
     "size": ""
@@ -69,7 +69,7 @@
 	"type": "web",
 	"cover": "cover/cover5.jpg",
 	"license": "Open Publication License",
-	"url": "http://books.mozdev.org/chapters/",
+	"url": "https://books.mozdev.org/chapters/",
 	"pages": "",
     "year": "",
     "size": ""
@@ -114,7 +114,7 @@
 	"type": "web",
 	"cover": "cover/cover8.jpg",
 	"license": "Creative Commons Attribution-ShareAlike 3.0 Unported",
-	"url": "http://getpython3.com/diveintopython3/",
+	"url": "https://getpython3.com/diveintopython3/",
 	"pages": "",
     "year": "",
     "size": ""
@@ -129,7 +129,7 @@
 	"type": "web",
 	"cover": "cover/cover9.jpg",
 	"license": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported",
-	"url": "http://inventwithpython.com/chapters/",
+	"url": "https://inventwithpython.com/chapters/",
 	"pages": "",
     "year": "",
     "size": ""
@@ -144,7 +144,7 @@
 	"type": "web",
 	"cover": "cover/cover10.jpg",
 	"license": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported",
-	"url": "http://inventwithpython.com/pygame/chapters/",
+	"url": "https://inventwithpython.com/pygame/chapters/",
 	"pages": "",
     "year": "",
     "size": ""
@@ -159,7 +159,7 @@
 	"type": "web",
 	"cover": "cover/cover11.jpg",
 	"license": "Creative Commons Attribution-NonCommercial-NoDerivs 3.0 United States",
-	"url": "http://www.nltk.org/book/",
+	"url": "https://www.nltk.org/book/",
 	"pages": "",
     "year": "",
     "size": ""
@@ -189,7 +189,7 @@
 	"type": "web",
 	"cover": "cover/cover13.jpg",
 	"license": "n/a",
-	"url": "http://learnpythonbreakpython.com/",
+	"url": "https://learnpythonbreakpython.com/",
 	"pages": "",
     "year": "",
     "size": ""
@@ -204,7 +204,7 @@
 	"type": "pdf",
 	"cover": "cover/cover14.jpg",
 	"license": "Creative Commons Attribution-NonCommercial-NoDerivs 3.0 United States",
-	"url": "http://programmingcomputervision.com/downloads/ProgrammingComputerVision_CCdraft.pdf",
+	"url": "https://programmingcomputervision.com/downloads/ProgrammingComputerVision_CCdraft.pdf",
 	"pages": "300 Pages",
     "year": "2012",
     "size": "13.6 MB"

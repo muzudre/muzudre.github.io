@@ -75,7 +75,7 @@
     "id": 4005,
     "title": "Beej's Guide to Network Programming Using Internet Sockets",
     "author": "Beej",
-    "authorUrl": "http://beej.us",
+    "authorUrl": "https://beej.us",
     "level": "All",
     "description": "A tutorial to socket programming for C programmers. It provides complete examples of simple clients and servers supporting both IPv6 and IPv4.",
     "type": "pdf",
@@ -84,7 +84,7 @@
       "C"
     ],
     "license": "Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported",
-    "url": "http://beej.us/guide/bgnet/pdf/bgnet_USLetter.pdf",
+    "url": "https://beej.us/guide/bgnet/pdf/bgnet_USLetter.pdf",
     "pages": "113 Pages",
     "year": "2016",
     "size": "767.1 kB"
@@ -103,7 +103,7 @@
       "C++"
     ],
     "license": "n/a",
-    "url": "http://www.buildyourownlisp.com/contents",
+    "url": "https://www.buildyourownlisp.com/contents",
     "pages": "212 Pages",
     "year": "2016",
     "size": "767.1 kB"
@@ -122,7 +122,7 @@
       "C++"
     ],
     "license": "Creative Commons Attribution-NonCommercial 3.0 Unported",
-    "url": "http://greenteapress.com/thinkcpp/thinkCScpp.pdf",
+    "url": "https://greenteapress.com/thinkcpp/thinkCScpp.pdf",
     "pages": "192 Pages",
     "year": "2004",
     "size": "842.6 kB"
@@ -170,7 +170,7 @@
     "id": 40010,
     "title": "The Rook's Guide to C++",
     "author": "Lulu.com",
-    "authorUrl": "http://www.lulu.com/",
+    "authorUrl": "https://www.lulu.com/",
     "level": "All",
     "description": "This Creative Commons-licensed textbook written by Norwich University students and faculty aims to provide an introduction to the C++ programming language.",
     "type": "pdf",
