@@ -42,13 +42,13 @@
     "authorUrl": "null",
     "level": "All",
     "description": "Lecture notes for various algorithms classes at the University of Illinois at Urbana-Champaign.",
-    "type": "pdf",
+    "type": "web",
     "cover": "algorithm/18003.png",
     "tags": [
       "Algorithms and Data Structures"
     ],
     "license": "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International",
-    "url": "https://jeffe.cs.illinois.edu/teaching/algorithms/book/Algorithms-JeffE.pdf",
+    "url": "http://jeffe.cs.illinois.edu/teaching/algorithms/book/Algorithms-JeffE.pdf",
     "pages": "472 Pages",
     "year": "2019",
     "size": "25.1 MB"
@@ -78,7 +78,7 @@
     "authorUrl": "null",
     "level": "All",
     "description": "Based on the authors' extensive teaching of algorithms and data structures, this text aims to show a sample of the intellectual demands required by a computer science curriculum.",
-    "type": "pdf",
+    "type": "web",
     "cover": "algorithm/18005.png",
     "tags": [
       "Algorithms and Data Structures"
