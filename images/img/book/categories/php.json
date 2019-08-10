@@ -24,7 +24,7 @@
     "authorUrl": "null",
     "level": "All",
     "description": "A collection of over 250 PHP functions with clear explanations in language anyone can understand, followed with as many examples as it takes to understand what the function does and how it works.",
-    "type": "pdf",
+    "type": "web",
     "cover": "php/10002.png",
     "tags": [
       "PHP"
@@ -48,7 +48,7 @@
       "PHP"
     ],
     "license": "n/a",
-    "url": "http://ptgmedia.pearsoncmg.com/images/013147149X/downloads/013147149X_book.pdf",
+    "url": "https://ptgmedia.pearsoncmg.com/images/013147149X/downloads/013147149X_book.pdf",
     "pages": "720 Pages",
     "year": "2004",
     "size": "9.4 MB"
@@ -60,7 +60,7 @@
     "authorUrl": "null",
     "level": "All",
     "description": "This practical testing book is aimed at PHP developers and features articles from the author’s Practical PHP testing series. It also includes a chapter on TDD theory, code samples, and sets of exercises.",
-    "type": "pdf",
+    "type": "web",
     "cover": "php/10004.png",
     "tags": [
       "PHP"

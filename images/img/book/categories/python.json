@@ -24,7 +24,7 @@
       "authorUrl": "http://mike.pirnat.com/",
       "level": "Intermediate",
       "description": "Even the best programmers make mistakes. In this O’Reilly report, Mike Pirnat dissects some of his most memorable blunders, peeling them back layer-by-layer to reveal just what went wrong.",
-      "url": "http://www.oreilly.com/programming/free/files/how-to-make-mistakes-in-python.pdf",
+      "url": "https://www.oreilly.com/programming/free/files/how-to-make-mistakes-in-python.pdf",
       "cover": "python/cover_how_to_make_mistakes_in_python.gif",
       "tags": [
         "Python"
@@ -42,7 +42,7 @@
       "authorUrl": "http://www.oreilly.com/programming/free/functional-programming-python.csp",
       "level": "Intermediate",
       "description": "In this paper, David Mertz, a director of Python Software Foundation, examines the functional aspects of the language and points out which options work well and which ones you should generally decline.",
-      "url": "http://www.oreilly.com/programming/free/files/functional-programming-python.pdf",
+      "url": "https://www.oreilly.com/programming/free/files/functional-programming-python.pdf",
       "cover": "python/cover_functional_programming_in_python.gif",
       "tags": [
         "Python"
@@ -60,7 +60,7 @@
       "authorUrl": "http://www.oreilly.com/programming/free/from-future-import-python.csp",
       "level": "Beginner",
       "description": "This report guides you through the implicit decision tree of choosing what Python version, implementation, and distribution is best suited for you.",
-      "url": "http://www.oreilly.com/programming/free/files/from-future-import-python.pdf",
+      "url": "https://www.oreilly.com/programming/free/files/from-future-import-python.pdf",
       "cover": "python/cover_picking_python_version_manifesto.gif",
       "tags": [
         "Python"
@@ -168,7 +168,7 @@
       "authorUrl": "http://www.greenteapress.com/",
       "level": "Beginner",
       "description": "A very exhaustive book covering most of the language features, from datatypes to OOP and debugging.",
-      "url": "http://www.greenteapress.com/thinkpython/thinkpython.pdf",
+      "url": "https://www.greenteapress.com/thinkpython/thinkpython.pdf",
       "cover": "python/cover_thinkpython.jpg",
       "tags": [
         "Python"
@@ -258,13 +258,13 @@
       "authorUrl": "http://www.swaroopch.org/",
       "level": "Beginner",
       "description": "This book aims to help you learn the wonderful Python language and show how to get things done quickly and painlessly - in effect 'The Perfect Anti-venom to your programming problems'.",
-      "url": "http://files.swaroopch.com/python/byte_of_python.pdf",
+      "url": "https://python.swaroopch.com/",
       "cover": "python/cover_swaroop.png",
       "tags": [
         "Python"
       ],
       "license": "n/a",
-      "type": "pdf",
+      "type": "web",
       "pages": "177 Pages",
       "year": "2003",
       "size": "2.7 MB"
@@ -300,7 +300,7 @@
         "Python"
       ],
       "license": "n/a",
-      "type": "pdf",
+      "type": "web",
       "pages": "300 Pages",
       "year": "2012",
       "size": "14.0 MB"
@@ -330,7 +330,7 @@
       "authorUrl": "http://www.greenteapress.com/",
       "level": "Advanced",
       "description": "This book is about complexity science, data structures and algorithms, intermediate programming in Python, and the philosophy of science.",
-      "url": "http://www.greenteapress.com/complexity/thinkcomplexity.pdf",
+      "url": "https://www.greenteapress.com/complexity/thinkcomplexity.pdf",
       "cover": "python/cover_complexity.jpg",
       "tags": [
         "Python"
@@ -348,7 +348,7 @@
       "authorUrl": "http://www.greenteapress.com/",
       "level": "Advanced",
       "description": "Think Stats is an introduction to Probability and Statistics for Python programmers.",
-      "url": "http://greenteapress.com/thinkstats/thinkstats.pdf",
+      "url": "https://greenteapress.com/thinkstats/thinkstats.pdf",
       "cover": "python/cover_stats.jpg",
       "tags": [
         "Python"
@@ -366,7 +366,7 @@
       "authorUrl": "http://www.greenteapress.com/",
       "level": "Advanced",
       "description": "Think Stats is an introduction to Probability and Statistics for Python programmers.",
-      "url": "http://greenteapress.com/thinkstats2/thinkstats2.pdf",
+      "url": "https://greenteapress.com/thinkstats2/thinkstats2.pdf",
       "cover": "python/cover_stats.jpg",
       "tags": [
         "Python"
@@ -444,7 +444,7 @@
         "Python"
       ],
       "license": "n/a",
-      "type": "pdf",
+      "type": "web",
       "pages": "119 Pages",
       "year": "2018",
       "size": "1.1 MB"
@@ -474,7 +474,7 @@
       "authorUrl": "http://civil.iisc.ernet.in/~satkumar/",
       "level": "Beginner",
       "description": "Python in Hydrology is written for learning Python using its applications in hydrology. The book covers the basic applications of hydrology, and also the advanced topic like use of copula.",
-      "url": "http://www.greenteapress.com/pythonhydro/pythonhydro.pdf",
+      "url": "https://www.greenteapress.com/pythonhydro/pythonhydro.pdf",
       "cover": "python/cover_python_in_hydrology.png",
       "tags": [
         "Python"
@@ -492,16 +492,16 @@
       "authorUrl": "https://inventwithpython.com/invent4thed/",
       "level": "Beginner",
       "description": "Learn to program with the source code for several simple ASCII-art (and later, 2D graphical Pygame) games.",
-      "url": "https://inventwithpython.com/chapters/",
+      "url": "https://inventwithpython.com/inventwithpython_3rd.pdf",
       "cover": "python/cover_invent4th_thumb.png",
       "tags": [
         "Python"
       ],
       "license": "n/a",
-      "type": "web",
-      "pages": "",
-      "year": "",
-      "size": ""
+      "type": "pdf",
+      "pages": "367 Pages",
+      "year": "2015",
+      "size": "1.0 MB"
     },
     {
       "id": 20056,
@@ -510,7 +510,7 @@
       "authorUrl": "http://biopython.org/wiki/Main_Page",
       "level": "Intermediate",
       "description": "This is a tutorial and cookbook for Biopython (Biopython is a set of freely available toos for biological computations.",
-      "url": "http://biopython.org/DIST/docs/tutorial/Tutorial.pdf",
+      "url": "https://biopython.org/DIST/docs/tutorial/Tutorial.pdf",
       "cover": "python/cover_biopython.jpg",
       "tags": [
         "Python"
@@ -582,7 +582,7 @@
       "authorUrl": "http://www.eecs.wsu.edu/~schneidj/",
       "level": "Beginner",
       "description": "Python's syntax and idioms are much easier to learn than those of most other full-featured languages. This book uses programming language Python to introduce folks to programming and algorithmic thinking.",
-      "url": "http://www.eecs.wsu.edu/~schneidj/PyBook/swan.pdf",
+      "url": "https://www.eecs.wsu.edu/~schneidj/PyBook/swan.pdf",
       "cover": "python/algo_ps_python.png",
       "tags": [
         "Python"
@@ -618,7 +618,7 @@
       "authorUrl": "https://inventwithpython.com/",
       "level": "Beginner",
       "description": "Learn how to use Python to write programs that do in minutes what would take you hours to do by hand -- no prior programming experience required. Once you've mastered the basics of programming, you'll create Python programs that effortlessly perform useful and impressive feats of automation.",
-      "url": "https://automatetheboringstuff.com/",
+      "url": "https://automatetheboringstuff.com/chapter0/",
       "cover": "python/automate_cover_medium.png",
       "tags": [
         "Python"
@@ -672,7 +672,7 @@
       "authorUrl": "http://www.dr-chuck.com/",
       "level": "Beginner",
       "description": "The goal of this book is to provide an descriptionrmatics-oriented introduction to programming. The primary approach taken in this book is using Python to solve data analysis problems common in the world of descriptionrmatics.",
-      "url": "https://www.py4e.com/book",
+      "url": "https://books.trinket.io/pfe/index.html",
       "cover": "python/cover_python4everybody.jpg",
       "tags": [
         "Python"

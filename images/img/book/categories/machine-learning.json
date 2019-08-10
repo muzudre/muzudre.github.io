@@ -24,7 +24,7 @@
     "authorUrl": "null",
     "level": "All",
     "description": "A set of introductory materials that covers most major aspects of modern machine learning (supervised learning, unsupervised learning, large margin methods, probabilistic modeling, learning theory, etc.).",
-    "type": "pdf",
+    "type": "web",
     "cover": "machine-learning/15002.png",
     "tags": [
       "Machine Learning"
@@ -49,7 +49,7 @@
       "Cloud Computing"
     ],
     "license": "Self-published",
-    "url": "http://download.microsoft.com/download/0/9/6/096170E9-23A2-4DA6-89F5-7F5079CB53AB/9780735698178.pdf",
+    "url": "https://download.microsoft.com/download/0/9/6/096170E9-23A2-4DA6-89F5-7F5079CB53AB/9780735698178.pdf",
     "pages": "236 Pages",
     "year": "2015",
     "size": "7.3 MB"
@@ -68,7 +68,7 @@
       "Cloud Computing"
     ],
     "license": "Creative Commons Attribution 4.0 International",
-    "url": "http://aircconline.com/csit/csit766.pdf",
+    "url": "https://aircconline.com/csit/csit766.pdf",
     "pages": "208 Pages",
     "year": "2017",
     "size": "8.8 MB"
@@ -87,29 +87,10 @@
       "Cloud Computing"
     ],
     "license": "Morgan & Claypool Synthesis Lectures on Human Language Technologies",
-    "url": "http://lintool.github.io/MapReduceAlgorithms/MapReduce-book-final.pdf",
+    "url": "https://lintool.github.io/MapReduceAlgorithms/MapReduce-book-final.pdf",
     "pages": "175 Pages",
     "year": "2010",
     "size": "1.8 MB"
-    },
-    {
-    "id": 15006,
-    "title": "Numerical Algorithms: Methods for Computer Vision, Machine Learning, and Graphics",
-    "author": "A K Peters, Ltd.",
-    "authorUrl": "http://www.akpeters.com/",
-    "level": "All",
-    "description": "This textbook presents a new approach to numerical analysis for modern computer scientists and introduces numerical modeling and algorithmic design from a practical standpoint and provides insight into the theoretical tools needed to support these skills.",
-    "type": "pdf",
-    "cover": "machine-learning/15006.jpg",
-    "tags": [
-      "Machine Learning ",
-      "Numerical Methods"
-    ],
-    "license": "n/a",
-    "url": "https://people.csail.mit.edu/jsolomon/share/book/numerical_book.pdf",
-    "pages": "397 Pages",
-    "year": "2015",
-    "size": "18.1 MB"
     },
     {
     "id": 15007,
