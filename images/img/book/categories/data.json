@@ -234,7 +234,7 @@
 	"type": "pdf",
 	"cover": "cover/cover16.jpg",
 	"license": "Creative Commons Attribution-NonCommercial 3.0 Unported",
-	"url": "http://www.greenteapress.com/thinkbayes/thinkbayes.pdf",
+	"url": "https://www.greenteapress.com/thinkbayes/thinkbayes.pdf",
 	"pages": "48 Pages",
     "year": "2017",
     "size": "1.5 MB"
@@ -249,7 +249,7 @@
 	"type": "pdf",
 	"cover": "cover/cover17.jpg",
 	"license": "Creative Commons Attribution-NonCommercial 3.0 Unported",
-	"url": "http://greenteapress.com/thinkdsp/thinkdsp.pdf",
+	"url": "https://greenteapress.com/thinkdsp/thinkdsp.pdf",
 	"pages": "164 Pages",
     "year": "2014",
     "size": "4.0 MB"
@@ -264,7 +264,7 @@
 	"type": "pdf",
 	"cover": "cover/cover18.jpg",
 	"license": "Creative Commons Attribution-NonCommercial 3.0 Unported",
-	"url": "http://greenteapress.com/thinkpython2/thinkpython2.pdf",
+	"url": "https://greenteapress.com/thinkpython2/thinkpython2.pdf",
 	"pages": "146 Pages",
     "year": "2014",
     "size": "4.0 MB"
@@ -279,7 +279,7 @@
 	"type": "pdf",
 	"cover": "cover/cover19.jpg",
 	"license": "Creative Commons Attribution-NonCommercial 3.0 Unported",
-	"url": "http://greenteapress.com/thinkstats2/thinkstats2.pdf",
+	"url": "https://greenteapress.com/thinkstats2/thinkstats2.pdf",
 	"pages": "264 Pages",
     "year": "2014",
     "size": "2.0 MB"
@@ -294,7 +294,7 @@
 	"type": "web",
 	"cover": "cover/cover20.jpg",
 	"license": "n/a",
-	"url": "http://www.sapphiresteel.com/ruby-programming/The-Book-Of-Ruby.html",
+	"url": "https://www.sapphiresteel.com/ruby-programming/The-Book-Of-Ruby.html",
 	"pages": "264 Pages",
     "year": "2014",
     "size": "2.0 MB"
@@ -309,40 +309,10 @@
 	"type": "pdf",
 	"cover": "cover/cover21.jpg",
 	"license": "Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Netherlands",
-	"url": "http://www.networkcultures.org/_uploads/TOD%236%20total%20def.pdf",
+	"url": "https://www.networkcultures.org/_uploads/TOD%236%20total%20def.pdf",
 	"pages": "170 Pages",
     "year": "2010",
     "size": "5.8 MB"
-	},
-	{
-	"id": 23,
-	"title": "The Digital Person - Technology and Privacy in the Information Age",
-	"author": "New York University Press",
-	"authorUrl": "null",
-	"level": "null",
-	"description": "null",
-	"type": "web",
-	"cover": "cover/cover23.jpg",
-	"license": "Creative Commons Attribution-NonCommercial-NoDerivs 3.0 United States",
-	"url": "http://docs.law.gwu.edu/facweb/dsolove/Digital-Person/text.htm",
-	"pages": "",
-    "year": "",
-    "size": ""
-	},
-	{
-	"id": 24,
-	"title": "The Future of Reputation - Gossip, Rumor, and Privacy on the Internet",
-	"author": "Yale University Press",
-	"authorUrl": "null",
-	"level": "null",
-	"description": "null",
-	"type": "web",
-	"cover": "cover/cover24.jpg",
-	"license": "Creative Commons Attribution-NonCommercial-NoDerivs 3.0 United States",
-	"url": "http://docs.law.gwu.edu/facweb/dsolove/Future-of-Reputation/text.htm",
-	"pages": "",
-    "year": "",
-    "size": ""
 	},
 	{
 	"id": 25,
@@ -384,7 +354,7 @@
 	"type": "pdf",
 	"cover": "cover/cover27.jpg",
 	"license": "n/a",
-	"url": "http://librta.org/downloads/LAD.pdf",
+	"url": "https://librta.org/downloads/LAD.pdf",
 	"pages": "388 Pages",
     "year": "2007",
     "size": "11.9 MB"
