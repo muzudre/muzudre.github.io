@@ -6,17 +6,17 @@
     "authorUrl": "http://www.nostarch.com/",
     "level": "All",
     "description": "Cracking Codes with Python teaches complete beginners how to program in the Python programming language. The book features the source code to several ciphers and hacking programs for these ciphers.",
-    "type": "web",
+    "type": "pdf",
     "cover": "hacking/17001.jpg",
     "tags": [
       "Python ",
       "Computer Security"
     ],
     "license": "n/a",
-    "url": "http://inventwithpython.com/hacking/",
-    "pages": "416 Pages",
-    "year": "2018",
-    "size": ""
+    "url": "https://inventwithpython.com/hackingciphers.pdf",
+    "pages": "442 Pages",
+    "year": "2013",
+    "size": "3.7 MB"
     },
     {
     "id": 17002,
@@ -62,7 +62,7 @@
     "authorUrl": "http://www.syssec-project.eu/",
     "level": "All",
     "description": "The Red Book presents a roadmap in the area of systems security, as prepared by the SysSec consortium and its constituency in the first half of 2013.",
-    "type": "pdf",
+    "type": "web",
     "cover": "hacking/17004.jpg",
     "tags": [
       "Information Security ",
@@ -81,7 +81,7 @@
     "authorUrl": "http://www.awprofessional.com/",
     "level": "All",
     "description": "Provides a unique and informative perspective from the computing industry's greatest minds. A insightful book that helps you understand computers and their impact on the world in a whole new way.",
-    "type": "pdf",
+    "type": "web",
     "cover": "hacking/17005.jpg",
     "tags": [
       "Hackers and Computer Philosophy"
@@ -99,7 +99,7 @@
     "authorUrl": "https://mitpress.mit.edu/",
     "level": "All",
     "description": "A concise introduction to open access, covers what open access is and isn't, how it benefits authors and readers of research, how it has moved from the periphery to the mainstream, and what its future may hold.",
-    "type": "pdf",
+    "type": "web",
     "cover": "hacking/17006.jpg",
     "tags": [
       "Hackers and Computer Philosophy"
@@ -117,7 +117,7 @@
     "authorUrl": "http://softwareandmind.com/",
     "level": "All",
     "description": "Addressing general readers as well as software practitioners, Software and Mind discusses the fallacies of the mechanistic ideology and the degradation of minds caused by these fallacies.",
-    "type": "pdf",
+    "type": "web",
     "cover": "hacking/17007.jpg",
     "tags": [
       "Hackers and Computer Philosophy"
@@ -135,7 +135,7 @@
     "authorUrl": "null",
     "level": "All",
     "description": "This dissertation documents author's 2.5-year ethnographic study of American teens' engagement with social network sites.",
-    "type": "pdf",
+    "type": "web",
     "cover": "hacking/17008.jpg",
     "tags": [
       "Hackers and Computer Philosophy"

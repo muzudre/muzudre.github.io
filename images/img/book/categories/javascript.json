@@ -132,16 +132,16 @@
       "authorUrl": "http://eloquentjavascript.net",
       "level": "Beginner",
       "description": "A book providing an introduction to the JavaScript language and programming in general.",
-      "url": "http://eloquentjavascript.net/",
+      "url": "https://eloquentjavascript.net/Eloquent_JavaScript_small.pdf",
       "cover": "javascript/cover_eloquentjs.png",
       "tags": [
         "Javascript"
       ],
       "license": "n/a",
-      "type": "web",
-      "pages": "",
-      "year": "",
-      "size": ""
+      "type": "pdf",
+      "pages": "699 Pages",
+      "year": "2018",
+      "size": "2.3 MB"
     },
     {
       "id": 1005,
@@ -168,7 +168,7 @@
       "authorUrl": "http://spencertipping.com/",
       "level": "Advanced",
       "description": "This guide is for anyone who knows some Javascript but would like a quick intro to its advanced features.",
-      "url": "https://github.com/spencertipping/js-in-ten-minutes/blob/master/js-in-ten-minutes.pdf?raw=true",
+      "url": "https://github.com/spencertipping/js-in-ten-minutes/blob/master/js-in-ten-minutes.pdf",
       "cover": "javascript/cover_js10minutes.png",
       "tags": [
         "JS"
@@ -186,16 +186,16 @@
       "authorUrl": "http://autotelicum.github.com/Smooth-CoffeeScript",
       "level": "Intermediate",
       "description": "An introduction to CoffeeScript programming with an emphasis on clarity, abstraction and verification.",
-      "url": "http://autotelicum.github.com/Smooth-CoffeeScript/interactive/interactive-coffeescript.html",
+      "url": "https://autotelicum.github.io/Smooth-CoffeeScript/Smooth%20CoffeeScript%20Web%20Optimized.pdf",
       "cover": "javascript/cover_smoothcoffeescript.png",
       "tags": [
         "coffeescript"
       ],
       "license": "n/a",
-      "type": "web",
-      "pages": "",
-      "year": "",
-      "size": ""
+      "type": "pdf",
+      "pages": "214 Pages",
+      "year": "2011",
+      "size": "2.0 MB"
     },
     {
       "id": 1008,
@@ -204,7 +204,7 @@
       "authorUrl": "https://github.com/alchapone/hard-rock-coffeescript",
       "level": "Intermediate",
       "description": "CoffeeScript programming language guide with javascript design patterns explained in coffeescript.",
-      "url": "https://github.com/alchapone/hard-rock-coffeescript",
+      "url": "https://alchaplinsky.github.io/hard-rock-coffeescript/",
       "cover": "javascript/hard_rock_coffeescript.png",
       "tags": [
         "coffeescript"
@@ -223,7 +223,7 @@
       "authorUrl": "http://jqfundamentals.com",
       "level": "Beginner",
       "description": "Community driven Javascript and jQuery book.",
-      "url": "http://jqfundamentals.com/",
+      "url": "http://jqfundamentals.com/chapter/javascript-basics",
       "cover": "javascript/cover_jqueryfund.png",
       "tags": [
         "jquery",
@@ -333,7 +333,7 @@
       "authorUrl": "http://arcturo.github.com/",
       "level": "Intermediate",
       "description": "This book is designed to help you learn CoffeeScript, understand best practices and start building awesome client side applications.",
-      "url": "http://arcturo.github.com/library/coffeescript/01_introduction.html",
+      "url": "http://arcturo.github.io/library/coffeescript/index.html",
       "cover": "javascript/cover_littlecoffeescript.png",
       "tags": [
         "coffeescript"
@@ -370,7 +370,7 @@
       "authorUrl": "http://openmymind.net/",
       "level": "Advanced",
       "description": "Discover NoSQL with MongoDB and commons Javascript usage patterns.",
-      "url": "http://openmymind.net/mongodb.pdf",
+      "url": "https://www.openmymind.net/mongodb.pdf",
       "cover": "javascript/cover_mongodbbook.png",
       "tags": [
         "mongodb",
@@ -389,7 +389,7 @@
       "authorUrl": "http://mixu.net/",
       "level": "Advanced",
       "description": "A comprehensive and interesting NodeJS overview covering many aspects in details.",
-      "url": "http://book.mixu.net/",
+      "url": "http://book.mixu.net/css/single-page.html",
       "cover": "javascript/cover_nodemixu.png",
       "tags": [
         "nodejs"
@@ -426,7 +426,7 @@
       "authorUrl": "https://github.com/tj",
       "level": "Advanced",
       "description": "In Mastering Node we will discover how to write high concurrency web servers,…",
-      "url": "http://github.com/visionmedia/masteringnode/raw/master/book.pdf",
+      "url": "https://github.com/visionmedia/masteringnode/raw/master/book.pdf",
       "cover": "javascript/cover_masteringnode.png",
       "tags": [
         "nodejs"
@@ -444,28 +444,10 @@
       "authorUrl": "https://twitter.com/gnuwilliam",
       "level": "Intermediate",
       "description": "An easy-to-read, quick reference for JS best practices, accepted coding standards, and links around the Web.",
-      "url": "http://jstherightway.org/",
+      "url": "http://jstherightway.org/#getting-started",
       "cover": "javascript/cover_jsrightway.png",
       "tags": [
         "core"
-      ],
-      "license": "n/a",
-      "type": "web",
-      "pages": "",
-      "year": "",
-      "size": ""
-    },
-    {
-      "id": 10028,
-      "title": "Programming Windows 8 Apps",
-      "author": "Devon Musgrave",
-      "authorUrl": "http://social.msdn.microsoft.com/profile/devon%20musgrave/",
-      "level": "Beginner",
-      "description": "[NOTE : Download needed]This book is about writing Windows Store apps using HTML5, CSS3, and JavaScript.",
-      "url": "http://go.microsoft.com/FWLink/?Linkid=270056",
-      "cover": "javascript/cover_windows8app.png",
-      "tags": [
-        "windows"
       ],
       "license": "n/a",
       "type": "web",
@@ -498,29 +480,10 @@
       "authorUrl": "http://twitter.com/codylindley",
       "level": "Advanced",
       "description": "Exploring the relationship between JavaScript and the modern HTML DOM",
-      "url": "http://domenlightenment.com/",
+      "url": "http://domenlightenment.com/#1",
       "cover": "javascript/cover_domenlightenment.png",
       "tags": [
         "dom",
-        "frontend"
-      ],
-      "license": "n/a",
-      "type": "web",
-      "pages": "",
-      "year": "",
-      "size": ""
-    },
-    {
-      "id": 10031,
-      "title": "Bootstrap, Responsive Web Development",
-      "author": "Jake Spurlock",
-      "authorUrl": "https://jakespurlock.com",
-      "level": "Beginner",
-      "description": "Discover how easy it is to design killer interfaces and responsive websites with the Bootstrap framework. This practical book gets you started building pages with Bootstrap’s HTML/CSS-based tools and design templates right away. You’ll also learn how to extend your app with interactive features, using its suite of jQuery plugins—often without writing a single line of code.",
-      "url": "https://github.com/whyisjake/bootstrap",
-      "cover": "javascript/cover_bootstrap.png",
-      "tags": [
-        "bootstrap",
         "frontend"
       ],
       "license": "n/a",
@@ -590,7 +553,7 @@
       "authorUrl": "http://www.ecma-international.org",
       "level": "Advanced",
       "description": "Learn all about the Javacript language specifications with this official ECMA-262 bible.",
-      "url": "http://www.ecma-international.org/publications/files/ECMA-ST/Ecma-262.pdf",
+      "url": "https://www.ecma-international.org/publications/files/ECMA-ST/Ecma-262.pdf",
       "cover": "javascript/ecma-262.jpg",
       "tags": [
         "core"
@@ -620,31 +583,13 @@
       "size": ""
     },
     {
-      "id": 10047,
-      "title": "Understanding ECMAScript 6",
-      "author": "Nicholas C. Zakas",
-      "authorUrl": "http://www.nczonline.net",
-      "level": "Intermediate",
-      "description": "ECMAScript 6 is coming, are you ready? There's a lot of new concepts to learn and understand. Get a headstart with this book!",
-      "url": "https://leanpub.com/understandinges6/read/",
-      "cover": "javascript/understandinges6.jpg",
-      "tags": [
-        "core"
-      ],
-      "license": "n/a",
-      "type": "web",
-      "pages": "",
-      "year": "",
-      "size": ""
-    },
-    {
       "id": 10049,
       "title": "Javascript Challenges",
       "author": "Tomas Corral",
       "authorUrl": "http://javascriptnews.overblog.com/",
       "level": "Intermediate",
       "description": "A book to challenge your knowledge about the most obscure parts of Javascript. Learn with us and don't be afraid again of Javascript.",
-      "url": "https://github.com/tcorral/javascript-challenges-book",
+      "url": "http://tcorral.github.io/javascript-challenges-book/",
       "cover": "javascript/javascript_challenges.jpg",
       "tags": [
         "core"
@@ -738,7 +683,7 @@
       "authorUrl": "https://twitter.com/drboolean",
       "level": "Intermediate",
       "description": "Pure Happiness with Pure Functions",
-      "url": "https://github.com/DrBoolean/mostly-adequate-guide",
+      "url": "https://mostly-adequate.gitbooks.io/mostly-adequate-guide/",
       "cover": "javascript/cover_mostly-adequate-guide.jpg",
       "tags": [
         "fp"
@@ -800,26 +745,6 @@
         "es2016",
         "es2017",
         "core"
-      ],
-      "license": "n/a",
-      "type": "web",
-      "pages": "",
-      "year": "",
-      "size": ""
-    },
-    {
-      "id": 10076,
-      "title": "The JavaScript Way",
-      "author": "Baptiste Pesquet",
-      "authorUrl": "http://bpesquet.com",
-      "level": "Beginner",
-      "description": "A modern introduction to an essential language: beginner-friendly yet comprehensive, standards-aligned, hands-on and easy to follow.",
-      "url": "https://github.com/bpesquet/thejsway",
-      "cover": "javascript/cover_thejsway.png",
-      "tags": [
-        "core",
-        "es6",
-        "es2015"
       ],
       "license": "n/a",
       "type": "web",

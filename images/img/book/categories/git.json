@@ -42,7 +42,7 @@
     "authorUrl": "null",
     "level": "All",
     "description": "Welcome to Git - the fast, distributed version control system.This book is meant to be a starting point for people new to Git to learn it as quickly and easily as possible.This book will start out by introducing you to the way Git stores data, to give you the context for why it is different than other VCS tools. This is meant to take you about 20 minutes.",
-    "type": "pdf",
+    "type": "web",
     "cover": "git/14003.png",
     "tags": [
       "Git"
