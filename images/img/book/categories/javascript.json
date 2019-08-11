@@ -168,7 +168,7 @@
       "authorUrl": "http://spencertipping.com/",
       "level": "Advanced",
       "description": "This guide is for anyone who knows some Javascript but would like a quick intro to its advanced features.",
-      "url": "https://github.com/spencertipping/js-in-ten-minutes/blob/master/js-in-ten-minutes.pdf",
+      "url": "https://github.com/spencertipping/js-in-ten-minutes/blob/master/js-in-ten-minutes.pdf?file=p",
       "cover": "javascript/cover_js10minutes.png",
       "tags": [
         "JS"

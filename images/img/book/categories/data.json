@@ -129,7 +129,7 @@
 	"type": "web",
 	"cover": "cover/cover10.jpg",
 	"license": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported",
-	"url": "https://inventwithpython.com/makinggames.pdf",
+	"url": "https://inventwithpython.com/makinggames.pdf?file=p",
 	"pages": "365 Pages",
     "year": "2012",
     "size": "4.6 MB"
@@ -189,7 +189,7 @@
 	"type": "web",
 	"cover": "cover/cover14.jpg",
 	"license": "Creative Commons Attribution-NonCommercial-NoDerivs 3.0 United States",
-	"url": "http://programmingcomputervision.com/downloads/ProgrammingComputerVision_CCdraft.pdf",
+	"url": "http://programmingcomputervision.com/downloads/ProgrammingComputerVision_CCdraft.pdf?file=p",
 	"pages": "300 Pages",
     "year": "2012",
     "size": "13.6 MB"
@@ -324,7 +324,7 @@
 	"type": "web",
 	"cover": "cover/cover27.jpg",
 	"license": "n/a",
-	"url": "http://librta.org/downloads/LAD.pdf",
+	"url": "http://librta.org/downloads/LAD.pdf?file=p",
 	"pages": "388 Pages",
     "year": "2007",
     "size": "11.9 MB"
@@ -396,7 +396,7 @@
 	"authorUrl": "null",
 	"level": "null",
 	"description": "null",
-	"type": "web",
+	"type": "pdf",
 	"cover": "cover/cover33.jpg",
 	"license": "Creative Commons Attribution-NonCommercial 3.0 Unported",
 	"url": "https://www.openmymind.net/mongodb.pdf",
@@ -429,7 +429,7 @@
 	"type": "web",
 	"cover": "cover/cover35.jpg",
 	"license": "Standard Copyright License",
-	"url": "http://webdam.inria.fr/Alice/pdfs/all.pdf",
+	"url": "http://webdam.inria.fr/Alice/pdfs/all.pdf?file=p",
 	"pages": "678 Pages",
     "year": "2017",
     "size": "3.0 MB"
@@ -504,7 +504,7 @@
 	"type": "web",
 	"cover": "cover/cover43.jpg",
 	"license": "Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported",
-	"url": "http://onyxneon.com/books/modern_perl/modern_perl_a4.pdf",
+	"url": "http://onyxneon.com/books/modern_perl/modern_perl_a4.pdf?file=p",
 	"pages": "209 Pages",
     "year": "2014",
     "size": "791 kB"
@@ -519,7 +519,7 @@
 	"type": "web",
 	"cover": "cover/cover44.jpg",
 	"license": "Standard Copyright License",
-	"url": "http://www.red-book.eu/m/documents/syssec_red_book.pdf",
+	"url": "http://www.red-book.eu/m/documents/syssec_red_book.pdf?file=p",
 	"pages": "194 Pages",
     "year": "2013",
     "size": "1.4 MB"
