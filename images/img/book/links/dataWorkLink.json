@@ -166,5 +166,19 @@
   "p2": "BLACKBEANS Black beans are not as great as soybeans, but still they contain 9 grams of protein per 100 grams of beans. PEAS Peas are loaded with protein! 100 grams of peas delivers nearly 7 grams of protein. Did you know that pea soup is a very common recipe in the Netherlands? It’s a healthy and tasty way to keep your protein levels up to standards.",
   "p3": "BROCCOLI Broccoli is a must in every diet. It’s packed with healthy vitamins and minerals. But did you know that broccoli relatively contain more protein than carbohydrates and fats? 100 grams of broccoli contain 3.3 grams of protein.",
   "p4": "BEAN SPROUTS Never forget to add bean sprouts to your Asian meal! This vegetable is very healthy, full of vitamins B, C and fibers. But bean sprouts also contain 7 grams of protein per 100 grams."
+  },
+  {
+  "id": 12,
+  "time": "Posted on 18 October 2019",
+  "type": "Nutrition",
+  "title": "This is not article.",
+  "content": "To provide your body and muscles with enough protein ...",
+  "min": "4 min read",
+  "cover": "",
+  "url": "",
+  "p1": "To provide your body and muscles with enough protein, people usually eat a lot of meat, fish or low-fat cottage cheese. But maybe you like to try something different than your regular chicken or tuna salad. In this blogpost we write about six vegetables that are relatively high in protein. SOYBEANS Soy beansSoybeans are low in carbohydrates and fats but they contain a lot of protein! With a whopping 37 grams of protein per 100 grams of beans they contain more protein than meat. You can also try a daily portion of soy milk or soy yoghurt, but beware that these may contain added sugars as well. Read more about soybeans.",
+  "p2": "BLACKBEANS Black beans are not as great as soybeans, but still they contain 9 grams of protein per 100 grams of beans. PEAS Peas are loaded with protein! 100 grams of peas delivers nearly 7 grams of protein. Did you know that pea soup is a very common recipe in the Netherlands? It’s a healthy and tasty way to keep your protein levels up to standards.",
+  "p3": "BROCCOLI Broccoli is a must in every diet. It’s packed with healthy vitamins and minerals. But did you know that broccoli relatively contain more protein than carbohydrates and fats? 100 grams of broccoli contain 3.3 grams of protein.",
+  "p4": "BEAN SPROUTS Never forget to add bean sprouts to your Asian meal! This vegetable is very healthy, full of vitamins B, C and fibers. But bean sprouts also contain 7 grams of protein per 100 grams."
   }
 ]
