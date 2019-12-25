@@ -1,20 +1,5 @@
 [
 	{
-	"id": 1,
-	"title": "Eloquent JavaScript, Second Edition - A Modern Introduction to Programming",
-	"author": "No Starch Press",
-	"authorUrl": "null",
-	"level": "null",
-	"description": "null",
-	"type": "pdf",
-	"cover": "cover/cover1.jpg",
-	"license": "Creative Commons Attribution-NonCommercial 3.0 Unported",
-	"url": "https://eloquentjavascript.net/Eloquent_JavaScript.pdf",
-	"pages": "448 Pages",
-    "year": "2018",
-    "size": "2.2 MB"
-	},
-	{
 	"id": 2,
 	"title": "Learning JavaScript Design Patterns (Version 1.62)",
 	"author": "O’Reilly Media, Inc.",
