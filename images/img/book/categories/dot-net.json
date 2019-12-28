@@ -1,0 +1,61 @@
+[
+    {
+    "id": 20001,
+    "title": ".NET Book Zero: What the C or C++ Programmer Needs to Know about C# and the .NET Framework",
+    "author": "Charles Petzold",
+    "authorUrl": "http://www.charlespetzold.com/dotnet/index.html",
+    "level": "All",
+    "description": "An introduction to C# and the Microsoft .NET Framework for programmers who have experience with C or C++.",
+    "type": "pdf",
+    "cover": "dot-net/20001.jpg",
+    "tags": [
+      ".NET",
+      "C",
+      "C++",
+      "C#"
+    ],
+    "license": "n/a",
+    "url": "https://www.charlespetzold.com/dotnet/DotNetBookZero11.pdf",
+    "pages": "267 Pages",
+    "year": "2007",
+    "size": "1.2 MB"
+    },
+    {
+    "id": 20002,
+    "title": "C# Programming Yellow Book, The Cheese Edition",
+    "author": "Rob Miles",
+    "authorUrl": "null",
+    "level": "All",
+    "description": "An introduction to computer programming using C# language used by the Department of Computer Science in the University of Hull as the basis of the First Year programming course.",
+    "type": "pdf",
+    "cover": "dot-net/20002.png",
+    "tags": [
+      "Microsoft .NET",
+      "C#"
+    ],
+    "license": "n/a",
+    "url": "https://static1.squarespace.com/static/5019271be4b0807297e8f404/t/5df9306ec60881645ea57ced/1576611956760/CSharp+Book+2019+Refresh.pdf",
+    "pages": "217 Pages",
+    "year": "2019",
+    "size": "1.9 MB"
+    },
+    {
+    "id": 20003,
+    "title": "Dissecting a CSharp Application: Inside SharpDevelop",
+    "author": "Wrox Press",
+    "authorUrl": "http://www.wrox.com/",
+    "level": "All",
+    "description": "This book teaches advanced .NET programming techniques by getting an insiders' look at SharpDevelop, a complete Integrated Development Environment written in C#.",
+    "type": "pdf",
+    "cover": "dot-net/20003.png",
+    "tags": [
+      "Microsoft .NET",
+      "C#"
+    ],
+    "license": "n/a",
+    "url": "https://everobotics.org/pdf/Dissecting_A_CSharp_Application.pdf",
+    "pages": "528 Pages",
+    "year": "2003",
+    "size": "3.8 MB"
+    }
+]

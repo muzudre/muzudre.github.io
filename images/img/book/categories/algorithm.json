@@ -88,5 +88,23 @@
     "pages": "299 Pages",
     "year": "2011",
     "size": "1.2 MB"
+    },
+    {
+    "id": 18006,
+    "title": "Notes for the Course of Algorithms",
+    "author": "Dave Mount",
+    "authorUrl": "null",
+    "level": "All",
+    "description": "What is algorithm design? An algorithm was defined to be any well-defined computational procedure that takes some values as input and produces some values as output. Like a cooking recipe, an algorithm provides a step-by-step method for solving a computational problem.",
+    "type": "pdf",
+    "cover": "algorithm/18006.png",
+    "tags": [
+      "Algorithms and Data Structures"
+    ],
+    "license": "n/a",
+    "url": "https://www.cs.umd.edu/~mount/251/Lects/251lects.pdf",
+    "pages": "93 Pages",
+    "year": "1998",
+    "size": "513 kB"
     }
 ]

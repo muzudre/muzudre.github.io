@@ -184,5 +184,24 @@
     "pages": "160 Pages",
     "year": "2016",
     "size": "935.7 kB"
+    },
+    {
+    "id": 40011,
+    "title": "C Programming Tutorial (K&R version 4)",
+    "author": "Mark Burgess",
+    "authorUrl": "https://twitter.com/markburgess_osl",
+    "level": "All",
+    "description": "Every program is limited by the language which is used to write it. C is a programmer's language. Unlike BASIC or Pascal, C was not written as a teaching aid, but as an implementation language. C is a computer language and a programming tool which has grown popular because programmers like it! It is a tricky language but a masterful one. Sceptics have said that it is a language in which everything which can go wrong does go wrong. True, it does not do much hand holding, but also it does not hold anything back. If you have come to C in the hope of finding a powerful language for writing everyday computer programs, then you will not be disappointed. C is ideally suited to modern computers and modern programming.",
+    "type": "pdf",
+    "cover": "c/40011.png",
+    "tags": [
+      "C ",
+      "C++"
+    ],
+    "license": "",
+    "url": "http://markburgess.org/CTutorial/C-Tut-4.02.pdf",
+    "pages": "410 Pages",
+    "year": "1999",
+    "size": "2.2 MB"
     }
 ]

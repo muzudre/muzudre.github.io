@@ -1,0 +1,97 @@
+[
+    {
+    "id": 21001,
+    "title": "Issues in Open Research Data",
+    "author": "Ubiquity Press Ltd.",
+    "authorUrl": "http://www.ubiquitypress.com/",
+    "level": "All",
+    "description": "This book is intended to be an introduction to some of the issues surrounding open research data in a range of academic disciplines. It primarily contains newly written opinion pieces, but also a handful of articles previously published elsewhere (with the authors’ permission in each instance). Importantly, the book is meant to start a conversation around open data, rather than provide a definitive account of how and why data should be shared. The book is open access, published under the Creative Com- mons Attribution License (CC BY), to facilitate further debate and allow the contents to be easily and widely spread. Readers are encouraged to reuse, build upon and remix each chapter; repository managers, data curators and other communities are encour- aged to detach and distribute the chapters most relevant to them to their peers and colleagues.",
+    "type": "pdf",
+    "cover": "open-data/21001.jpg",
+    "tags": [
+      "Open Data",
+      "Research"
+    ],
+    "license": "Creative Commons Attribution 3.0 Unported",
+    "url": "open-data/pdf/21001.pdf",
+    "pages": "172 Pages",
+    "year": "2014",
+    "size": "14.2 MB"
+    },
+    {
+    "id": 21002,
+    "title": "Linked Open Data - Creating Knowledge Out of Interlinked Data: Results of the LOD2 Project",
+    "author": "Springer-Verlag GmbH",
+    "authorUrl": "http://www.springer.com/",
+    "level": "All",
+    "description": "Presents an overview of the results of the 4-year research project 'LOD2 – Creating Knowledge out of Interlinked Data', the goal of which was realizing the Semantic Web vision of making the Web a global, distributed, semantics-based information system.",
+    "type": "pdf",
+    "cover": "open-data/21002.jpg",
+    "tags": [
+      "Linked Open Data",
+      "Research"
+    ],
+    "license": "Creative Commons Attribution-NonCommercial 4.0 International",
+    "url": "https://link.springer.com/content/pdf/10.1007%2F978-3-319-09846-3.pdf",
+    "pages": "218 Pages",
+    "year": "2014",
+    "size": "39 MB"
+    },
+    {
+    "id": 21003,
+    "title": "Open Access",
+    "author": "The MIT Press",
+    "authorUrl": "https://mitpress.mit.edu/",
+    "level": "All",
+    "description": "A concise introduction to open access, covers what open access is and isn't, how it benefits authors and readers of research, how it has moved from the periphery to the mainstream, and what its future may hold.",
+    "type": "pdf",
+    "cover": "open-data/21003.jpg",
+    "tags": [
+      "Open Data",
+      "Research"
+    ],
+    "license": "Creative Commons Attribution-NonCommercial 3.0 Unported",
+    "url": "https://www.recolecta.fecyt.es/sites/default/files/contenido/documentos/Open_Access.pdf",
+    "pages": "255 Pages",
+    "year": "2012",
+    "size": "1.5 MB"
+    },
+    {
+    "id": 21004,
+    "title": "Opening Science: The Evolving Guide on How the Internet is Changing Research, Collaboration and Scholarly Publishing",
+    "author": "Springer-Verlag GmbH",
+    "authorUrl": "http://www.springer.com/",
+    "level": "All",
+    "description": "This book provides researchers, decision makers, and other scientific stakeholders with a snapshot of the basics, the tools, and the underlying visions that drive the current scientific (r)evolution, often called Open Science.",
+    "type": "pdf",
+    "cover": "open-data/21004.jpg",
+    "tags": [
+      "Open Science",
+      "Research"
+    ],
+    "license": "Creative Commons Attribution-NonCommercial 4.0 International",
+    "url": "http://link.springer.com/content/pdf/10.1007%2F978-3-319-00026-8.pdf",
+    "pages": "325 Pages",
+    "year": "2014",
+    "size": "5.3 MB"
+    },
+    {
+    "id": 21005,
+    "title": "Open Government: Collaboration, Transparency, and Participation in Practice",
+    "author": "O’Reilly Media, Inc.",
+    "authorUrl": "http://www.oreilly.com/",
+    "level": "All",
+    "description": "Through a collection of essays and case studies, leading visionaries and practitioners both inside and outside of government share their ideas on how to achieve and direct this emerging world of online collaboration, transparency, and participation.",
+    "type": "web",
+    "cover": "open-data/21005.jpg",
+    "tags": [
+      "Open Data",
+      "Research"
+    ],
+    "license": "Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported",
+    "url": "https://github.com/oreillymedia/open_government",
+    "pages": "432 Pages",
+    "year": "2010",
+    "size": "0 MB"
+    }
+]

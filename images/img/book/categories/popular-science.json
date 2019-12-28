@@ -1,0 +1,38 @@
+[
+    {
+    "id": 22001,
+    "title": "Sustainable Energy - Without the Hot Air",
+    "author": "UIT Cambridge Ltd",
+    "authorUrl": "http://www.uit.co.uk/",
+    "level": "All",
+    "description": "Addressing the sustainable energy crisis in an objective manner, this book analyzes the relevant numbers and organizes a plan for change on both a personal level and an international scale—for Europe, the United States, and the world.",
+    "type": "pdf",
+    "cover": "popular-science/22001.jpg",
+    "tags": [
+      "Popular Science"
+    ],
+    "license": "Creative Commons Attribution-NonCommercial-ShareAlike 2.0 UK: England & Wales",
+    "url": "https://www.inference.org.uk/sustainable/book/tex/sewtha.pdf",
+    "pages": "383 Pages",
+    "year": "2018",
+    "size": "14 MB"
+    },
+    {
+    "id": 22002,
+    "title": "The Art of Insight in Science and Engineering: Mastering Complexity",
+    "author": "The MIT Press",
+    "authorUrl": "https://mitpress.mit.edu/",
+    "level": "All",
+    "description": "To master complexity, we can organize it or discard it. This book first teaches the tools for organizing complexity, then distinguishes the two paths for discarding complexity: with and without loss of information.",
+    "type": "pdf",
+    "cover": "popular-science/22002.jpg",
+    "tags": [
+      "Popular Science"
+    ],
+    "license": "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International",
+    "url": "https://ocw.mit.edu/resources/res-6-011-the-art-of-insight-in-science-and-engineering-mastering-complexity-fall-2014/online-textbook/MITRES_6-011F14_art_insfin.pdf",
+    "pages": "410 Pages",
+    "year": "2014",
+    "size": "8.3 MB"
+    }
+]
