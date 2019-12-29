@@ -17,5 +17,24 @@
     "pages": "325 Pages",
     "year": "2017",
     "size": "8.2 MB"
+    },
+    {
+    "id": 19002,
+    "title": "Resilient Web Design",
+    "author": "Self-publishing",
+    "authorUrl": "https://en.wikipedia.org/wiki/Self-publishing",
+    "level": "All",
+    "description": "A history book of robust website design.",
+    "type": "web",
+    "cover": "ui-ux/19002.jpg",
+    "tags": [
+      "Web Design and Development",
+      "UX"
+    ],
+    "license": "Creative Commons Attribution-ShareAlike 4.0 International",
+    "url": "https://resilientwebdesign.com/#Resilientweb%20design",
+    "pages": "150 Pages",
+    "year": "2016",
+    "size": "0 MB"
     }
 ]
