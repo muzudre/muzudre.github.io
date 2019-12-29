@@ -1,0 +1,24 @@
+[
+    {
+    "id": 23001,
+    "title": "Regular Expressions Cheat Sheet",
+    "author": "DaveChild",
+    "authorUrl": "http://www.cheatography.com/davechild/",
+    "level": "all",
+    "description": "A quick reference guide for regular expressions (regex), including symbols, ranges, grouping, assertions and some sample patterns to get you started.",
+    "type": "pdf",
+    "cover": "cheatsheet/23001.png",
+    "tags": [
+      "development",
+      "regex",
+      "regular",
+      "expressions",
+      "programming"
+    ],
+    "license": "Cheat Sheet by DaveChild",
+    "url": "https://www.cheatography.com/davechild/cheat-sheets/regular-expressions/pdf/",
+    "pages": "1 Pages",
+    "year": "2011",
+    "size": "43 kB"
+    }
+]
