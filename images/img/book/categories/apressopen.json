@@ -1,0 +1,557 @@
+[
+    {
+        "id": 22001,
+        "title": "Programming Persistent Memory",
+        "author": "Scargall, Steve",
+        "authorUrl": "",
+        "level": "All",
+        "description": "Programming Persistent Memory describes the technology and why it is exciting the industry. It covers the operating system and hardware requirements as well as how to create development environments using emulated or real persistent memory hardware. The book explains fundamental concepts; provides an introduction to persistent memory programming APIs for C, C++, JavaScript, and other languages; discusses RMDA with persistent memory; reviews security features; and presents many examples. Source code and examples that you can run on your own systems are included.",
+        "type": "pdf",
+        "cover": "apressopen/22001.jpg",
+        "tags": [
+          "C",
+          "C++",
+          "Java",
+          "Python"
+        ],
+        "license": "Creative Commons Attribution 4.0 International License",
+        "url": "https://link.springer.com/content/pdf/10.1007%2F978-1-4842-4932-1.pdf",
+        "pages": "457 Pages",
+        "year": "2020",
+        "size": "9.3 MB"
+    },
+    {
+        "id": 22002,
+        "title": "Pro TBB",
+        "author": "Voss, Michael, Asenjo, Rafael, Reinders, James",
+        "authorUrl": "",
+        "level": "All",
+        "description": "This open access book is a modern guide for all C++ programmers to learn Threading Building Blocks (TBB). Written by TBB and parallel programming experts, this book reflects their collective decades of experience in developing and teaching parallel programming with TBB, offering their insights in an approachable manner. Throughout the book the authors present numerous examples and best practices to help you become an effective TBB programmer and leverage the power of parallel systems. ",
+        "type": "pdf",
+        "cover": "apressopen/22002.jpg",
+        "tags": [
+          "C++",
+          "C"
+        ],
+        "license": "Creative Commons Attribution 4.0 International License",
+        "url": "https://link.springer.com/content/pdf/10.1007%2F978-1-4842-4398-5.pdf",
+        "pages": "807 Pages",
+        "year": "2019",
+        "size": "128.2 MB"
+    },
+    {
+        "id": 22003,
+        "title": "Demystifying Internet of Things Security",
+        "author": "Cheruvu, S., Kumar, A., Smith, N., Wheeler, D.M.",
+        "authorUrl": "",
+        "level": "All",
+        "description": "Break down the misconceptions of the Internet of Things by examining the different security building blocks available in Intel Architecture (IA) based IoT platforms. This open access book reviews the threat pyramid, secure boot, chain of trust, and the SW stack leading up to defense-in-depth. The IoT presents unique challenges in implementing security and Intel has both CPU and Isolated Security Engine capabilities to simplify it. This book explores the challenges to secure these devices to make them immune to different threats originating from within and outside the network. The requirements and robustness rules to protect the assets vary greatly and there is no single blanket solution approach to implement security.",
+        "type": "pdf",
+        "cover": "apressopen/22003.jpg",
+        "tags": [
+          "Strategists",
+          "Developers",
+          "Architects",
+          "Managers"
+        ],
+        "license": "Creative Commons Attribution 4.0 International License",
+        "url": "https://link.springer.com/content/pdf/10.1007%2F978-1-4842-2896-8.pdf",
+        "pages": "515 Pages",
+        "year": "2020",
+        "size": "9.5 MB"
+    },
+    {
+        "id": 2204,
+        "title": "Rethinking Productivity in Software Engineering",
+        "author": "Sadowski, Caitlin, Zimmermann, Thomas (Eds.)",
+        "authorUrl": "",
+        "level": "All",
+        "description": "Get the most out of this foundational reference and improve the productivity of your software teams. This open access book collects the wisdom of the 2017 Dagstuhl seminar on productivity in software engineering, a meeting of community leaders, who came together with the goal of rethinking traditional definitions and measures of productivity.",
+        "type": "pdf",
+        "cover": "apressopen/22004.jpg",
+        "tags": [
+          "Industry developers"
+        ],
+        "license": "Creative Commons Attribution 4.0 International License",
+        "url": "https://link.springer.com/content/pdf/10.1007%2F978-1-4842-4221-6.pdf",
+        "pages": "320 Pages",
+        "year": "2019",
+        "size": "5.2 MB"
+    },
+    {
+        "id": 22005,
+        "title": "Ray Tracing Gems",
+        "author": "Haines, Eric, Akenine-Moller, Tomas (Eds.)",
+        "authorUrl": "",
+        "level": "All",
+        "description": "This book is a must-have for anyone serious about rendering in real time. With the announcement of new ray tracing APIs and hardware to support them, developers can easily create real-time applications with ray tracing as a core component. As ray tracing on the GPU becomes faster, it will play a more central role in real-time rendering. Ray Tracing Gems provides key building blocks for developers of games, architectural applications, visualizations, and more. Experts in rendering share their knowledge by explaining everything from nitty-gritty techniques that will improve any ray tracer to mastery of the new capabilities of current and future hardware.",
+        "type": "pdf",
+        "cover": "apressopen/22005.jpg",
+        "tags": [
+          "APIs",
+          "GPU"
+        ],
+        "license": "Creative Commons Attribution 4.0 International License",
+        "url": "https://link.springer.com/content/pdf/10.1007%2F978-1-4842-4427-2.pdf",
+        "pages": "622 Pages",
+        "year": "2019",
+        "size": "34.3 MB"
+    },
+    {
+        "id": 22006,
+        "title": "Fashion Figures",
+        "author": "Borza, Melissa A.",
+        "authorUrl": "",
+        "level": "All",
+        "description": "Missy Maker is a middle school girl who loves math and fashion. She sees math in everything she does. She tries to hide this from her friends, because she thinks it’s too geeky. Missy hears that the school math club needs more members, but she’s worried about what her friends will think if she joins, and she’s already committed to joining the fashion club.",
+        "type": "pdf",
+        "cover": "apressopen/22006.jpg",
+        "tags": [
+          "Girls can have a passion for STEM",
+          "Girls can be great at math",
+          "Math can be fun"
+        ],
+        "license": "Creative Commons Attribution 4.0 International License",
+        "url": "https://link.springer.com/content/pdf/10.1007%2F978-1-4842-2274-4.pdf",
+        "pages": "110 Pages",
+        "year": "2017",
+        "size": "3.5 MB"
+    },
+    {
+        "id": 22007,
+        "title": "DevOps for Digital Leaders",
+        "author": "Ravichandran, Aruna, Taylor, Kieran, Waterhouse, Peter",
+        "authorUrl": "",
+        "level": "All",
+        "description": "Learn to design, implement, measure, and improve DevOps programs that are tailored to your organization. This concise guide assists leaders who are accountable for the rapid development of high-quality software applications.",
+        "type": "pdf",
+        "cover": "apressopen/22007.jpg",
+        "tags": [
+          "DevOps",
+          "IT leaders"
+        ],
+        "license": "Creative Commons Attribution 4.0 International License",
+        "url": "https://link.springer.com/content/pdf/10.1007%2F978-1-4842-1842-6.pdf",
+        "pages": "176 Pages",
+        "year": "2016",
+        "size": "7.4 MB"
+    },
+    {
+        "id": 22008,
+        "title": "Managing Risk and Information Security",
+        "author": "Harkins, Malcolm W.",
+        "authorUrl": "",
+        "level": "All",
+        "description": "Examine the evolving enterprise security landscape and discover how to manage and survive risk. While based primarily on the author’s experience and insights at major companies where he has served as CISO and CSPO, the book also includes many examples from other well-known companies and provides guidance for a management-level audience.",
+        "type": "pdf",
+        "cover": "apressopen/22008.jpg",
+        "tags": [
+          "CIOs",
+          "IT leaders"
+        ],
+        "license": "Creative Commons Attribution 4.0 International License",
+        "url": "https://link.springer.com/content/pdf/10.1007%2F978-1-4842-1455-8.pdf",
+        "pages": "208 Pages",
+        "year": "2016",
+        "size": "11.9 MB"
+    },
+    {
+        "id": 22009,
+        "title": "Efficient Learning Machines",
+        "author": "Awad, Mariette, Khanna, Rahul",
+        "authorUrl": "",
+        "level": "All",
+        "description": "Machine learning techniques provide cost-effective alternatives to traditional methods for extracting underlying relationships between information and data and for predicting future events by processing existing information to train models. Efficient Learning Machines explores the major topics of machine learning, including knowledge discovery, classifications, genetic algorithms, neural networking, kernel methods, and biologically-inspired techniques.",
+        "type": "pdf",
+        "cover": "apressopen/22009.jpg",
+        "tags": [
+          "Engineers",
+          "System Designers"
+        ],
+        "license": "Creative Commons Attribution 4.0 International License",
+        "url": "https://link.springer.com/content/pdf/10.1007%2F978-1-4302-5990-9.pdf",
+        "pages": "263 Pages",
+        "year": "2015",
+        "size": "8.4 MB"
+    },
+    {
+        "id": 22010,
+        "title": "Energy Efficient Servers",
+        "author": "Gough, Corey, Steiner, Ian, Saunders, Winston",
+        "authorUrl": "",
+        "level": "All",
+        "description": "Energy Efficient Servers: Blueprints for Data Center Optimization introduces engineers and IT professionals to the power management technologies and techniques used in energy efficient servers. The book includes a deep examination of different features used in processors, memory, interconnects, I/O devices, and other platform components. It outlines the power and performance impact of these features and the role firmware and software play in initialization and control. Using examples from cloud, HPC, and enterprise environments, the book demonstrates how various power management technologies are utilized across a range of server utilization. It teaches the reader how to monitor, analyze, and optimize their environment to best suit their needs. It shares optimization techniques used by data center administrators and system optimization experts at the world’s most advanced data centers.",
+        "type": "pdf",
+        "cover": "apressopen/22010.jpg",
+        "tags": [
+          "Servers",
+          "Data Center"
+        ],
+        "license": "Creative Commons Attribution 4.0 International License",
+        "url": "https://link.springer.com/content/pdf/10.1007%2F978-1-4302-6638-9.pdf",
+        "pages": "347 Pages",
+        "year": "2015",
+        "size": "7.2 MB"
+    },
+    {
+        "id": 22011,
+        "title": "Embedded Firmware Solutions",
+        "author": "Zimmer, V., Sun, J., Jones, M., Reinauer, S.",
+        "authorUrl": "",
+        "level": "All",
+        "description": "Embedded Firmware Solutions is the perfect introduction and daily-use field guide--for the thousands of firmware designers, hardware engineers, architects, managers, and developers--to Intel’s new firmware direction (including Quark coverage), showing how to integrate Intel® Architecture designs into their plans.",
+        "type": "pdf",
+        "cover": "apressopen/22011.jpg",
+        "tags": [
+          "Firmware designers",
+          "Hardware engineers",
+          "Developers"
+        ],
+        "license": "Creative Commons Attribution 4.0 International License",
+        "url": "https://link.springer.com/content/pdf/10.1007%2F978-1-4842-0070-4.pdf",
+        "pages": "215 Pages",
+        "year": "2015",
+        "size": "5.9 MB"
+    },
+    {
+        "id": 22012,
+        "title": "A Practical Guide to TPM 2.0",
+        "author": "Arthur, Will, Challener, David",
+        "authorUrl": "",
+        "level": "All",
+        "description": "A Practical Guide to TPM 2.0: Using the Trusted Platform Module in the New Age of Security is a straight-forward primer for developers. It shows security and TPM concepts, demonstrating their use in real applications that the reader can try out.",
+        "type": "pdf",
+        "cover": "apressopen/22012.jpg",
+        "tags": [
+          "Security",
+          "Module"
+        ],
+        "license": "Creative Commons Attribution 4.0 International License",
+        "url": "https://link.springer.com/content/pdf/10.1007%2F978-1-4302-6584-9.pdf",
+        "pages": "375 Pages",
+        "year": "2015",
+        "size": "5.4 MB"
+    },
+    {
+        "id": 22013,
+        "title": "Pro Git",
+        "author": "Chacon, Scott, Straub, Ben",
+        "authorUrl": "",
+        "level": "All",
+        "description": "Pro Git (Second Edition) is your fully-updated guide to Git and its usage in the modern world. Git has come a long way since it was first developed by Linus Torvalds for Linux kernel development. It has taken the open source world by storm since its inception in 2005, and this book teaches you how to use it like a pro.",
+        "type": "pdf",
+        "cover": "apressopen/22013.jpg",
+        "tags": [
+          "Git"
+        ],
+        "license": "Creative Commons Attribution 4.0 International License",
+        "url": "https://link.springer.com/content/pdf/10.1007%2F978-1-4842-0076-6.pdf",
+        "pages": "441 Pages",
+        "year": "2014",
+        "size": "10.4 MB"
+    },
+    {
+        "id": 22014,
+        "title": "Intel Galileo and Intel Galileo Gen 2",
+        "author": "Ramon, Manoel",
+        "authorUrl": "",
+        "level": "All",
+        "description": "Intel® Galileo and Intel® Galileo Gen 2: API Features and Arduino Projects for Linux Programmers provides detailed information about Intel® Galileo and Intel® Galileo Gen 2 boards for all software developers interested in Arduino and the Linux platform. The book covers the new Arduino APIs and is an introduction for developers on natively using Linux.",
+        "type": "pdf",
+        "cover": "apressopen/22014.jpg",
+        "tags": [
+          "API Features",
+          "Arduino Projects",
+          "Linux"
+        ],
+        "license": "Creative Commons Attribution 4.0 International License",
+        "url": "https://link.springer.com/content/pdf/10.1007%2F978-1-4302-6838-3.pdf",
+        "pages": "665 Pages",
+        "year": "2014",
+        "size": "16.8 MB"
+    },
+    {
+        "id": 22015,
+        "title": "Digital Video Concepts, Methods, and Metrics",
+        "author": "Akramullah, Shahriar",
+        "authorUrl": "",
+        "level": "All",
+        "description": "Digital Video Concepts, Methods, and Metrics: Quality, Compression, Performance, and Power Trade-off Analysis is a concise reference for professionals in a wide range of applications and vocations. It focuses on giving the reader mastery over the concepts, methods and metrics of digital video coding, so that readers have sufficient understanding to choose and tune coding parameters for optimum results that would suit their particular needs for quality, compression, speed and power.",
+        "type": "pdf",
+        "cover": "apressopen/22015.jpg",
+        "tags": [
+          "Quality",
+          "Compression",
+          "Performance",
+          "Power Trade-off Analysis"
+        ],
+        "license": "Creative Commons Attribution 4.0 International License",
+        "url": "https://link.springer.com/content/pdf/10.1007%2F978-1-4302-6713-3.pdf",
+        "pages": "359 Pages",
+        "year": "2014",
+        "size": "9.1 MB"
+    },
+    {
+        "id": 22016,
+        "title": "Optimizing HPC Applications with Intel Cluster Tools",
+        "author": "Supalov, A., Semin, A., Dahnken, C., Klemm, M.",
+        "authorUrl": "",
+        "level": "All",
+        "description": "Optimizing HPC Applications with Intel® Cluster Tools takes the reader on a tour of the fast-growing area of high performance computing and the optimization of hybrid programs. These programs typically combine distributed memory and shared memory programming models and use the Message Passing Interface (MPI) and OpenMP for multi-threading to achieve the ultimate goal of high performance at low power consumption on enterprise-class workstations and compute clusters.",
+        "type": "pdf",
+        "cover": "apressopen/22016.jpg",
+        "tags": [
+          "Hunting Petaflops",
+          "Intel"
+        ],
+        "license": "Creative Commons Attribution 4.0 International License",
+        "url": "https://link.springer.com/content/pdf/10.1007%2F978-1-4302-6497-2.pdf",
+        "pages": "291 Pages",
+        "year": "2014",
+        "size": "6.9 MB"
+    },
+    {
+        "id": 22017,
+        "title": "The InfoSec Handbook",
+        "author": "Nayak, Umesha, Rao, Umesh Hodeghatta",
+        "authorUrl": "",
+        "level": "All",
+        "description": "The InfoSec Handbook offers the reader an organized layout of information that is easily read and understood. Allowing beginners to enter the field and understand the key concepts and ideas, while still keeping the experienced readers updated on topics and concepts.",
+        "type": "pdf",
+        "cover": "apressopen/22017.jpg",
+        "tags": [
+          "Information Security"
+        ],
+        "license": "Creative Commons Attribution 4.0 International License",
+        "url": "https://link.springer.com/content/pdf/10.1007%2F978-1-4302-6383-8.pdf",
+        "pages": "376 Pages",
+        "year": "2014",
+        "size": "11.2 MB"
+    },
+    {
+        "id": 22018,
+        "title": "Android Application Development for the Intel Platform",
+        "author": "Cohen, Ryan, Wang, Tao",
+        "authorUrl": "",
+        "level": "All",
+        "description": "The number of Android devices running on Intel processors has increased since Intel and Google announced, in late 2011, that they would be working together to optimize future versions of Android for Intel Atom processors. Today, Intel processors can be found in Android smartphones and tablets made by some of the top manufacturers of Android devices, such as Samsung, Lenovo, and Asus.",
+        "type": "pdf",
+        "cover": "apressopen/22018.jpg",
+        "tags": [
+          "Android",
+          "Intel"
+        ],
+        "license": "Creative Commons Attribution 4.0 International License",
+        "url": "https://link.springer.com/content/pdf/10.1007%2F978-1-4842-0100-8.pdf",
+        "pages": "508 Pages",
+        "year": "2014",
+        "size": "22.2 MB"
+    },
+    {
+        "id": 22019,
+        "title": "GUI Design for Android Apps",
+        "author": "Cohen, Ryan, Wang, Tao",
+        "authorUrl": "",
+        "level": "All",
+        "description": "GUI Design for Android Apps is the perfect—and concise—introduction for mobile app developers and designers. Through easy-to-follow tutorials, code samples, and case studies, the book shows the must-know principles for user-interface design for Android apps running on the Intel platform, including smartphones, tablets and embedded devices.",
+        "type": "pdf",
+        "cover": "apressopen/22019.jpg",
+        "tags": [
+          "Android",
+          "GUI Design"
+        ],
+        "license": "Creative Commons Attribution 4.0 International License",
+        "url": "https://link.springer.com/content/pdf/10.1007%2F978-1-4842-0382-8.pdf",
+        "pages": "147 Pages",
+        "year": "2014",
+        "size": "5.6 MB"
+    },
+    {
+        "id": 22020,
+        "title": "Platform Embedded Security Technology Revealed",
+        "author": "Ruan, Xiaoyu",
+        "authorUrl": "",
+        "level": "All",
+        "description": "Platform Embedded Security Technology Revealed is an in-depth introduction to Intel’s platform embedded solution: the security and management engine. The engine is shipped inside most Intel platforms for servers, personal computers, tablets, and smartphones. The engine realizes advanced security and management functionalities and protects applications’ secrets and users’ privacy in a secure, light-weight, and inexpensive way. Besides native built-in features, it allows third-party software vendors to develop applications that take advantage of the security infrastructures offered by the engine.",
+        "type": "pdf",
+        "cover": "apressopen/22020.jpg",
+        "tags": [
+          "Security",
+          "Management"
+        ],
+        "license": "Creative Commons Attribution 4.0 International License",
+        "url": "https://link.springer.com/content/pdf/10.1007%2F978-1-4302-6572-6.pdf",
+        "pages": "263 Pages",
+        "year": "2014",
+        "size": "4.3 MB"
+    },
+    {
+        "id": 22021,
+        "title": "Computer Vision Metrics",
+        "author": "Krig, Scott",
+        "authorUrl": "",
+        "level": "All",
+        "description": "Computer Vision Metrics provides an extensive survey and analysis of over 100 current and historical feature description and machine vision methods, with a detailed taxonomy for local, regional and global features. This book provides necessary background to develop intuition about why interest point detectors and feature descriptors actually work, how they are designed, with observations about tuning the methods for achieving robustness and invariance targets for specific applications. The survey is broader than it is deep, with over 540 references provided to dig deeper. The taxonomy includes search methods, spectra components, descriptor representation, shape, distance functions, accuracy, efficiency, robustness and invariance attributes, and more. Rather than providing ‘how-to’ source code examples and shortcuts, this book provides a counterpoint discussion to the many fine opencv community source code resources available for hands-on practitioners.",
+        "type": "pdf",
+        "cover": "apressopen/22021.jpg",
+        "tags": [
+          "Survey",
+          "Taxonomy",
+          "Analysis"
+        ],
+        "license": "Creative Commons Attribution 4.0 International License",
+        "url": "https://link.springer.com/content/pdf/10.1007%2F978-1-4302-5930-5.pdf",
+        "pages": "498 Pages",
+        "year": "2014",
+        "size": "16.6 MB"
+    },
+    {
+        "id": 22022,
+        "title": "Building the Infrastructure for Cloud Security",
+        "author": "Yeluri, Raghuram, Castro-Leon, Enrique",
+        "authorUrl": "",
+        "level": "All",
+        "description": "For cloud users and providers alike, security is an everyday concern, yet there are very few books covering cloud security as a main subject. This book will help address this information gap from an Information Technology solution and usage-centric view of cloud infrastructure security. The book highlights the fundamental technology components necessary to build and enable trusted clouds. Here also is an explanation of the security and compliance challenges organizations face as they migrate mission-critical applications to the cloud, and how trusted clouds, that have their integrity rooted in hardware, can address these challenges.",
+        "type": "pdf",
+        "cover": "apressopen/22022.jpg",
+        "tags": [
+          "Cloud",
+          "Security"
+        ],
+        "license": "Creative Commons Attribution 4.0 International License",
+        "url": "https://link.springer.com/content/pdf/10.1007%2F978-1-4302-6146-9.pdf",
+        "pages": "240 Pages",
+        "year": "2014",
+        "size": "8.8 MB"
+    },
+    {
+        "id": 22023,
+        "title": "The Privacy Engineer's Manifesto",
+        "author": "Dennedy, Michelle, Fox, Jonathan, Finneran, Tom",
+        "authorUrl": "",
+        "level": "All",
+        "description": "The Privacy Engineer's Manifesto is designed to serve multiple stakeholders: Anyone who is involved in designing, developing, deploying and reviewing products, processes, applications, and systems that process personal information, including software/hardware engineers, technical program and product managers, support and sales engineers, system integrators, IT professionals, lawyers, and information privacy and security professionals. This book is a must-read for all practitioners in the personal information economy.",
+        "type": "pdf",
+        "cover": "apressopen/22023.jpg",
+        "tags": [
+          "Security"
+        ],
+        "license": "Creative Commons Attribution 4.0 International License",
+        "url": "https://link.springer.com/content/pdf/10.1007%2F978-1-4302-6356-2.pdf",
+        "pages": "386 Pages",
+        "year": "2014",
+        "size": "7.6 MB"
+    },
+    {
+        "id": 22024,
+        "title": "Rethinking the Internet of Things",
+        "author": "daCosta, Francis, Henderson, Byron",
+        "authorUrl": "",
+        "level": "All",
+        "description": "Apress is proud to announce that Rethinking the Internet of Things was a 2014 Jolt Award Finalist, the highest honor for a programming book. And the amazing part is that there is no code in the book. Over the next decade, most devices connected to the Internet will not be used by people in the familiar way that personal computers, tablets and smart phones are. Billions of interconnected devices will be monitoring the environment, transportation systems, factories, farms, forests, utilities, soil and weather conditions, oceans and resources.",
+        "type": "pdf",
+        "cover": "apressopen/22024.jpg",
+        "tags": [
+          "Computer Communication Networks"
+        ],
+        "license": "Creative Commons Attribution 4.0 International License",
+        "url": "https://link.springer.com/content/pdf/10.1007%2F978-1-4302-5741-7.pdf",
+        "pages": "185 Pages",
+        "year": "2013",
+        "size": "7.4 MB"
+    },
+    {
+        "id": 22025,
+        "title": "Android on x86",
+        "author": "Krajci, Iggy, Cummings, Darren",
+        "authorUrl": "",
+        "level": "All",
+        "description": "Android on x86: an Introduction to Optimizing for Intel® Architecture serves two main purposes. First, it makes the case for adapting your applications onto Intel’s x86 architecture, including discussions of the business potential, the changing landscape of the Android marketplace, and the unique challenges and opportunities that arise from x86 devices. The fundamental idea is that extending your applications to support x86 or creating new ones is not difficult, but it is imperative to know all of the technicalities. This book is dedicated to providing you with an awareness of these nuances and an understanding of how to tackle them.",
+        "type": "pdf",
+        "cover": "apressopen/22025.jpg",
+        "tags": [
+          "Mobile Computing",
+          "Android"
+        ],
+        "license": "Creative Commons Attribution 4.0 International License",
+        "url": "https://link.springer.com/content/pdf/10.1007%2F978-1-4302-6131-5.pdf",
+        "pages": "375 Pages",
+        "year": "2013",
+        "size": "14.1 MB"
+    },
+    {
+        "id": 22026,
+        "title": "Sensor Technologies",
+        "author": "McGrath, Michael J., Ni Scanaill, Cliodhna, Nafus, Dawn",
+        "authorUrl": "",
+        "level": "All",
+        "description": "Sensor Technologies: Healthcare, Wellness and Environmental Applications explores the key aspects of sensor technologies, covering wired, wireless, and discrete sensors for the specific application domains of healthcare, wellness and environmental sensing.  It discusses the social, regulatory, and design considerations specific to these domains.",
+        "type": "pdf",
+        "cover": "apressopen/22026.jpg",
+        "tags": [
+          "Microsoft",
+          ".NET"
+        ],
+        "license": "Creative Commons Attribution 4.0 International License",
+        "url": "https://link.springer.com/content/pdf/10.1007%2F978-1-4302-6014-1.pdf",
+        "pages": "321 Pages",
+        "year": "2013",
+        "size": "8.2 MB"
+    },
+    {
+        "id": 22027,
+        "title": "Intel Trusted Execution Technology for Server Platforms",
+        "author": "Futral, William, Greene, James",
+        "authorUrl": "",
+        "level": "All",
+        "description": "Intel® Trusted Execution Technology (Intel TXT) is a new security technology that started appearing on Intel server platforms in 2010. This book explains Intel Trusted Execution Technology for Servers, its purpose, application, advantages, and limitations. This book guides the server administrator / datacenter manager in enabling the technology as well as establishing a launch control policy that he can use to customize the server’s boot process to fit the datacenter’s requirements. This book explains how the OS (typically a Virtual Machine Monitor or Hypervisor) and supporting software can build on the secure facilities afforded by Intel TXT to provide additional security features and functions. It provides examples how the datacenter can create and use trusted pools.",
+        "type": "pdf",
+        "cover": "apressopen/22027.jpg",
+        "tags": [
+          "Security",
+          "Datacenter"
+        ],
+        "license": "Creative Commons Attribution 4.0 International License",
+        "url": "https://link.springer.com/content/pdf/10.1007%2F978-1-4302-6149-0.pdf",
+        "pages": "149 Pages",
+        "year": "2013",
+        "size": "4.9 MB"
+    },
+    {
+        "id": 22028,
+        "title": "TouchDevelop: Programming on the Go",
+        "author": "Horspool, Nigel, Tillmann, Nikolai, Bishop, Judith",
+        "authorUrl": "",
+        "level": "All",
+        "description": "This book is written from the perspective of a person developing their code using a web browser. The TouchDevelop Web App runs in many modern browsers on many different devices including smartphones and tablets, Macs, PC. All screenshots and navigation instructions refer to the TouchDevelop Web App running in a browser. For Windows Phone, there is a dedicated TouchDevelop app in the Windows Phone Store which gives access to many more sensors and data sources. Starting with the TouchDevelop app v3.0 for Windows Phone 8, the phone app will share the same look and navigation structure and all features of the Web App.",
+        "type": "pdf",
+        "cover": "apressopen/22028.jpg",
+        "tags": [
+          "Programming",
+          "Web Development"
+        ],
+        "license": "Creative Commons Attribution 4.0 International License",
+        "url": "https://link.springer.com/content/pdf/10.1007%2F978-1-4302-6137-7.pdf",
+        "pages": "263 Pages",
+        "year": "2013",
+        "size": "11.9 MB"
+    },
+    {
+        "id": 22029,
+        "title": "Managing Risk and Information Security",
+        "author": "Harkins, Malcolm",
+        "authorUrl": "",
+        "level": "All",
+        "description": "Managing Risk and Information Security: Protect to Enable, an ApressOpen title, describes the changing risk environment and why a fresh approach to information security is needed. Because almost every aspect of an enterprise is now dependent on technology, the focus of IT security must shift from locking down assets to enabling the business while managing and surviving risk. This compact book discusses business risk from a broader perspective, including privacy and regulatory considerations. It describes the increasing number of threats and vulnerabilities, but also offers strategies for developing solutions. These include discussions of how enterprises can take advantage of new and emerging technologies—such as social media and the huge proliferation of Internet-enabled devices—while minimizing risk.",
+        "type": "pdf",
+        "cover": "apressopen/22029.jpg",
+        "tags": [
+          "Security"
+        ],
+        "license": "Creative Commons Attribution 4.0 International License",
+        "url": "https://link.springer.com/content/pdf/10.1007%2F978-1-4302-5114-9.pdf",
+        "pages": "145 Pages",
+        "year": "2013",
+        "size": "3.3 MB"
+    }
+]
