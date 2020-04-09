@@ -50,6 +50,19 @@ html {
   -webkit-text-size-adjust: 100%;
   -webkit-tap-highlight-color: transparent;
 }
+@media (min-width: 320px) and (max-width: 480px) {
+  .play-button {
+    width: 44% !important;
+  }
+}
+@media (min-width: 481px) and (max-width: 767px) {
+  .play-button {
+    width: 20% !important;
+  }
+}
+.play-button {
+  width: 17%;
+}
 
 article,
 aside,
