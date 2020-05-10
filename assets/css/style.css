@@ -59,6 +59,9 @@ html {
   .play-button {
     width: 20% !important;
   }
+  .product-image {
+    display: none;
+  }
 }
 .play-button {
   width: 17%;
