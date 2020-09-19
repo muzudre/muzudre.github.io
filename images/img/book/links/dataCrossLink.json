@@ -6,7 +6,7 @@
   "title": "Important of water intake",
   "subtitle": "The human brain is composed of 95% water ...",
   "time": "2 min read",
-  "cover": "",
+  "cover": "true",
   "paragraph": "<h1>The human brain is composed of 95% water</h1><br/><p>Blood is 82% water the lings are neraly</p>",
   "url": "www.notebalance.com"
   },
@@ -17,7 +17,7 @@
   "title": "Importance of sleep!",
   "subtitle": "Sleep servers many vital functins ...",
   "time": "2 min read",
-  "cover": "",
+  "cover": "false",
   "paragraph": "<h1>The human brain is composed of 95% water</h1><br/><p>Blood is 82% water the lings are neraly</p>",
   "url": "www.notebalance.com"
   }
