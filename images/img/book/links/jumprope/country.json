@@ -1,1 +1,8 @@
-['Malaysia', 'Tajikistan']
+[
+{
+  "country": "Malaysia",
+},
+{
+  "country": "Germany",
+},
+]
