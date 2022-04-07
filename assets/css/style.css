@@ -16874,3 +16874,7 @@ html:not([dir="rtl"]) .noUi-horizontal .noUi-handle {
   border-radius: 15px;
   overflow: hidden;
 }
+.mdi-36px {
+  font-size: 39px;
+  margin-right: 10px
+}
