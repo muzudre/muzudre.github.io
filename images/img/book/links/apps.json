@@ -1,18 +1,18 @@
 [
 {
-  "title": "",
-  "subTitle": "",
-  "description": "",
+  "title": "Muslim Zabirov",
+  "subTitle": "More by Muslim Zabirov",
+  "description": "Muslim is a Developer and has some free apps he maintains in his spare time.",
   "about": "",
-  "image": "",
+  "image": "https://muzudre.github.io/images/logo/main.png",
   "link": "",
-  "logo": "https://cdn.shopify.com/s/files/1/0501/3277/9198/files/TORROBAND_LOGO_600x200.png",
+  "logo": "",
   "items": [
     {
       "id": 1,
       "title": "Street Workout & Calisthenics App",
       "description": "This App helps you to achieve impressive street workout skills and functional muscles. Learn impressive Street Workout & Calisthenics Skills with step by step progressions from beginner to hard levels. As if that were not enough, you can enjoy the bonus section 3+ independent routines available for now. Workout at home, park or at the gym, with your routines in your pocket always offline. Stay with our workouts and notice a change in just a few weeks.",
-      "logo": "https://muzudre.github.io//images/apps/5.png",
+      "logo": "https://muzudre.github.io/images/logo/logo8.png",
       "android": "https://play.google.com/store/apps/details?id=com.muzudre.Workout",
       "ios": "https://apps.apple.com/us/app/street-workout-calisthenics/id1506553964",
       "webpage": "https://muzudre.github.io/street/workout/"
@@ -21,16 +21,16 @@
       "id": 2,
       "title": "Jump Rope Training App",
       "description": "Jumping rope is also a great way to fit in an effective cardio session when you're on the go—just toss your jump rope in your carry-on! You'll probably feel completely energized after jumping rope too. Try adding our workout routines to your existing strength plan, or do it alone as a cardio workout. Add a jump rope to high-intensity interval training (HIIT), and you're in for a hell of a workout.",
-      "logo": "https://muzudre.github.io//images/apps/7.png",
+      "logo": "https://muzudre.github.io/images/logo/logo1.png",
       "android": "https://play.google.com/store/apps/details?id=com.muzudre.jump.rope.training.jumprope",
       "ios": "https://apps.apple.com/us/app/jump-rope-training-app/id1506548438",
       "webpage": "https://muzudre.github.io/jumprope/"
     },
     {
       "id": 3,
-      "title": "Your Daily Cross Training Workouts",
+      "title": "Wodzzly - Crossfit WOD",
       "description": "This app is the perfect timer for your workouts. It offers a clear visibility on the clock from far away as well as a simple and beautiful design. Trainings types include Wodzzly app, HIIT and Interval Workouts, such as: EMOM - The next Crossfit Training we support is Every minute on the minute.",
-      "logo": "https://muzudre.github.io//images/apps/4.png",
+      "logo": "https://muzudre.github.io/images/logo/logo2.png",
       "android": "https://play.google.com/store/apps/details?id=com.zabirov.crossfit.wod.training",
       "ios": "https://apps.apple.com/be/app/wodzzly-functional-training/id1537290211",
       "webpage": "https://muzudre.github.io/wodzzly/"
@@ -39,7 +39,7 @@
       "id": 4,
       "title": "Hula Hoop Training App",
       "description": "Hula hooping is one of the most popular forms of exercise. Not only is it fun, but it’s incredibly easy. Infer simple steps, anyone can get up and give their hula hoop a spin. 1. Stand with your feet shoulder-width apart. Hold the hula hoop at waist height with both hand sand then give it a good spin. 2. Shift your weight between your front and back foot to keep the hula hoop spinning and maintain momentum. 3. Don’t worry if you struggle to maintain momentum and the hula hoop falls. The more you practice, the more your technique will improve.",
-      "logo": "https://muzudre.github.io/images/apps/6.png",
+     "logo": "https://muzudre.github.io/images/logo/logo3.png",
       "android": "https://play.google.com/store/apps/details?id=com.muzudre.hula.hoop.training.app",
       "ios": "https://apps.apple.com/us/app/hula-hoop-training-app/id1565578122",
       "webpage": "https://muzudre.github.io/hulahoop/"
@@ -48,7 +48,7 @@
       "id": 5,
       "title": "30 Day Jump Rope Challenge App",
       "description": "30 Day Jump Rope Challenge - Loss Weight Skipping. Jumping rope is also a great way to fit in an effective cardio session when you're on the go—just toss your jump rope in your carry-on! You'll probably feel completely energized after jumping rope too. Try adding our workout routines to your existing strength plan, or do it alone as a cardio workout. Add a jump rope to high-intensity interval training (HIIT), and you're in for a hell of a workout.",
-      "logo": "https://muzudre.github.io/images/apps/3.png",
+      "logo": "https://muzudre.github.io/images/logo/logo7.png",
       "android": "https://play.google.com/store/apps/details?id=com.muzudre.jump.rope.training.challenges.jumprope",
       "ios": "https://apps.apple.com/us/app/30-day-jump-rope-challenge-app/id1582755955",
       "webpage": "https://muzudre.github.io/jumpropechallenge/"
@@ -57,10 +57,28 @@
       "id": 6,
       "title": "Resistance Band Training App",
       "description": "In the world of strength training, resistance bands tend to fly under the radar—especially when compared to heavy hitting equipment like kettlebells and barbells. But what’s not to love about resistance bands? They’re lightweight, versatile, and easy to stow in a gym bag or carry-on, making them an ideal choice for the guy who wants to be able to train anytime, anywhere. You can use them on their own, or add them to more standard exercises to vary up your resistance for a more diverse workout.",
-      "logo": "https://muzudre.github.io/images/apps/1.png",
+      "logo": "https://muzudre.github.io/images/logo/logo5.png",
       "android": "https://play.google.com/store/apps/details?id=com.muzudre.resistance.band.training.challenges.app",
       "ios": "https://apps.apple.com/us/app/resistance-band-training-app/id1590543370",
       "webpage": "https://muzudre.github.io/resistanceband/"
+    },
+    {
+      "id": 7,
+      "title": "Dumbbell Training App",
+      "description": "We provide you 30 day dumbbell workouts program with this best exercise app. All muscle building workouts are designed specially by a professional trainer. This bodybuilding workout app has different full body exercises and each exercise focuses on different muscle group. You can find back exercises, tricep workouts, bicep workouts, chest workout and different exercises for arm muscles, shoulder muscles, leg muscles.",
+      "logo": "https://muzudre.github.io/images/logo/logo6.png",
+      "android": "https://play.google.com/store/apps/details?id=com.muzudre.dumbbell.training.workout.app",
+      "ios": "https://apps.apple.com/us/app/dumbbell-training-app/id1623046323",
+      "webpage": "https://muzudre.github.io/dumbbell/"
+    },
+    {
+      "id": 8,
+      "title": "Kettlebell Training App",
+      "description": "Discover our Kettlebell Workout Challenges to help you build strength, burn fat, and enhance your overall appearance and well-being. To finish our kettlebell challenges, just execute a few fundamental kettlebell movements every day. The best kettlebell workouts that you may perform at home to burn fat were incorporated into our training routines.",
+      "logo": "https://muzudre.github.io/images/logo/logo4.png",
+      "android": "https://play.google.com/store/apps/details?id=com.muzudre.kettlebell.training.workout.app",
+      "ios": "https://apps.apple.com/us/app/kettlebell-training-app/id1639079703",
+      "webpage": "https://muzudre.github.io/kettlebell/"
     }
   ]
 }
